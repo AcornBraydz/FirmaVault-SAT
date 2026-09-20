@@ -1,0 +1,471 @@
+- generic [ref=f1e541]:
+  - complementary "Panel lateral de navegación" [ref=f1e542]:
+    - generic [ref=f1e543]:
+      - generic [ref=f1e544]:
+        - generic [ref=f1e545]:
+          - generic [ref=f1e546]: FV
+          - generic [ref=f1e547]:
+            - generic [ref=f1e548]:
+              - generic [ref=f1e549]: FirmaVault
+              - generic [ref=f1e550]: SAT
+            - paragraph [ref=f1e551]: Portal de Operaciones
+        - button "close" [ref=f1e553] [cursor=pointer]
+      - generic [ref=f1e555]:
+        - generic [ref=f1e556]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=f1e557] [cursor=pointer]:
+            - generic [ref=f1e558]:
+              - generic [ref=f1e559]: cloud_download
+              - generic [ref=f1e561]:
+                - generic [ref=f1e562]: Extracción SAT
+                - generic [ref=f1e563]: Descargas Automáticas
+            - generic [ref=f1e564]:
+              - generic [ref=f1e565]: "3"
+              - generic [ref=f1e566]: expand_more
+          - generic [ref=f1e567]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=f1e568] [cursor=pointer]:
+              - generic [ref=f1e569]:
+                - generic [ref=f1e570]: receipt
+                - generic [ref=f1e572]:
+                  - generic [ref=f1e573]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=f1e575]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=f1e576]:
+                    - generic [ref=f1e577]: XML + PDF
+                    - generic [ref=f1e578]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=f1e579] [cursor=pointer]:
+              - generic [ref=f1e580]:
+                - generic [ref=f1e581]: receipt_long
+                - generic [ref=f1e583]:
+                  - generic [ref=f1e584]: Recibos de Nómina
+                  - paragraph [ref=f1e586]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=f1e587]:
+                    - generic [ref=f1e588]: PDF + XML
+                    - generic [ref=f1e589]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=f1e590] [cursor=pointer]:
+              - generic [ref=f1e591]:
+                - generic [ref=f1e592]: description
+                - generic [ref=f1e594]:
+                  - generic [ref=f1e595]: Documentos Frecuentes
+                  - paragraph [ref=f1e597]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=f1e598]:
+                    - generic [ref=f1e599]: Opinión 32-D
+                    - generic [ref=f1e600]: CSF Actualizada
+                    - generic [ref=f1e601]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 6 expand_more" [ref=f1e603] [cursor=pointer]:
+          - generic [ref=f1e604]:
+            - generic [ref=f1e605]: query_stats
+            - generic [ref=f1e607]:
+              - generic [ref=f1e608]: Papeles de Trabajo
+              - generic [ref=f1e609]: Reportes Contables
+          - generic [ref=f1e610]:
+            - generic [ref=f1e611]: "6"
+            - generic [ref=f1e612]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 3 expand_more" [ref=f1e614] [cursor=pointer]:
+          - generic [ref=f1e615]:
+            - generic [ref=f1e616]: shield
+            - generic [ref=f1e618]:
+              - generic [ref=f1e619]: Auditoría y Riesgo
+              - generic [ref=f1e620]: Auditoría Fiscal
+          - generic [ref=f1e621]:
+            - generic [ref=f1e622]: "3"
+            - generic [ref=f1e623]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=f1e625] [cursor=pointer]:
+      - generic [ref=f1e626]: arrow_back
+      - generic [ref=f1e627]: Volver a Contribuyentes
+  - banner [ref=f1e628]:
+    - generic [ref=f1e630]:
+      - generic [ref=f1e631]:
+        - button "Menú principal" [ref=f1e632] [cursor=pointer]:
+          - generic [ref=f1e633]: menu
+        - navigation "Ruta de navegación" [ref=f1e635]:
+          - button "FirmaVault SAT" [ref=f1e636] [cursor=pointer]:
+            - generic [ref=f1e637]: FirmaVault
+            - generic [ref=f1e638]: SAT
+          - generic [ref=f1e639]: /
+          - button "Portal" [ref=f1e640] [cursor=pointer]
+          - generic [ref=f1e904]: /
+          - generic [ref=f1e905]:
+            - generic [ref=f1e906]: calculate
+            - generic [ref=f1e907]: Análisis de IVA e ISR
+      - generic [ref=f1e641]:
+        - generic [ref=f1e642]:
+          - generic [ref=f1e643]: AC
+          - generic [ref=f1e644]:
+            - generic [ref=f1e645]: ARACELI CENTENO HERNANDEZ
+            - generic [ref=f1e650]:
+              - generic [ref=f1e651]: CEHA7904273AA
+              - generic [ref=f1e652]: Física
+        - button "grid_view Hub" [ref=f1e908] [cursor=pointer]:
+          - generic [ref=f1e655]: grid_view
+          - generic [ref=f1e656]: Hub
+  - main [ref=f1e657]:
+    - generic [ref=f1e909]:
+      - generic [ref=f1e912]:
+        - generic [ref=f1e913]:
+          - generic [ref=f1e914]: calculate
+          - text: 2. Papeles de Trabajo • Papel de Trabajo Maestro
+        - generic [ref=f1e915]: CEHA7904273AA
+      - generic [ref=f1e916]:
+        - heading "Análisis Integral de IVA e ISR" [level=1] [ref=f1e917]
+        - paragraph [ref=f1e918]: Auditoría fiscal automatizada, determinación de pagos provisionales, cruce de IVA por flujo de efectivo, concentrado de retenciones y gráficos interactivos en Excel.
+      - generic [ref=f1e919]:
+        - generic [ref=f1e920]:
+          - generic [ref=f1e921]:
+            - generic [ref=f1e922]: tune
+            - generic [ref=f1e924]:
+              - generic [ref=f1e925]:
+                - 'heading "Paso 1: Configuración y Sincronización Fiscal" [level=3] [ref=f1e926]'
+                - generic [ref=f1e927]: Auditoría Fiscal
+              - paragraph [ref=f1e928]: Configura los parámetros fiscales y presiona "Sincronizar Facturas SAT" para extraer los comprobantes oficiales con la e.firma.
+          - button "upload_file Subir XMLs (.xml / .zip)" [ref=f1e930] [cursor=pointer]:
+            - generic [ref=f1e931]: upload_file
+            - generic [ref=f1e932]: Subir XMLs (.xml / .zip)
+        - generic [ref=f1e933]:
+          - generic [ref=f1e934]:
+            - generic [ref=f1e935]:
+              - generic [ref=f1e936]:
+                - generic [ref=f1e937]: calendar_today
+                - generic [ref=f1e938]: "Ejercicio (Año):"
+              - button "2026 expand_more" [ref=f1e939] [cursor=pointer]:
+                - generic [ref=f1e940]: "2026"
+                - generic [ref=f1e941]: expand_more
+            - generic [ref=f1e942]:
+              - generic [ref=f1e943]:
+                - generic [ref=f1e944]: pin_drop
+                - generic [ref=f1e945]: "Zona Fiscal:"
+              - button "Zona General (16% CDMX / Edoméx / Resto País) expand_more" [ref=f1e946] [cursor=pointer]:
+                - generic [ref=f1e947]: Zona General (16% CDMX / Edoméx / Resto País)
+                - generic [ref=f1e948]: expand_more
+            - generic [ref=f1e949]:
+              - generic [ref=f1e950]:
+                - generic [ref=f1e951]: date_range
+                - generic [ref=f1e952]: "Periodo:"
+              - button "Todo el Año (Consolidado) expand_more" [ref=f1e953] [cursor=pointer]:
+                - generic [ref=f1e954]: Todo el Año (Consolidado)
+                - generic [ref=f1e955]: expand_more
+            - generic [ref=f1e956]:
+              - generic [ref=f1e957]:
+                - generic [ref=f1e958]:
+                  - generic [ref=f1e959]: account_balance
+                  - generic [ref=f1e960]: "Régimen Fiscal SAT:"
+                - generic [ref=f1e961]: Persona Física
+              - button "612 Personas Físicas con Actividades Empresariales y Profesionales expand_more" [ref=f1e962] [cursor=pointer]:
+                - generic [ref=f1e963]:
+                  - generic [ref=f1e964]: "612"
+                  - generic [ref=f1e965]: Personas Físicas con Actividades Empresariales y Profesionales
+                - generic [ref=f1e966]: expand_more
+          - generic [ref=f1e967]:
+            - generic [ref=f1e968]:
+              - generic [ref=f1e969]: cloud_sync
+              - generic [ref=f1e971]:
+                - generic [ref=f1e972]:
+                  - generic [ref=f1e973]: Conexión Oficial SAT
+                  - generic [ref=f1e974]:
+                    - generic [ref=f1e975]: check_circle
+                    - text: Sincronización con el SAT completada con éxito
+                - paragraph [ref=f1e976]: Comprobantes oficiales recién sincronizados con éxito. Ya puedes iniciar la auditoría en el Tablero Ejecutivo.
+            - button "bolt Sincronizar Facturas SAT" [ref=f1e978] [cursor=pointer]:
+              - generic [ref=f1e979]: bolt
+              - generic [ref=f1e980]: Sincronizar Facturas SAT
+      - generic [ref=f1e981]:
+        - generic [ref=f1e982]:
+          - generic [ref=f1e983]:
+            - generic [ref=f1e984]:
+              - generic [ref=f1e985]: verified
+              - generic [ref=f1e987]:
+                - generic [ref=f1e988]: DICTAMEN FISCAL EN TIEMPO REAL
+                - heading "Tablero Ejecutivo de Impuestos (IVA e ISR)" [level=2] [ref=f1e991]
+            - paragraph [ref=f1e992]:
+              - generic [ref=f1e993]: "Periodo:"
+              - strong [ref=f1e994]: Ejercicio 2026 (Consolidado Anual)
+              - generic [ref=f1e995]: •
+              - generic [ref=f1e996]: "Contribuyente:"
+              - strong [ref=f1e997]: CEHA7904273AA
+              - generic [ref=f1e998]: •
+              - generic [ref=f1e999]: "Régimen:"
+              - generic [ref=f1e1000]:
+                - generic [ref=f1e1001]: "612"
+                - generic [ref=f1e1002]: 612 · Act. Empresarial y Profesional
+                - generic [ref=f1e1003]: PF
+              - generic [ref=f1e1004]: •
+              - generic [ref=f1e1005]: "Zona Fiscal:"
+              - generic [ref=f1e1006]: Tasa General (16%)
+          - generic [ref=f1e1007]:
+            - button "info" [ref=f1e1008] [cursor=pointer]
+            - button "play_circle Iniciar Auditoría" [ref=f1e1010] [cursor=pointer]:
+              - generic [ref=f1e1011]: play_circle
+              - generic [ref=f1e1012]: Iniciar Auditoría
+        - generic [ref=f1e1013]:
+          - generic [ref=f1e1014]:
+            - generic [ref=f1e1016]:
+              - generic [ref=f1e1017]: Ingresos Facturados
+              - generic [ref=f1e1018]: trending_up
+            - generic [ref=f1e1020]:
+              - generic [ref=f1e1021]: $64,034.55
+              - generic [ref=f1e1022]:
+                - generic [ref=f1e1023]: Subtotal CFDI emitidos
+                - text: (base gravable)
+          - generic [ref=f1e1024]:
+            - generic [ref=f1e1026]:
+              - generic [ref=f1e1027]: Gastos Deducibles
+              - generic [ref=f1e1028]: receipt_long
+            - generic [ref=f1e1030]:
+              - generic [ref=f1e1031]: $144,931.35
+              - generic [ref=f1e1032]:
+                - generic [ref=f1e1033]: Compras y gastos recibidos
+                - generic [ref=f1e1034]: deducibles
+          - generic [ref=f1e1035]:
+            - generic [ref=f1e1037]:
+              - generic [ref=f1e1038]: Saldo a Favor de IVA
+              - generic [ref=f1e1039]: savings
+            - generic [ref=f1e1041]:
+              - generic [ref=f1e1042]: $20,027.65
+              - generic [ref=f1e1043]: Saldo acreditable para meses futuros
+          - generic [ref=f1e1045]:
+            - generic [ref=f1e1047]:
+              - generic [ref=f1e1048]: Utilidad Fiscal ISR
+              - generic [ref=f1e1049]: "-126.3% Margen"
+            - generic [ref=f1e1050]:
+              - generic [ref=f1e1051]: $-80,896.80
+              - generic [ref=f1e1052]:
+                - generic [ref=f1e1053]: Base preliminar
+                - text: para pagos provisionales
+        - generic [ref=f1e1054]:
+          - generic [ref=f1e1055]:
+            - generic [ref=f1e1056]:
+              - generic [ref=f1e1057]:
+                - heading "Flujo Mensual de IVA (Cobrado vs Pagado)" [level=3] [ref=f1e1060]
+                - paragraph [ref=f1e1061]: Cruce directo de IVA Trasladado (ventas) contra IVA Acreditable (compras)
+              - generic [ref=f1e1062]:
+                - generic [ref=f1e1063]: Trasladado
+                - generic [ref=f1e1065]: Acreditable
+            - generic [ref=f1e1067]:
+              - generic [ref=f1e1068]:
+                - generic [ref=f1e1069] [cursor=pointer]
+                - generic [ref=f1e1073] [cursor=pointer]
+                - generic [ref=f1e1076] [cursor=pointer]
+                - generic [ref=f1e1080] [cursor=pointer]
+                - generic [ref=f1e1084] [cursor=pointer]
+                - generic [ref=f1e1087] [cursor=pointer]
+                - generic [ref=f1e1091] [cursor=pointer]
+                - generic [ref=f1e1095] [cursor=pointer]
+                - generic [ref=f1e1099] [cursor=pointer]
+                - generic [ref=f1e1102] [cursor=pointer]
+                - generic [ref=f1e1104] [cursor=pointer]
+                - generic [ref=f1e1106] [cursor=pointer]
+              - generic [ref=f1e1108]:
+                - generic [ref=f1e1109]: Ene
+                - generic [ref=f1e1110]: Feb
+                - generic [ref=f1e1111]: Mar
+                - generic [ref=f1e1112]: Abr
+                - generic [ref=f1e1113]: May
+                - generic [ref=f1e1114]: Jun
+                - generic [ref=f1e1115]: Jul
+                - generic [ref=f1e1116]: Ago
+                - generic [ref=f1e1117]: Sep
+                - generic [ref=f1e1118]: Oct
+                - generic [ref=f1e1119]: Nov
+                - generic [ref=f1e1120]: Dic
+          - generic [ref=f1e1121]:
+            - generic [ref=f1e1122]:
+              - generic [ref=f1e1123]:
+                - heading "Volumen Comercial (Ingresos vs Gastos)" [level=3] [ref=f1e1126]
+                - paragraph [ref=f1e1127]: Comportamiento de facturación y nivel de deducciones autorizadas
+              - generic [ref=f1e1128]:
+                - generic [ref=f1e1129]: Ingresos
+                - generic [ref=f1e1131]: Gastos
+            - generic [ref=f1e1133]:
+              - generic [ref=f1e1134]:
+                - generic [ref=f1e1135] [cursor=pointer]
+                - generic [ref=f1e1139] [cursor=pointer]
+                - generic [ref=f1e1142] [cursor=pointer]
+                - generic [ref=f1e1146] [cursor=pointer]
+                - generic [ref=f1e1150] [cursor=pointer]
+                - generic [ref=f1e1153] [cursor=pointer]
+                - generic [ref=f1e1157] [cursor=pointer]
+                - generic [ref=f1e1161] [cursor=pointer]
+                - generic [ref=f1e1165] [cursor=pointer]
+                - generic [ref=f1e1168] [cursor=pointer]
+                - generic [ref=f1e1170] [cursor=pointer]
+                - generic [ref=f1e1172] [cursor=pointer]
+              - generic [ref=f1e1174]:
+                - generic [ref=f1e1175]: Ene
+                - generic [ref=f1e1176]: Feb
+                - generic [ref=f1e1177]: Mar
+                - generic [ref=f1e1178]: Abr
+                - generic [ref=f1e1179]: May
+                - generic [ref=f1e1180]: Jun
+                - generic [ref=f1e1181]: Jul
+                - generic [ref=f1e1182]: Ago
+                - generic [ref=f1e1183]: Sep
+                - generic [ref=f1e1184]: Oct
+                - generic [ref=f1e1185]: Nov
+                - generic [ref=f1e1186]: Dic
+        - generic [ref=f1e1187]:
+          - generic [ref=f1e1188]:
+            - button "1. Resumen Mensual Flujo de Efectivo" [ref=f1e1189] [cursor=pointer]
+            - button "2. Determinación Detallada de IVA" [ref=f1e1190] [cursor=pointer]
+            - button "3. Concentrado de Retenciones (0)" [ref=f1e1191] [cursor=pointer]
+            - button "4. Auditoría de Gastos y Decisiones 341" [ref=f1e1192] [cursor=pointer]:
+              - generic [ref=f1e1193]: 4. Auditoría de Gastos y Decisiones
+              - generic [ref=f1e1194]: "341"
+          - generic [ref=f1e1195]: Mostrando datos auditados para Ejercicio 2026 (Consolidado Anual)
+        - table [ref=f1e1198]:
+          - rowgroup [ref=f1e1199]:
+            - row [ref=f1e1200]:
+              - columnheader "Mes" [ref=f1e1201]
+              - columnheader "Subtotal Ingresos" [ref=f1e1202]
+              - columnheader "IVA Trasladado" [ref=f1e1203]
+              - columnheader "Subtotal Gastos" [ref=f1e1204]
+              - columnheader "IVA Acreditable" [ref=f1e1205]
+              - columnheader "Ret. IVA Sufrida" [ref=f1e1206]
+              - columnheader "Diferencia IVA" [ref=f1e1207]
+              - columnheader "Utilidad Fiscal ISR" [ref=f1e1208]
+          - rowgroup [ref=f1e1209]:
+            - row [ref=f1e1210]:
+              - cell "Enero" [ref=f1e1211]
+              - cell "$1,767.25" [ref=f1e1212]
+              - cell "$282.76" [ref=f1e1213]
+              - cell "$22,789.21" [ref=f1e1214]
+              - cell "$5,123.48" [ref=f1e1215]
+              - cell "$0.00" [ref=f1e1216]
+              - 'cell "A Favor: $4,840.72" [ref=f1e1217]'
+              - cell "$-21,021.96" [ref=f1e1219]
+            - row [ref=f1e1220]:
+              - cell "Febrero" [ref=f1e1221]
+              - cell "$0.00" [ref=f1e1222]
+              - cell "$0.00" [ref=f1e1223]
+              - cell "$8,914.87" [ref=f1e1224]
+              - cell "$1,365.49" [ref=f1e1225]
+              - cell "$0.00" [ref=f1e1226]
+              - 'cell "A Favor: $1,365.49" [ref=f1e1227]'
+              - cell "$-8,914.87" [ref=f1e1229]
+            - row [ref=f1e1230]:
+              - cell "Marzo" [ref=f1e1231]
+              - cell "$7,387.95" [ref=f1e1232]
+              - cell "$1,182.07" [ref=f1e1233]
+              - cell "$8,981.92" [ref=f1e1234]
+              - cell "$1,778.17" [ref=f1e1235]
+              - cell "$0.00" [ref=f1e1236]
+              - 'cell "A Favor: $596.10" [ref=f1e1237]'
+              - cell "$-1,593.97" [ref=f1e1239]
+            - row [ref=f1e1240]:
+              - cell "Abril" [ref=f1e1241]
+              - cell "$4,008.64" [ref=f1e1242]
+              - cell "$641.39" [ref=f1e1243]
+              - cell "$28,895.02" [ref=f1e1244]
+              - cell "$5,286.63" [ref=f1e1245]
+              - cell "$0.00" [ref=f1e1246]
+              - 'cell "A Favor: $4,645.24" [ref=f1e1247]'
+              - cell "$-24,886.38" [ref=f1e1249]
+            - row [ref=f1e1250]:
+              - cell "Mayo" [ref=f1e1251]
+              - cell "$0.00" [ref=f1e1252]
+              - cell "$0.00" [ref=f1e1253]
+              - cell "$30,878.06" [ref=f1e1254]
+              - cell "$7,583.94" [ref=f1e1255]
+              - cell "$0.00" [ref=f1e1256]
+              - 'cell "A Favor: $7,583.94" [ref=f1e1257]'
+              - cell "$-30,878.06" [ref=f1e1259]
+            - row [ref=f1e1260]:
+              - cell "Junio" [ref=f1e1261]
+              - cell "$5,474.14" [ref=f1e1262]
+              - cell "$875.87" [ref=f1e1263]
+              - cell "$12,206.18" [ref=f1e1264]
+              - cell "$2,453.24" [ref=f1e1265]
+              - cell "$0.00" [ref=f1e1266]
+              - 'cell "A Favor: $1,577.37" [ref=f1e1267]'
+              - cell "$-6,732.04" [ref=f1e1269]
+            - row [ref=f1e1270]:
+              - cell "Julio" [ref=f1e1271]
+              - cell "$2,198.28" [ref=f1e1272]
+              - cell "$351.73" [ref=f1e1273]
+              - cell "$12,623.44" [ref=f1e1274]
+              - cell "$2,074.63" [ref=f1e1275]
+              - cell "$0.00" [ref=f1e1276]
+              - 'cell "A Favor: $1,722.90" [ref=f1e1277]'
+              - cell "$-10,425.16" [ref=f1e1279]
+            - row [ref=f1e1280]:
+              - cell "Agosto" [ref=f1e1281]
+              - cell "$43,198.29" [ref=f1e1282]
+              - cell "$6,911.73" [ref=f1e1283]
+              - cell "$14,773.34" [ref=f1e1284]
+              - cell "$3,199.50" [ref=f1e1285]
+              - cell "$0.00" [ref=f1e1286]
+              - 'cell "A Cargo: $3,712.23" [ref=f1e1287]'
+              - cell "$28,424.95" [ref=f1e1289]
+            - row [ref=f1e1290]:
+              - cell "Septiembre" [ref=f1e1291]
+              - cell "$0.00" [ref=f1e1292]
+              - cell "$0.00" [ref=f1e1293]
+              - cell "$4,869.31" [ref=f1e1294]
+              - cell "$1,408.12" [ref=f1e1295]
+              - cell "$0.00" [ref=f1e1296]
+              - 'cell "A Favor: $1,408.12" [ref=f1e1297]'
+              - cell "$-4,869.31" [ref=f1e1299]
+            - row [ref=f1e1300]:
+              - cell "Octubre" [ref=f1e1301]
+              - cell "$0.00" [ref=f1e1302]
+              - cell "$0.00" [ref=f1e1303]
+              - cell "$0.00" [ref=f1e1304]
+              - cell "$0.00" [ref=f1e1305]
+              - cell "$0.00" [ref=f1e1306]
+              - cell "$0.00" [ref=f1e1307]
+              - cell "$0.00" [ref=f1e1309]
+            - row [ref=f1e1310]:
+              - cell "Noviembre" [ref=f1e1311]
+              - cell "$0.00" [ref=f1e1312]
+              - cell "$0.00" [ref=f1e1313]
+              - cell "$0.00" [ref=f1e1314]
+              - cell "$0.00" [ref=f1e1315]
+              - cell "$0.00" [ref=f1e1316]
+              - cell "$0.00" [ref=f1e1317]
+              - cell "$0.00" [ref=f1e1319]
+            - row [ref=f1e1320]:
+              - cell "Diciembre" [ref=f1e1321]
+              - cell "$0.00" [ref=f1e1322]
+              - cell "$0.00" [ref=f1e1323]
+              - cell "$0.00" [ref=f1e1324]
+              - cell "$0.00" [ref=f1e1325]
+              - cell "$0.00" [ref=f1e1326]
+              - cell "$0.00" [ref=f1e1327]
+              - cell "$0.00" [ref=f1e1329]
+            - row [ref=f1e1330]:
+              - cell "TOTAL ANUAL" [ref=f1e1331]
+              - cell "$64,034.55" [ref=f1e1332]
+              - cell "$10,245.55" [ref=f1e1333]
+              - cell "$144,931.35" [ref=f1e1334]
+              - cell "$30,273.20" [ref=f1e1335]
+              - cell "$0.00" [ref=f1e1336]
+              - 'cell "A Favor: $20,027.65" [ref=f1e1337]'
+              - cell "$-80,896.80" [ref=f1e1339]
+        - generic [ref=f1e1340]:
+          - generic [ref=f1e1341]:
+            - generic [ref=f1e1342]:
+              - generic [ref=f1e1343]: gavel
+              - generic [ref=f1e1344]: Cédula de Dictamen Contable y Conclusiones Fiscales
+            - generic [ref=f1e1345]: Normas de Información Financiera (NIF D-4 y NIF A-2)
+          - generic [ref=f1e1346]:
+            - generic [ref=f1e1347]:
+              - generic [ref=f1e1348]: 1. Estatus Definitivo de IVA
+              - generic [ref=f1e1349]: Saldo a Favor Sujeto a Acreditamiento
+              - generic [ref=f1e1350]: $20,027.65
+              - generic [ref=f1e1351]: Conforme al Art. 5 LIVA (Flujo Efectivo)
+            - generic [ref=f1e1352]:
+              - generic [ref=f1e1353]: 2. Utilidad Fiscal Flujo (Art. 100-110)
+              - generic [ref=f1e1354]: "Base Gravable: $-80,896.80"
+              - generic [ref=f1e1355]: "Margen Utilidad: -126.3% | Cobrado menos Pagado"
+              - generic [ref=f1e1356]: Arts. 100 a 110 LISR (Act. Empresarial y Profesional)
+            - generic [ref=f1e1357]:
+              - generic [ref=f1e1358]: 3. Retenciones Sufridas Acreditables
+              - generic [ref=f1e1359]: "Total Acreditable: $0.00"
+              - generic [ref=f1e1360]: "ISR: $0.00 | IVA: $0.00"
+              - generic [ref=f1e1361]: Art. 1-A LIVA y Art. 113-J LISR
+        - generic [ref=f1e1362]:
+          - generic [ref=f1e1363]:
+            - generic [ref=f1e1364]: table_chart
+            - generic [ref=f1e1366]:
+              - heading "Papel de Trabajo Maestro de IVA e ISR" [level=4] [ref=f1e1368]
+              - paragraph [ref=f1e1369]: Analisis_Integral_IVA_e_ISR_CEHA7904273AA_2026_Anual.xlsx
+          - button "download Descargar Excel Maestro (.xlsx)" [ref=f1e1371] [cursor=pointer]:
+            - generic [ref=f1e1372]: download
+            - generic [ref=f1e1373]: Descargar Excel Maestro (.xlsx)

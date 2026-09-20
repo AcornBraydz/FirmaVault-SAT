@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+CREDENCIALES.txt
+
+# Database files
+prisma/dev.db
+prisma/dev.db-journal
+
+# Temporary dev files
+temp_*.jsx
+temp_*.js
+stitch.html
+convert.cjs
+refactor_app.cjs
+
+# Python artifacts
+__pycache__/
+*.pyc
+tools/nominas/debug_*
+tools/nominas/test_*
+tools/nominas/*.txt
+tools/nominas/*.png
+tools/nominas/MERG*/
+tools/nominas/PACG*/
+tools/facturas/__pycache__/
+scratch/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

@@ -1,0 +1,822 @@
+- generic [ref=f1e530]:
+  - complementary "Panel lateral de navegación" [ref=f1e531]:
+    - generic [ref=f1e532]:
+      - generic [ref=f1e533]:
+        - generic [ref=f1e534]:
+          - generic [ref=f1e535]: FV
+          - generic [ref=f1e536]:
+            - generic [ref=f1e537]:
+              - generic [ref=f1e538]: FirmaVault
+              - generic [ref=f1e539]: SAT
+            - paragraph [ref=f1e540]: Portal de Operaciones
+        - button "close" [ref=f1e541] [cursor=pointer]
+      - generic [ref=f1e543]:
+        - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [ref=f1e545] [cursor=pointer]:
+          - generic [ref=f1e546]:
+            - generic [ref=f1e547]: cloud_download
+            - generic [ref=f1e549]:
+              - generic [ref=f1e550]: Extracción SAT
+              - generic [ref=f1e551]: Descargas Automáticas
+          - generic [ref=f1e552]:
+            - generic [ref=f1e553]: "3"
+            - generic [ref=f1e554]: expand_more
+        - button "query_stats Papeles de Trabajo Reportes Contables 4 expand_more" [ref=f1e591] [cursor=pointer]:
+          - generic [ref=f1e592]:
+            - generic [ref=f1e593]: query_stats
+            - generic [ref=f1e595]:
+              - generic [ref=f1e596]: Papeles de Trabajo
+              - generic [ref=f1e597]: Reportes Contables
+          - generic [ref=f1e598]:
+            - generic [ref=f1e599]: "4"
+            - generic [ref=f1e600]: expand_more
+        - generic [ref=f1e601]:
+          - button "shield Auditoría y Riesgo Auditoría Fiscal 2 expand_more" [expanded] [ref=f1e602] [cursor=pointer]:
+            - generic [ref=f1e603]:
+              - generic [ref=f1e604]: shield
+              - generic [ref=f1e606]:
+                - generic [ref=f1e607]: Auditoría y Riesgo
+                - generic [ref=f1e608]: Auditoría Fiscal
+            - generic [ref=f1e609]:
+              - generic [ref=f1e610]: "2"
+              - generic [ref=f1e611]: expand_more
+          - generic [ref=f1e2000]:
+            - button "fact_check Validador de Cancelaciones Cotejo contra Web Service del SAT para detectar si proveedores cancelaron facturas a escondidas. Web Service SAT Detección Silenciosa Nuevo" [ref=f1e2001] [cursor=pointer]:
+              - generic [ref=f1e2002]:
+                - generic [ref=f1e2003]: fact_check
+                - generic [ref=f1e2005]:
+                  - generic [ref=f1e2006]: Validador de Cancelaciones
+                  - paragraph [ref=f1e2008]: Cotejo contra Web Service del SAT para detectar si proveedores cancelaron facturas a escondidas.
+                  - generic [ref=f1e2009]:
+                    - generic [ref=f1e2010]: Web Service SAT
+                    - generic [ref=f1e2011]: Detección Silenciosa
+                    - generic [ref=f1e2012]: Nuevo
+            - button "warning_amber Rastreador de Listas Negras (EFOS) Cruce automático de compras y gastos contra el listado del Artículo 69-B del SAT (Empresas Fantasma). Art. 69-B SAT Blindaje Deducción Nuevo" [ref=f1e2013] [cursor=pointer]:
+              - generic [ref=f1e2014]:
+                - generic [ref=f1e2015]: warning_amber
+                - generic [ref=f1e2017]:
+                  - generic [ref=f1e2018]: Rastreador de Listas Negras (EFOS)
+                  - paragraph [ref=f1e2020]: Cruce automático de compras y gastos contra el listado del Artículo 69-B del SAT (Empresas Fantasma).
+                  - generic [ref=f1e2021]:
+                    - generic [ref=f1e2022]: Art. 69-B SAT
+                    - generic [ref=f1e2023]: Blindaje Deducción
+                    - generic [ref=f1e2024]: Nuevo
+    - button "arrow_back Volver a Contribuyentes" [ref=f1e613] [cursor=pointer]:
+      - generic [ref=f1e614]: arrow_back
+      - generic [ref=f1e615]: Volver a Contribuyentes
+  - banner [ref=f1e616]:
+    - generic [ref=f1e618]:
+      - generic [ref=f1e619]:
+        - button "Menú principal" [ref=f1e620] [cursor=pointer]:
+          - generic [ref=f1e621]: menu
+        - generic [ref=f1e623]:
+          - generic [ref=f1e624]:
+            - generic [ref=f1e625]: FirmaVault
+            - generic [ref=f1e626]: SAT
+          - generic [ref=f1e627]: /
+          - generic [ref=f1e628]:
+            - generic [ref=f1e629]: Auditoría y Riesgo
+            - generic [ref=f1e630]: •
+            - generic [ref=f1e631]: Validador de Cancelaciones
+      - generic [ref=f1e632]:
+        - generic [ref=f1e633]:
+          - generic [ref=f1e634]: schedule
+          - generic [ref=f1e635]: vie, 11 de sep de 2026
+          - generic [ref=f1e636]: •
+          - generic [ref=f1e637]: 12:51:18 a.m.
+        - generic [ref=f1e638]:
+          - generic [ref=f1e639]: AN
+          - generic [ref=f1e640]:
+            - generic [ref=f1e641]: AMERICA NOLASCO PALACIOS
+            - generic [ref=f1e646]:
+              - generic [ref=f1e647]: NOPA890313A48
+              - generic [ref=f1e648]: Persona Física
+        - button "arrow_back Volver" [ref=f1e650] [cursor=pointer]:
+          - generic [ref=f1e651]: arrow_back
+          - generic [ref=f1e652]: Volver
+  - main [ref=f1e653]:
+    - generic [ref=f1e2026]:
+      - generic [ref=f1e2029]:
+        - generic [ref=f1e2030]:
+          - generic [ref=f1e2031]: fact_check
+          - text: 3. Auditoría y Riesgo • Auditoría Fiscal
+        - generic [ref=f1e2032]: NOPA890313A48
+      - generic [ref=f1e2033]:
+        - heading "Validador de Cancelaciones SAT" [level=1] [ref=f1e2034]
+        - paragraph [ref=f1e2035]: Consulta directa contra el Web Service del SAT para verificar si proveedores cancelaron facturas silenciosamente.
+      - generic [ref=f1e2036]:
+        - generic [ref=f1e2037]:
+          - generic [ref=f1e2038]: tune
+          - generic [ref=f1e2039]:
+            - heading "Parámetros de Ejecución" [level=3] [ref=f1e2040]
+            - paragraph [ref=f1e2041]: "Contribuyente activo: AMERICA NOLASCO PALACIOS"
+        - generic [ref=f1e2042]:
+          - button "upload_file Subir XMLs (.xml / .zip)" [ref=f1e2043] [cursor=pointer]:
+            - generic [ref=f1e2044]: upload_file
+            - generic [ref=f1e2045]: Subir XMLs (.xml / .zip)
+          - generic [ref=f1e2046]:
+            - generic [ref=f1e2047]: "Ejercicio:"
+            - combobox [ref=f1e2048] [cursor=pointer]:
+              - option "Todos los Años (Consolidado)"
+              - option "2026" [selected]
+              - option "2025"
+              - option "2024"
+              - option "2023"
+              - option "2022"
+          - generic [ref=f1e2049]:
+            - generic [ref=f1e2050]: "Periodo:"
+            - combobox [ref=f1e2051] [cursor=pointer]:
+              - option "Todo el Año (Consolidado)" [selected]
+              - option "Enero"
+              - option "Febrero"
+              - option "Marzo"
+              - option "Abril"
+              - option "Mayo"
+              - option "Junio"
+              - option "Julio"
+              - option "Agosto"
+              - option "Septiembre"
+              - option "Octubre"
+              - option "Noviembre"
+              - option "Diciembre"
+          - button "play_circle Descargar Dictamen de Cancelaciones (.xlsx)" [ref=f1e2052] [cursor=pointer]:
+            - generic [ref=f1e2053]: play_circle
+            - generic [ref=f1e2054]: Descargar Dictamen de Cancelaciones (.xlsx)
+      - generic [ref=f1e2056]:
+        - generic [ref=f1e2057]:
+          - generic [ref=f1e2058]: fact_check
+          - generic [ref=f1e2060]: Libro Excel (.xlsx)
+        - generic [ref=f1e2061]:
+          - heading "Dictamen de Auditoría de Cancelaciones (.xlsx)" [level=3] [ref=f1e2062]
+          - paragraph [ref=f1e2063]: Libro Excel con matriz de riesgo, cédula de cancelaciones silenciosas, detalle en Buzón Tributario y dictamen formal.
+        - generic [ref=f1e2064]:
+          - generic [ref=f1e2065]: Web Service Oficial SAT
+          - button "download Descargar" [ref=f1e2067] [cursor=pointer]:
+            - generic [ref=f1e2068]: download
+            - generic [ref=f1e2069]: Descargar
+      - generic [ref=f1e2070]:
+        - generic [ref=f1e2072]:
+          - generic [ref=f1e2073]:
+            - generic [ref=f1e2074]: Art. 29-A CFF • Web Service Oficial SAT en Tiempo Real
+            - heading "fact_check Validador de Cancelaciones SAT (Auditoría de Estatus CFDI)" [level=2] [ref=f1e2076]:
+              - generic [ref=f1e2077]: fact_check
+              - text: Validador de Cancelaciones SAT (Auditoría de Estatus CFDI)
+            - paragraph [ref=f1e2078]: Cotejo directo contra el Web Service del SAT para detectar facturas canceladas silenciosamente por proveedores, monitorear solicitudes activas en Buzón Tributario y proteger la deducibilidad de tus gastos.
+            - generic [ref=f1e2079]:
+              - generic [ref=f1e2080]: schedule
+              - text: "Última auditoría:"
+              - strong [ref=f1e2081]: 2026-09-11 00:50:47
+          - generic [ref=f1e2082]:
+            - button "wifi_tethering Verificar SAT en Tiempo Real" [ref=f1e2083] [cursor=pointer]:
+              - generic [ref=f1e2084]: wifi_tethering
+              - generic [ref=f1e2085]: Verificar SAT en Tiempo Real
+            - button "download Descargar Dictamen Excel (.xlsx)" [ref=f1e2086] [cursor=pointer]:
+              - generic [ref=f1e2087]: download
+              - generic [ref=f1e2088]: Descargar Dictamen Excel (.xlsx)
+        - generic [ref=f1e2089]:
+          - generic [ref=f1e2090]:
+            - generic [ref=f1e2091]:
+              - generic [ref=f1e2092]: Total Auditados
+              - generic [ref=f1e2093]: receipt_long
+            - generic [ref=f1e2094]:
+              - generic [ref=f1e2095]: "32"
+              - generic [ref=f1e2096]: $210,687.84
+          - generic [ref=f1e2097]:
+            - generic [ref=f1e2098]:
+              - generic [ref=f1e2099]: Vigentes (SAT)
+              - generic [ref=f1e2100]: verified
+            - generic [ref=f1e2101]:
+              - generic [ref=f1e2102]: "32"
+              - generic [ref=f1e2103]: $210,687.84 • 100% Conforme
+          - generic [ref=f1e2104]:
+            - generic [ref=f1e2105]:
+              - generic [ref=f1e2106]: Canceladas
+              - generic [ref=f1e2107]: cancel
+            - generic [ref=f1e2108]:
+              - generic [ref=f1e2109]: "0"
+              - generic [ref=f1e2110]: $0.00
+          - generic [ref=f1e2111]:
+            - generic [ref=f1e2112]:
+              - generic [ref=f1e2113]: En Proceso (SAT)
+              - generic [ref=f1e2114]: pending_actions
+            - generic [ref=f1e2115]:
+              - generic [ref=f1e2116]: "0"
+              - generic [ref=f1e2117]: $0.00 • Plazo 72h
+          - generic [ref=f1e2118]:
+            - generic [ref=f1e2119]:
+              - generic [ref=f1e2120]: Riesgo Fiscal Neto
+              - generic [ref=f1e2121]: shield_with_heart
+            - generic [ref=f1e2122]:
+              - generic [ref=f1e2123]: $0.00
+              - generic [ref=f1e2124]: "IVA en peligro: $0.00"
+        - generic [ref=f1e2125]:
+          - generic [ref=f1e2126]:
+            - button "Todos (32)" [ref=f1e2127] [cursor=pointer]
+            - button "Canceladas (0)" [ref=f1e2128] [cursor=pointer]
+            - button "En Proceso (0)" [ref=f1e2130] [cursor=pointer]
+            - button "Vigentes (32)" [ref=f1e2132] [cursor=pointer]
+            - button "Solo Gastos" [ref=f1e2133] [cursor=pointer]
+            - button "Solo Ingresos" [ref=f1e2134] [cursor=pointer]
+          - generic [ref=f1e2135]:
+            - generic [ref=f1e2136]: search
+            - textbox "Buscar por UUID, RFC o Proveedor..." [ref=f1e2137]
+        - generic [ref=f1e2138]:
+          - table [ref=f1e2140]:
+            - rowgroup [ref=f1e2141]:
+              - row [ref=f1e2142]:
+                - columnheader "Estatus SAT" [ref=f1e2143]
+                - columnheader "Flujo" [ref=f1e2144]
+                - columnheader "Folio Fiscal (UUID)" [ref=f1e2145]
+                - columnheader "Fecha" [ref=f1e2146]
+                - columnheader "Emisor / Proveedor" [ref=f1e2147]
+                - columnheader "Cancelabilidad" [ref=f1e2148]
+                - columnheader "IVA ($)" [ref=f1e2149]
+                - columnheader "Total ($)" [ref=f1e2150]
+                - columnheader "Acciones" [ref=f1e2151]
+            - rowgroup [ref=f1e2152]:
+              - row [ref=f1e2153]:
+                - cell "VIGENTE" [ref=f1e2154]
+                - cell "Gasto" [ref=f1e2157]
+                - cell "8C392E93...C409 content_copy" [ref=f1e2159]:
+                  - generic [ref=f1e2160]:
+                    - generic "8C392E93-DA94-4E17-A40D-D88B63CFC409" [ref=f1e2161]: 8C392E93...C409
+                    - button "content_copy" [ref=f1e2162] [cursor=pointer]
+                - cell "2026-08-14" [ref=f1e2164]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2165]:
+                  - generic [ref=f1e2166]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2167]
+                - cell "Verificación Local" [ref=f1e2168]
+                - cell "$0.00" [ref=f1e2169]
+                - cell "$6,435.90" [ref=f1e2170]
+                - cell [ref=f1e2171]:
+                  - button "visibility Detalle" [ref=f1e2172] [cursor=pointer]:
+                    - generic [ref=f1e2173]: visibility
+                    - text: Detalle
+              - row [ref=f1e2174]:
+                - cell "VIGENTE" [ref=f1e2175]
+                - cell "Gasto" [ref=f1e2178]
+                - cell "25538A30...CB89 content_copy" [ref=f1e2180]:
+                  - generic [ref=f1e2181]:
+                    - generic "25538A30-D53A-423F-9A4E-D5D0E370CB89" [ref=f1e2182]: 25538A30...CB89
+                    - button "content_copy" [ref=f1e2183] [cursor=pointer]
+                - cell "2026-07-31" [ref=f1e2185]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2186]:
+                  - generic [ref=f1e2187]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2188]
+                - cell "Verificación Local" [ref=f1e2189]
+                - cell "$0.00" [ref=f1e2190]
+                - cell "$5,985.90" [ref=f1e2191]
+                - cell [ref=f1e2192]:
+                  - button "visibility Detalle" [ref=f1e2193] [cursor=pointer]:
+                    - generic [ref=f1e2194]: visibility
+                    - text: Detalle
+              - row [ref=f1e2195]:
+                - cell "VIGENTE" [ref=f1e2196]
+                - cell "Gasto" [ref=f1e2199]
+                - cell "F1864A96...AF49 content_copy" [ref=f1e2201]:
+                  - generic [ref=f1e2202]:
+                    - generic "F1864A96-9A7D-4633-A18A-9017FF26AF49" [ref=f1e2203]: F1864A96...AF49
+                    - button "content_copy" [ref=f1e2204] [cursor=pointer]
+                - cell "2026-07-27" [ref=f1e2206]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2207]:
+                  - generic [ref=f1e2208]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2209]
+                - cell "Verificación Local" [ref=f1e2210]
+                - cell "$0.00" [ref=f1e2211]
+                - cell "$5,775.00" [ref=f1e2212]
+                - cell [ref=f1e2213]:
+                  - button "visibility Detalle" [ref=f1e2214] [cursor=pointer]:
+                    - generic [ref=f1e2215]: visibility
+                    - text: Detalle
+              - row [ref=f1e2216]:
+                - cell "VIGENTE" [ref=f1e2217]
+                - cell "Gasto" [ref=f1e2220]
+                - cell "278ADED6...5516 content_copy" [ref=f1e2222]:
+                  - generic [ref=f1e2223]:
+                    - generic "278ADED6-F8E0-4036-A71A-BB7F1D155516" [ref=f1e2224]: 278ADED6...5516
+                    - button "content_copy" [ref=f1e2225] [cursor=pointer]
+                - cell "2026-07-27" [ref=f1e2227]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2228]:
+                  - generic [ref=f1e2229]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2230]
+                - cell "Verificación Local" [ref=f1e2231]
+                - cell "$0.00" [ref=f1e2232]
+                - cell "$4,999.00" [ref=f1e2233]
+                - cell [ref=f1e2234]:
+                  - button "visibility Detalle" [ref=f1e2235] [cursor=pointer]:
+                    - generic [ref=f1e2236]: visibility
+                    - text: Detalle
+              - row [ref=f1e2237]:
+                - cell "VIGENTE" [ref=f1e2238]
+                - cell "Gasto" [ref=f1e2241]
+                - cell "5F91F509...48E7 content_copy" [ref=f1e2243]:
+                  - generic [ref=f1e2244]:
+                    - generic "5F91F509-1B61-495D-B773-CB7396EA48E7" [ref=f1e2245]: 5F91F509...48E7
+                    - button "content_copy" [ref=f1e2246] [cursor=pointer]
+                - cell "2026-07-14" [ref=f1e2248]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2249]:
+                  - generic [ref=f1e2250]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2251]
+                - cell "Verificación Local" [ref=f1e2252]
+                - cell "$0.00" [ref=f1e2253]
+                - cell "$21,841.53" [ref=f1e2254]
+                - cell [ref=f1e2255]:
+                  - button "visibility Detalle" [ref=f1e2256] [cursor=pointer]:
+                    - generic [ref=f1e2257]: visibility
+                    - text: Detalle
+              - row [ref=f1e2258]:
+                - cell "VIGENTE" [ref=f1e2259]
+                - cell "Gasto" [ref=f1e2262]
+                - cell "6C5ADF8B...74F6 content_copy" [ref=f1e2264]:
+                  - generic [ref=f1e2265]:
+                    - generic "6C5ADF8B-3AE9-4A1B-866B-551F7D9274F6" [ref=f1e2266]: 6C5ADF8B...74F6
+                    - button "content_copy" [ref=f1e2267] [cursor=pointer]
+                - cell "2026-06-30" [ref=f1e2269]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2270]:
+                  - generic [ref=f1e2271]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2272]
+                - cell "Verificación Local" [ref=f1e2273]
+                - cell "$0.00" [ref=f1e2274]
+                - cell "$7,616.28" [ref=f1e2275]
+                - cell [ref=f1e2276]:
+                  - button "visibility Detalle" [ref=f1e2277] [cursor=pointer]:
+                    - generic [ref=f1e2278]: visibility
+                    - text: Detalle
+              - row [ref=f1e2279]:
+                - cell "VIGENTE" [ref=f1e2280]
+                - cell "Gasto" [ref=f1e2283]
+                - cell "4B1E4371...A251 content_copy" [ref=f1e2285]:
+                  - generic [ref=f1e2286]:
+                    - generic "4B1E4371-20C0-4FF4-9294-80EA999CA251" [ref=f1e2287]: 4B1E4371...A251
+                    - button "content_copy" [ref=f1e2288] [cursor=pointer]
+                - cell "2026-06-29" [ref=f1e2290]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2291]:
+                  - generic [ref=f1e2292]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2293]
+                - cell "Verificación Local" [ref=f1e2294]
+                - cell "$0.00" [ref=f1e2295]
+                - cell "$4,999.00" [ref=f1e2296]
+                - cell [ref=f1e2297]:
+                  - button "visibility Detalle" [ref=f1e2298] [cursor=pointer]:
+                    - generic [ref=f1e2299]: visibility
+                    - text: Detalle
+              - row [ref=f1e2300]:
+                - cell "VIGENTE" [ref=f1e2301]
+                - cell "Gasto" [ref=f1e2304]
+                - cell "E8AF7C66...6E42 content_copy" [ref=f1e2306]:
+                  - generic [ref=f1e2307]:
+                    - generic "E8AF7C66-257F-449A-B49E-56BE21C96E42" [ref=f1e2308]: E8AF7C66...6E42
+                    - button "content_copy" [ref=f1e2309] [cursor=pointer]
+                - cell "2026-06-12" [ref=f1e2311]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2312]:
+                  - generic [ref=f1e2313]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2314]
+                - cell "Verificación Local" [ref=f1e2315]
+                - cell "$0.00" [ref=f1e2316]
+                - cell "$6,709.77" [ref=f1e2317]
+                - cell [ref=f1e2318]:
+                  - button "visibility Detalle" [ref=f1e2319] [cursor=pointer]:
+                    - generic [ref=f1e2320]: visibility
+                    - text: Detalle
+              - row [ref=f1e2321]:
+                - cell "VIGENTE" [ref=f1e2322]
+                - cell "Gasto" [ref=f1e2325]
+                - cell "DF2D6FF6...003B content_copy" [ref=f1e2327]:
+                  - generic [ref=f1e2328]:
+                    - generic "DF2D6FF6-608B-41C5-9FC3-628C6E0D003B" [ref=f1e2329]: DF2D6FF6...003B
+                    - button "content_copy" [ref=f1e2330] [cursor=pointer]
+                - cell "2026-05-29" [ref=f1e2332]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2333]:
+                  - generic [ref=f1e2334]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2335]
+                - cell "Verificación Local" [ref=f1e2336]
+                - cell "$0.00" [ref=f1e2337]
+                - cell "$3,258.45" [ref=f1e2338]
+                - cell [ref=f1e2339]:
+                  - button "visibility Detalle" [ref=f1e2340] [cursor=pointer]:
+                    - generic [ref=f1e2341]: visibility
+                    - text: Detalle
+              - row [ref=f1e2342]:
+                - cell "VIGENTE" [ref=f1e2343]
+                - cell "Gasto" [ref=f1e2346]
+                - cell "9A5BCA15...BDE1 content_copy" [ref=f1e2348]:
+                  - generic [ref=f1e2349]:
+                    - generic "9A5BCA15-D582-46D8-9FF4-72FCB56FBDE1" [ref=f1e2350]: 9A5BCA15...BDE1
+                    - button "content_copy" [ref=f1e2351] [cursor=pointer]
+                - cell "2026-05-22" [ref=f1e2353]
+                - cell "NUBS7310188T1 SANDRA ISABEL NUÑEZ BARRERA" [ref=f1e2354]:
+                  - generic [ref=f1e2355]: NUBS7310188T1
+                  - generic "SANDRA ISABEL NUÑEZ BARRERA" [ref=f1e2356]
+                - cell "Verificación Local" [ref=f1e2357]
+                - cell "$0.00" [ref=f1e2358]
+                - cell "$1,000.00" [ref=f1e2359]
+                - cell [ref=f1e2360]:
+                  - button "visibility Detalle" [ref=f1e2361] [cursor=pointer]:
+                    - generic [ref=f1e2362]: visibility
+                    - text: Detalle
+              - row [ref=f1e2363]:
+                - cell "VIGENTE" [ref=f1e2364]
+                - cell "Gasto" [ref=f1e2367]
+                - cell "16518BC1...F04F content_copy" [ref=f1e2369]:
+                  - generic [ref=f1e2370]:
+                    - generic "16518BC1-1B99-4242-8326-71061DB0F04F" [ref=f1e2371]: 16518BC1...F04F
+                    - button "content_copy" [ref=f1e2372] [cursor=pointer]
+                - cell "2026-05-22" [ref=f1e2374]
+                - cell "NUBS7310188T1 SANDRA ISABEL NUÑEZ BARRERA" [ref=f1e2375]:
+                  - generic [ref=f1e2376]: NUBS7310188T1
+                  - generic "SANDRA ISABEL NUÑEZ BARRERA" [ref=f1e2377]
+                - cell "Verificación Local" [ref=f1e2378]
+                - cell "$0.00" [ref=f1e2379]
+                - cell "$1,000.00" [ref=f1e2380]
+                - cell [ref=f1e2381]:
+                  - button "visibility Detalle" [ref=f1e2382] [cursor=pointer]:
+                    - generic [ref=f1e2383]: visibility
+                    - text: Detalle
+              - row [ref=f1e2384]:
+                - cell "VIGENTE" [ref=f1e2385]
+                - cell "Gasto" [ref=f1e2388]
+                - cell "22343152...9D0B content_copy" [ref=f1e2390]:
+                  - generic [ref=f1e2391]:
+                    - generic "22343152-625B-4C2C-AD53-B78914239D0B" [ref=f1e2392]: 22343152...9D0B
+                    - button "content_copy" [ref=f1e2393] [cursor=pointer]
+                - cell "2026-05-14" [ref=f1e2395]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2396]:
+                  - generic [ref=f1e2397]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2398]
+                - cell "Verificación Local" [ref=f1e2399]
+                - cell "$0.00" [ref=f1e2400]
+                - cell "$6,110.94" [ref=f1e2401]
+                - cell [ref=f1e2402]:
+                  - button "visibility Detalle" [ref=f1e2403] [cursor=pointer]:
+                    - generic [ref=f1e2404]: visibility
+                    - text: Detalle
+              - row [ref=f1e2405]:
+                - cell "VIGENTE" [ref=f1e2406]
+                - cell "Gasto" [ref=f1e2409]
+                - cell "659813FD...2434 content_copy" [ref=f1e2411]:
+                  - generic [ref=f1e2412]:
+                    - generic "659813FD-C8C8-4356-8A69-888961A62434" [ref=f1e2413]: 659813FD...2434
+                    - button "content_copy" [ref=f1e2414] [cursor=pointer]
+                - cell "2026-05-05" [ref=f1e2416]
+                - cell "BMN930209927 BANCO MERCANTIL DEL NORTE SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE" [ref=f1e2417]:
+                  - generic [ref=f1e2418]: BMN930209927
+                  - generic "BANCO MERCANTIL DEL NORTE SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE" [ref=f1e2419]
+                - cell "Verificación Local" [ref=f1e2420]
+                - cell "$57.60" [ref=f1e2421]
+                - cell "$208.80" [ref=f1e2422]
+                - cell [ref=f1e2423]:
+                  - button "visibility Detalle" [ref=f1e2424] [cursor=pointer]:
+                    - generic [ref=f1e2425]: visibility
+                    - text: Detalle
+              - row [ref=f1e2426]:
+                - cell "VIGENTE" [ref=f1e2427]
+                - cell "Gasto" [ref=f1e2430]
+                - cell "DF2DE507...603D content_copy" [ref=f1e2432]:
+                  - generic [ref=f1e2433]:
+                    - generic "DF2DE507-A736-4046-9834-25F90BFC603D" [ref=f1e2434]: DF2DE507...603D
+                    - button "content_copy" [ref=f1e2435] [cursor=pointer]
+                - cell "2026-04-30" [ref=f1e2437]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2438]:
+                  - generic [ref=f1e2439]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2440]
+                - cell "Verificación Local" [ref=f1e2441]
+                - cell "$0.00" [ref=f1e2442]
+                - cell "$6,460.04" [ref=f1e2443]
+                - cell [ref=f1e2444]:
+                  - button "visibility Detalle" [ref=f1e2445] [cursor=pointer]:
+                    - generic [ref=f1e2446]: visibility
+                    - text: Detalle
+              - row [ref=f1e2447]:
+                - cell "VIGENTE" [ref=f1e2448]
+                - cell "Gasto" [ref=f1e2451]
+                - cell "3C3AAF73...1BC2 content_copy" [ref=f1e2453]:
+                  - generic [ref=f1e2454]:
+                    - generic "3C3AAF73-F5AE-47E7-BBF6-AB69EB3A1BC2" [ref=f1e2455]: 3C3AAF73...1BC2
+                    - button "content_copy" [ref=f1e2456] [cursor=pointer]
+                - cell "2026-04-28" [ref=f1e2458]
+                - cell "LMP771017AM6 LABORATORIO MEDICO POLANCO" [ref=f1e2459]:
+                  - generic [ref=f1e2460]: LMP771017AM6
+                  - generic "LABORATORIO MEDICO POLANCO" [ref=f1e2461]
+                - cell "Verificación Local" [ref=f1e2462]
+                - cell "$1,400.62" [ref=f1e2463]
+                - cell "$5,077.27" [ref=f1e2464]
+                - cell [ref=f1e2465]:
+                  - button "visibility Detalle" [ref=f1e2466] [cursor=pointer]:
+                    - generic [ref=f1e2467]: visibility
+                    - text: Detalle
+              - row [ref=f1e2468]:
+                - cell "VIGENTE" [ref=f1e2469]
+                - cell "Gasto" [ref=f1e2472]
+                - cell "B6E5C81C...88A1 content_copy" [ref=f1e2474]:
+                  - generic [ref=f1e2475]:
+                    - generic "B6E5C81C-5EE1-43E0-B229-5B13002288A1" [ref=f1e2476]: B6E5C81C...88A1
+                    - button "content_copy" [ref=f1e2477] [cursor=pointer]
+                - cell "2026-04-20" [ref=f1e2479]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2480]:
+                  - generic [ref=f1e2481]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2482]
+                - cell "Verificación Local" [ref=f1e2483]
+                - cell "$0.00" [ref=f1e2484]
+                - cell "$4,999.00" [ref=f1e2485]
+                - cell [ref=f1e2486]:
+                  - button "visibility Detalle" [ref=f1e2487] [cursor=pointer]:
+                    - generic [ref=f1e2488]: visibility
+                    - text: Detalle
+              - row [ref=f1e2489]:
+                - cell "VIGENTE" [ref=f1e2490]
+                - cell "Gasto" [ref=f1e2493]
+                - cell "E381908D...606C content_copy" [ref=f1e2495]:
+                  - generic [ref=f1e2496]:
+                    - generic "E381908D-AB0C-4B08-84C9-96CF2E06606C" [ref=f1e2497]: E381908D...606C
+                    - button "content_copy" [ref=f1e2498] [cursor=pointer]
+                - cell "2026-04-20" [ref=f1e2500]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2501]:
+                  - generic [ref=f1e2502]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2503]
+                - cell "Verificación Local" [ref=f1e2504]
+                - cell "$0.00" [ref=f1e2505]
+                - cell "$5,775.00" [ref=f1e2506]
+                - cell [ref=f1e2507]:
+                  - button "visibility Detalle" [ref=f1e2508] [cursor=pointer]:
+                    - generic [ref=f1e2509]: visibility
+                    - text: Detalle
+              - row [ref=f1e2510]:
+                - cell "VIGENTE" [ref=f1e2511]
+                - cell "Gasto" [ref=f1e2514]
+                - cell "A0D0A9CE...EC28 content_copy" [ref=f1e2516]:
+                  - generic [ref=f1e2517]:
+                    - generic "A0D0A9CE-B79B-43AB-B327-31C065C9EC28" [ref=f1e2518]: A0D0A9CE...EC28
+                    - button "content_copy" [ref=f1e2519] [cursor=pointer]
+                - cell "2026-04-15" [ref=f1e2521]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2522]:
+                  - generic [ref=f1e2523]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2524]
+                - cell "Verificación Local" [ref=f1e2525]
+                - cell "$0.00" [ref=f1e2526]
+                - cell "$8,274.07" [ref=f1e2527]
+                - cell [ref=f1e2528]:
+                  - button "visibility Detalle" [ref=f1e2529] [cursor=pointer]:
+                    - generic [ref=f1e2530]: visibility
+                    - text: Detalle
+              - row [ref=f1e2531]:
+                - cell "VIGENTE" [ref=f1e2532]
+                - cell "Gasto" [ref=f1e2535]
+                - cell "ED70CC77...0F8D content_copy" [ref=f1e2537]:
+                  - generic [ref=f1e2538]:
+                    - generic "ED70CC77-C9B0-43FD-8AF7-D07846270F8D" [ref=f1e2539]: ED70CC77...0F8D
+                    - button "content_copy" [ref=f1e2540] [cursor=pointer]
+                - cell "2026-03-31" [ref=f1e2542]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2543]:
+                  - generic [ref=f1e2544]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2545]
+                - cell "Verificación Local" [ref=f1e2546]
+                - cell "$0.00" [ref=f1e2547]
+                - cell "$7,751.79" [ref=f1e2548]
+                - cell [ref=f1e2549]:
+                  - button "visibility Detalle" [ref=f1e2550] [cursor=pointer]:
+                    - generic [ref=f1e2551]: visibility
+                    - text: Detalle
+              - row [ref=f1e2552]:
+                - cell "VIGENTE" [ref=f1e2553]
+                - cell "Gasto" [ref=f1e2556]
+                - cell "2A31457E...BD4D content_copy" [ref=f1e2558]:
+                  - generic [ref=f1e2559]:
+                    - generic "2A31457E-B3C7-4846-8CAC-C014A308BD4D" [ref=f1e2560]: 2A31457E...BD4D
+                    - button "content_copy" [ref=f1e2561] [cursor=pointer]
+                - cell "2026-03-26" [ref=f1e2563]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2564]:
+                  - generic [ref=f1e2565]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2566]
+                - cell "Verificación Local" [ref=f1e2567]
+                - cell "$0.00" [ref=f1e2568]
+                - cell "$4,999.00" [ref=f1e2569]
+                - cell [ref=f1e2570]:
+                  - button "visibility Detalle" [ref=f1e2571] [cursor=pointer]:
+                    - generic [ref=f1e2572]: visibility
+                    - text: Detalle
+              - row [ref=f1e2573]:
+                - cell "VIGENTE" [ref=f1e2574]
+                - cell "Gasto" [ref=f1e2577]
+                - cell "12DB27B1...6DC4 content_copy" [ref=f1e2579]:
+                  - generic [ref=f1e2580]:
+                    - generic "12DB27B1-7E23-4F22-8656-49CC15BE6DC4" [ref=f1e2581]: 12DB27B1...6DC4
+                    - button "content_copy" [ref=f1e2582] [cursor=pointer]
+                - cell "2026-03-26" [ref=f1e2584]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2585]:
+                  - generic [ref=f1e2586]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2587]
+                - cell "Verificación Local" [ref=f1e2588]
+                - cell "$0.00" [ref=f1e2589]
+                - cell "$5,775.00" [ref=f1e2590]
+                - cell [ref=f1e2591]:
+                  - button "visibility Detalle" [ref=f1e2592] [cursor=pointer]:
+                    - generic [ref=f1e2593]: visibility
+                    - text: Detalle
+              - row [ref=f1e2594]:
+                - cell "VIGENTE" [ref=f1e2595]
+                - cell "Gasto" [ref=f1e2598]
+                - cell "0DE08980...F182 content_copy" [ref=f1e2600]:
+                  - generic [ref=f1e2601]:
+                    - generic "0DE08980-46E9-4D7A-970A-368CECB1F182" [ref=f1e2602]: 0DE08980...F182
+                    - button "content_copy" [ref=f1e2603] [cursor=pointer]
+                - cell "2026-03-13" [ref=f1e2605]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2606]:
+                  - generic [ref=f1e2607]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2608]
+                - cell "Verificación Local" [ref=f1e2609]
+                - cell "$0.00" [ref=f1e2610]
+                - cell "$8,931.62" [ref=f1e2611]
+                - cell [ref=f1e2612]:
+                  - button "visibility Detalle" [ref=f1e2613] [cursor=pointer]:
+                    - generic [ref=f1e2614]: visibility
+                    - text: Detalle
+              - row [ref=f1e2615]:
+                - cell "VIGENTE" [ref=f1e2616]
+                - cell "Gasto" [ref=f1e2619]
+                - cell "8B009CB0...F735 content_copy" [ref=f1e2621]:
+                  - generic [ref=f1e2622]:
+                    - generic "8B009CB0-C49C-4B2F-93C9-7240862EF735" [ref=f1e2623]: 8B009CB0...F735
+                    - button "content_copy" [ref=f1e2624] [cursor=pointer]
+                - cell "2026-03-10" [ref=f1e2626]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2627]:
+                  - generic [ref=f1e2628]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2629]
+                - cell "Verificación Local" [ref=f1e2630]
+                - cell "$0.00" [ref=f1e2631]
+                - cell "$3,844.00" [ref=f1e2632]
+                - cell [ref=f1e2633]:
+                  - button "visibility Detalle" [ref=f1e2634] [cursor=pointer]:
+                    - generic [ref=f1e2635]: visibility
+                    - text: Detalle
+              - row [ref=f1e2636]:
+                - cell "VIGENTE" [ref=f1e2637]
+                - cell "Gasto" [ref=f1e2640]
+                - cell "40B9B392...995E content_copy" [ref=f1e2642]:
+                  - generic [ref=f1e2643]:
+                    - generic "40B9B392-55A4-462B-B0F9-09093239995E" [ref=f1e2644]: 40B9B392...995E
+                    - button "content_copy" [ref=f1e2645] [cursor=pointer]
+                - cell "2026-03-10" [ref=f1e2647]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2648]:
+                  - generic [ref=f1e2649]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2650]
+                - cell "Verificación Local" [ref=f1e2651]
+                - cell "$0.00" [ref=f1e2652]
+                - cell "$3,472.00" [ref=f1e2653]
+                - cell [ref=f1e2654]:
+                  - button "visibility Detalle" [ref=f1e2655] [cursor=pointer]:
+                    - generic [ref=f1e2656]: visibility
+                    - text: Detalle
+              - row [ref=f1e2657]:
+                - cell "VIGENTE" [ref=f1e2658]
+                - cell "Gasto" [ref=f1e2661]
+                - cell "2DDE0D8C...D7A7 content_copy" [ref=f1e2663]:
+                  - generic [ref=f1e2664]:
+                    - generic "2DDE0D8C-755C-4E4C-8AE5-736F8008D7A7" [ref=f1e2665]: 2DDE0D8C...D7A7
+                    - button "content_copy" [ref=f1e2666] [cursor=pointer]
+                - cell "2026-02-27" [ref=f1e2668]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2669]:
+                  - generic [ref=f1e2670]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2671]
+                - cell "Verificación Local" [ref=f1e2672]
+                - cell "$0.00" [ref=f1e2673]
+                - cell "$9,506.93" [ref=f1e2674]
+                - cell [ref=f1e2675]:
+                  - button "visibility Detalle" [ref=f1e2676] [cursor=pointer]:
+                    - generic [ref=f1e2677]: visibility
+                    - text: Detalle
+              - row [ref=f1e2678]:
+                - cell "VIGENTE" [ref=f1e2679]
+                - cell "Gasto" [ref=f1e2682]
+                - cell "962E6AB8...E21A content_copy" [ref=f1e2684]:
+                  - generic [ref=f1e2685]:
+                    - generic "962E6AB8-A86C-427E-AB95-B2AA5E0DE21A" [ref=f1e2686]: 962E6AB8...E21A
+                    - button "content_copy" [ref=f1e2687] [cursor=pointer]
+                - cell "2026-02-13" [ref=f1e2689]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2690]:
+                  - generic [ref=f1e2691]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2692]
+                - cell "Verificación Local" [ref=f1e2693]
+                - cell "$0.00" [ref=f1e2694]
+                - cell "$20,764.46" [ref=f1e2695]
+                - cell [ref=f1e2696]:
+                  - button "visibility Detalle" [ref=f1e2697] [cursor=pointer]:
+                    - generic [ref=f1e2698]: visibility
+                    - text: Detalle
+              - row [ref=f1e2699]:
+                - cell "VIGENTE" [ref=f1e2700]
+                - cell "Gasto" [ref=f1e2703]
+                - cell "0DC90231...9071 content_copy" [ref=f1e2705]:
+                  - generic [ref=f1e2706]:
+                    - generic "0DC90231-9739-4111-B8DA-6AD968A99071" [ref=f1e2707]: 0DC90231...9071
+                    - button "content_copy" [ref=f1e2708] [cursor=pointer]
+                - cell "2026-01-30" [ref=f1e2710]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2711]:
+                  - generic [ref=f1e2712]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2713]
+                - cell "Verificación Local" [ref=f1e2714]
+                - cell "$0.00" [ref=f1e2715]
+                - cell "$6,112.81" [ref=f1e2716]
+                - cell [ref=f1e2717]:
+                  - button "visibility Detalle" [ref=f1e2718] [cursor=pointer]:
+                    - generic [ref=f1e2719]: visibility
+                    - text: Detalle
+              - row [ref=f1e2720]:
+                - cell "VIGENTE" [ref=f1e2721]
+                - cell "Gasto" [ref=f1e2724]
+                - cell "DF2E755F...4273 content_copy" [ref=f1e2726]:
+                  - generic [ref=f1e2727]:
+                    - generic "DF2E755F-6C33-46D8-87DB-E53504B94273" [ref=f1e2728]: DF2E755F...4273
+                    - button "content_copy" [ref=f1e2729] [cursor=pointer]
+                - cell "2026-01-27" [ref=f1e2731]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2732]:
+                  - generic [ref=f1e2733]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2734]
+                - cell "Verificación Local" [ref=f1e2735]
+                - cell "$0.00" [ref=f1e2736]
+                - cell "$6,930.00" [ref=f1e2737]
+                - cell [ref=f1e2738]:
+                  - button "visibility Detalle" [ref=f1e2739] [cursor=pointer]:
+                    - generic [ref=f1e2740]: visibility
+                    - text: Detalle
+              - row [ref=f1e2741]:
+                - cell "VIGENTE" [ref=f1e2742]
+                - cell "Gasto" [ref=f1e2745]
+                - cell "D8FD22BA...F6C9 content_copy" [ref=f1e2747]:
+                  - generic [ref=f1e2748]:
+                    - generic "D8FD22BA-2514-4366-BEEE-676D98CDF6C9" [ref=f1e2749]: D8FD22BA...F6C9
+                    - button "content_copy" [ref=f1e2750] [cursor=pointer]
+                - cell "2026-01-27" [ref=f1e2752]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2753]:
+                  - generic [ref=f1e2754]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2755]
+                - cell "Verificación Local" [ref=f1e2756]
+                - cell "$0.00" [ref=f1e2757]
+                - cell "$5,999.00" [ref=f1e2758]
+                - cell [ref=f1e2759]:
+                  - button "visibility Detalle" [ref=f1e2760] [cursor=pointer]:
+                    - generic [ref=f1e2761]: visibility
+                    - text: Detalle
+              - row [ref=f1e2762]:
+                - cell "VIGENTE" [ref=f1e2763]
+                - cell "Gasto" [ref=f1e2766]
+                - cell "01139E56...32B7 content_copy" [ref=f1e2768]:
+                  - generic [ref=f1e2769]:
+                    - generic "01139E56-6E99-4A5F-9AB8-AD1B8EB332B7" [ref=f1e2770]: 01139E56...32B7
+                    - button "content_copy" [ref=f1e2771] [cursor=pointer]
+                - cell "2026-01-21" [ref=f1e2773]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2774]:
+                  - generic [ref=f1e2775]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2776]
+                - cell "Verificación Local" [ref=f1e2777]
+                - cell "$0.00" [ref=f1e2778]
+                - cell "$4,999.00" [ref=f1e2779]
+                - cell [ref=f1e2780]:
+                  - button "visibility Detalle" [ref=f1e2781] [cursor=pointer]:
+                    - generic [ref=f1e2782]: visibility
+                    - text: Detalle
+              - row [ref=f1e2783]:
+                - cell "VIGENTE" [ref=f1e2784]
+                - cell "Gasto" [ref=f1e2787]
+                - cell "DE3A1C52...5473 content_copy" [ref=f1e2789]:
+                  - generic [ref=f1e2790]:
+                    - generic "DE3A1C52-385C-4180-811A-BD964AE35473" [ref=f1e2791]: DE3A1C52...5473
+                    - button "content_copy" [ref=f1e2792] [cursor=pointer]
+                - cell "2026-01-21" [ref=f1e2794]
+                - cell "INO981201JN3 INSTITUTO NOYOLA" [ref=f1e2795]:
+                  - generic [ref=f1e2796]: INO981201JN3
+                  - generic "INSTITUTO NOYOLA" [ref=f1e2797]
+                - cell "Verificación Local" [ref=f1e2798]
+                - cell "$0.00" [ref=f1e2799]
+                - cell "$5,775.00" [ref=f1e2800]
+                - cell [ref=f1e2801]:
+                  - button "visibility Detalle" [ref=f1e2802] [cursor=pointer]:
+                    - generic [ref=f1e2803]: visibility
+                    - text: Detalle
+              - row [ref=f1e2804]:
+                - cell "VIGENTE" [ref=f1e2805]
+                - cell "Gasto" [ref=f1e2808]
+                - cell "8CDC9776...B40F content_copy" [ref=f1e2810]:
+                  - generic [ref=f1e2811]:
+                    - generic "8CDC9776-B17B-446A-86E4-5EE675A5B40F" [ref=f1e2812]: 8CDC9776...B40F
+                    - button "content_copy" [ref=f1e2813] [cursor=pointer]
+                - cell "2026-01-14" [ref=f1e2815]
+                - cell "IMS421231I45 Instituto Mexicano del Seguro Social" [ref=f1e2816]:
+                  - generic [ref=f1e2817]: IMS421231I45
+                  - generic "Instituto Mexicano del Seguro Social" [ref=f1e2818]
+                - cell "Verificación Local" [ref=f1e2819]
+                - cell "$0.00" [ref=f1e2820]
+                - cell "$9,301.28" [ref=f1e2821]
+                - cell [ref=f1e2822]:
+                  - button "visibility Detalle" [ref=f1e2823] [cursor=pointer]:
+                    - generic [ref=f1e2824]: visibility
+                    - text: Detalle
+          - generic [ref=f1e2825]:
+            - generic [ref=f1e2826]:
+              - text: Mostrando
+              - strong [ref=f1e2827]: "32"
+              - text: de
+              - strong [ref=f1e2828]: "32"
+              - text: comprobantes auditados.
+            - generic [ref=f1e2829]:
+              - generic [ref=f1e2830]: Vigente (32)
+              - generic [ref=f1e2832]: Cancelado (0)
+              - generic [ref=f1e2834]: En Proceso (0)

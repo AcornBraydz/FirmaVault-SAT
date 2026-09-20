@@ -1,0 +1,101 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "FirmaVault SAT" [ref=e7] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e8]: FirmaVault
+          - generic [ref=e11]: SAT
+        - generic [ref=e13]: Control Fiscal
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - generic [ref=e19]: Sistema en línea
+          - generic [ref=e21]: SAT v1.0
+        - button "logout" [ref=e22] [cursor=pointer]
+  - main [ref=e24]:
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - heading "Gestión de Credenciales SAT" [level=1] [ref=e27]
+        - paragraph [ref=e28]: Monitoreo de certificados e.firma, control de archivos y vigencia fiscal de contribuyentes.
+      - button "add Nuevo Cliente" [ref=e30] [cursor=pointer]:
+        - generic [ref=e31]: add
+        - generic [ref=e32]: Nuevo Cliente
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - generic [ref=e36]: Vigencia Óptima
+          - generic [ref=e39]:
+            - generic [ref=e40]: check_circle
+            - text: Sin riesgo
+        - generic [ref=e41]:
+          - generic [ref=e42]: "0"
+          - generic [ref=e43]: 0% del total
+        - generic [ref=e45]:
+          - generic [ref=e46]: "> 60 días de validez oficial"
+          - generic [ref=e47]: Archivos .cer/.key OK
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e50]: Próximas a Vencer
+          - generic [ref=e53]:
+            - generic [ref=e54]: schedule
+            - text: Monitoreo preventivo
+        - generic [ref=e55]:
+          - generic [ref=e56]: "0"
+          - generic [ref=e57]: 0% en seguimiento
+        - generic [ref=e59]:
+          - generic [ref=e60]: 30 a 60 días restantes
+          - generic [ref=e61]: Programar renovación
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - generic [ref=e64]: Urgencia Crítica
+          - generic [ref=e67]:
+            - generic [ref=e68]: warning
+            - text: Renovación Obligatoria
+        - generic [ref=e69]:
+          - generic [ref=e70]: "0"
+          - generic [ref=e71]: 0% riesgo operativo
+        - generic [ref=e73]:
+          - generic [ref=e74]: < 30 días o llave faltante
+          - generic [ref=e75]: Riesgo de inoperatividad fiscal
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - generic [ref=e79]: search
+          - textbox "Buscar por RFC, razón social o correo..." [ref=e80]
+          - generic: Ctrl K
+        - generic [ref=e81]:
+          - button "Todos 0" [ref=e82] [cursor=pointer]
+          - button "domain Morales 0" [ref=e83] [cursor=pointer]:
+            - generic [ref=e84]: domain
+            - text: Morales
+            - generic [ref=e85]: "0"
+          - button "person Físicas 0" [ref=e86] [cursor=pointer]:
+            - generic [ref=e87]: person
+            - text: Físicas
+            - generic [ref=e88]: "0"
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e94]: "Contribuyentes:"
+          - generic [ref=e95]: "0"
+        - button "folder_zip Copia de Seguridad" [ref=e96] [cursor=pointer]:
+          - generic [ref=e97]: folder_zip
+          - text: Copia de Seguridad
+    - generic [ref=e98]:
+      - table [ref=e100]:
+        - rowgroup [ref=e101]:
+          - row [ref=e102]:
+            - columnheader "Contribuyente" [ref=e103]
+            - columnheader "RFC" [ref=e104]
+            - columnheader "Credenciales" [ref=e105]
+            - columnheader "Vigencia & Restante" [ref=e106]
+            - columnheader "Acciones" [ref=e107]
+        - rowgroup [ref=e108]:
+          - row [ref=e109]:
+            - cell "No se encontraron clientes con esos filtros." [ref=e110]
+      - generic [ref=e111]:
+        - generic [ref=e112]: Mostrando 0 de 0 contribuyentes
+        - generic [ref=e113]:
+          - button "Anterior" [disabled] [ref=e114]
+          - button "1" [ref=e115] [cursor=pointer]
+          - button "Siguiente" [disabled] [ref=e116]
+  - generic: check_circle

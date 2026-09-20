@@ -1,0 +1,5 @@
+- generic [ref=e1700]:
+  - generic [ref=e1701]: error
+  - heading "Error al desplegar el componente" [level=3] [ref=e1703]
+  - paragraph [ref=e1704]: Cannot access 'hasRealData' before initialization
+  - button "Volver al Panel Principal" [ref=e1705] [cursor=pointer]

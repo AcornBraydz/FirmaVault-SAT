@@ -1,0 +1,211 @@
+- generic [ref=e1706]:
+  - complementary "Panel lateral de navegación" [ref=e1707]:
+    - generic [ref=e1708]:
+      - generic [ref=e1709]:
+        - generic [ref=e1710]:
+          - generic [ref=e1711]: FV
+          - generic [ref=e1712]:
+            - generic [ref=e1713]:
+              - generic [ref=e1714]: FirmaVault
+              - generic [ref=e1715]: SAT
+            - paragraph [ref=e1716]: Portal de Operaciones
+        - button "close" [ref=e1718] [cursor=pointer]
+      - generic [ref=e1720]:
+        - generic [ref=e1721]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=e1722] [cursor=pointer]:
+            - generic [ref=e1723]:
+              - generic [ref=e1724]: cloud_download
+              - generic [ref=e1726]:
+                - generic [ref=e1727]: Extracción SAT
+                - generic [ref=e1728]: Descargas Automáticas
+            - generic [ref=e1729]:
+              - generic [ref=e1730]: "3"
+              - generic [ref=e1731]: expand_more
+          - generic [ref=e1732]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=e1733] [cursor=pointer]:
+              - generic [ref=e1734]:
+                - generic [ref=e1735]: receipt
+                - generic [ref=e1737]:
+                  - generic [ref=e1738]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=e1740]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=e1741]:
+                    - generic [ref=e1742]: XML + PDF
+                    - generic [ref=e1743]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=e1744] [cursor=pointer]:
+              - generic [ref=e1745]:
+                - generic [ref=e1746]: receipt_long
+                - generic [ref=e1748]:
+                  - generic [ref=e1749]: Recibos de Nómina
+                  - paragraph [ref=e1751]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=e1752]:
+                    - generic [ref=e1753]: PDF + XML
+                    - generic [ref=e1754]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=e1755] [cursor=pointer]:
+              - generic [ref=e1756]:
+                - generic [ref=e1757]: description
+                - generic [ref=e1759]:
+                  - generic [ref=e1760]: Documentos Frecuentes
+                  - paragraph [ref=e1762]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=e1763]:
+                    - generic [ref=e1764]: Opinión 32-D
+                    - generic [ref=e1765]: CSF Actualizada
+                    - generic [ref=e1766]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 6 expand_more" [ref=e1768] [cursor=pointer]:
+          - generic [ref=e1769]:
+            - generic [ref=e1770]: query_stats
+            - generic [ref=e1772]:
+              - generic [ref=e1773]: Papeles de Trabajo
+              - generic [ref=e1774]: Reportes Contables
+          - generic [ref=e1775]:
+            - generic [ref=e1776]: "6"
+            - generic [ref=e1777]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 3 expand_more" [ref=e1779] [cursor=pointer]:
+          - generic [ref=e1780]:
+            - generic [ref=e1781]: shield
+            - generic [ref=e1783]:
+              - generic [ref=e1784]: Auditoría y Riesgo
+              - generic [ref=e1785]: Auditoría Fiscal
+          - generic [ref=e1786]:
+            - generic [ref=e1787]: "3"
+            - generic [ref=e1788]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=e1790] [cursor=pointer]:
+      - generic [ref=e1791]: arrow_back
+      - generic [ref=e1792]: Volver a Contribuyentes
+  - banner [ref=e1793]:
+    - generic [ref=e1795]:
+      - generic [ref=e1796]:
+        - button "Menú principal" [ref=e1797] [cursor=pointer]:
+          - generic [ref=e1798]: menu
+        - navigation "Ruta de navegación" [ref=e1800]:
+          - button "FirmaVault SAT" [ref=e1801] [cursor=pointer]:
+            - generic [ref=e1802]: FirmaVault
+            - generic [ref=e1803]: SAT
+          - generic [ref=e1804]: /
+          - button "Portal" [ref=e1805] [cursor=pointer]
+          - generic [ref=e2786]: /
+          - generic [ref=e2787]:
+            - generic [ref=e2788]: account_balance_wallet
+            - generic [ref=e2789]: Control de Pagos (PUE vs PPD)
+      - generic [ref=e1806]:
+        - generic [ref=e1807]:
+          - generic [ref=e1808]: AC
+          - generic [ref=e1809]:
+            - generic [ref=e1810]: ARACELI CENTENO HERNANDEZ
+            - generic [ref=e1815]:
+              - generic [ref=e1816]: CEHA7904273AA
+              - generic [ref=e1817]: Física
+        - button "grid_view Hub" [ref=e2790] [cursor=pointer]:
+          - generic [ref=e1820]: grid_view
+          - generic [ref=e1821]: Hub
+  - main [ref=e1822]:
+    - generic [ref=e2791]:
+      - generic [ref=e2794]:
+        - generic [ref=e2795]:
+          - generic [ref=e2796]: account_balance_wallet
+          - text: 2. Papeles de Trabajo • Reportes Contables
+        - generic [ref=e2797]: CEHA7904273AA
+      - generic [ref=e2798]:
+        - heading "Control de Pagos (PUE vs PPD)" [level=1] [ref=e2799]
+        - paragraph [ref=e2800]: Separación rigurosa de facturas de contado vs. crédito y auditoría de Complementos de Pago (REP).
+      - generic [ref=e2801]:
+        - generic [ref=e2802]:
+          - generic [ref=e2803]: tune
+          - generic [ref=e2804]:
+            - heading "Parámetros de Ejecución" [level=3] [ref=e2805]
+            - paragraph [ref=e2806]: "Contribuyente activo: ARACELI CENTENO HERNANDEZ"
+        - generic [ref=e2807]:
+          - button "upload_file Subir XMLs (.xml / .zip)" [ref=e2808] [cursor=pointer]:
+            - generic [ref=e2809]: upload_file
+            - generic [ref=e2810]: Subir XMLs (.xml / .zip)
+          - generic [ref=e2811]:
+            - generic [ref=e2812]: "Ejercicio:"
+            - combobox [ref=e2813] [cursor=pointer]:
+              - option "2026" [selected]
+              - option "2025"
+              - option "2024"
+              - option "2023"
+              - option "2022"
+          - generic [ref=e2814]:
+            - generic [ref=e2815]: "Periodo:"
+            - combobox [ref=e2816] [cursor=pointer]:
+              - option "Todo el Año (Consolidado)" [selected]
+              - option "Enero"
+              - option "Febrero"
+              - option "Marzo"
+              - option "Abril"
+              - option "Mayo"
+              - option "Junio"
+              - option "Julio"
+              - option "Agosto"
+              - option "Septiembre"
+              - option "Octubre"
+              - option "Noviembre"
+              - option "Diciembre"
+          - button "play_circle Descargar Matriz PUE vs PPD (.xlsx)" [ref=e2817] [cursor=pointer]:
+            - generic [ref=e2818]: play_circle
+            - generic [ref=e2819]: Descargar Matriz PUE vs PPD (.xlsx)
+      - generic [ref=e2820]:
+        - generic [ref=e2821]:
+          - generic [ref=e2822]:
+            - generic [ref=e2823]:
+              - generic [ref=e2824]: Art. 29-A Fracc. VII CFF • Regla 2.7.1.32 RMF
+              - heading "account_balance_wallet Control de Pagos (PUE vs PPD) y Auditoría de REPs" [level=2] [ref=e2826]:
+                - generic [ref=e2827]: account_balance_wallet
+                - text: Control de Pagos (PUE vs PPD) y Auditoría de REPs
+              - paragraph [ref=e2828]: Separación rigurosa de facturas de contado vs. crédito y auditoría de Complementos de Pago (REP). Identifica comprobantes PPD sin recibo de pago para proteger el acreditamiento del IVA y la deducibilidad de tus gastos.
+            - generic [ref=e2829]:
+              - button "table_chart Descargar Matriz Excel (.xlsx)" [ref=e2830] [cursor=pointer]:
+                - generic [ref=e2831]: table_chart
+                - generic [ref=e2832]: Descargar Matriz Excel (.xlsx)
+              - button "sync Recalcular Auditoría" [ref=e2833] [cursor=pointer]:
+                - generic [ref=e2834]: sync
+                - generic [ref=e2835]: Recalcular Auditoría
+          - generic [ref=e2836]:
+            - generic [ref=e2837]:
+              - generic [ref=e2838]: Gastos PPD Sin REP
+              - generic [ref=e2839]: $0.00
+              - generic [ref=e2840]: 0 facturas de proveedores
+            - generic [ref=e2841]:
+              - generic [ref=e2842]: IVA en Riesgo de Rechazo
+              - generic [ref=e2843]: $0.00
+              - text: No acreditable sin REP oficial
+            - generic [ref=e2844]:
+              - generic [ref=e2845]: PPDs con Plazo Vencido
+              - generic [ref=e2846]: 0 comprobantes
+              - text: Superaron día 5 del mes sig.
+            - generic [ref=e2847]:
+              - generic [ref=e2848]: Cobranza Emitida PPD
+              - generic [ref=e2849]: $0.00
+              - generic [ref=e2850]: "Pendiente por cobrar: $0.00"
+        - generic [ref=e2851]:
+          - generic [ref=e2852]:
+            - button "notification_important Sin REP / Riesgo (0)" [ref=e2853] [cursor=pointer]:
+              - generic [ref=e2854]: notification_important
+              - generic [ref=e2855]: Sin REP / Riesgo (0)
+            - button "Todos (328)" [ref=e2856] [cursor=pointer]
+            - button "check_circle Pagados con REP" [ref=e2857] [cursor=pointer]:
+              - generic [ref=e2858]: check_circle
+              - generic [ref=e2859]: Pagados con REP
+            - button "Contado PUE" [ref=e2860] [cursor=pointer]
+            - button "Proveedores (Gastos)" [ref=e2861] [cursor=pointer]
+            - button "Clientes (Cobranza)" [ref=e2862] [cursor=pointer]
+          - generic [ref=e2863]:
+            - textbox "Buscar por RFC, nombre o UUID..." [ref=e2864]
+            - generic [ref=e2865]: search
+        - table [ref=e2868]:
+          - rowgroup [ref=e2869]:
+            - row [ref=e2870]:
+              - columnheader "Método" [ref=e2871]
+              - columnheader "Fecha" [ref=e2872]
+              - columnheader "RFC Tercero" [ref=e2873]
+              - columnheader "Nombre o Razón Social" [ref=e2874]
+              - columnheader "Total Factura" [ref=e2875]
+              - columnheader "Pagado (REPs)" [ref=e2876]
+              - columnheader "Saldo Insoluto" [ref=e2877]
+              - columnheader "Estatus REP" [ref=e2878]
+              - columnheader "Acciones" [ref=e2879]
+          - rowgroup [ref=e2880]:
+            - row [ref=e2881]:
+              - cell "filter_alt_off No se encontraron comprobantes para el filtro seleccionado." [ref=e2882]:
+                - generic [ref=e2883]: filter_alt_off
+                - text: No se encontraron comprobantes para el filtro seleccionado.

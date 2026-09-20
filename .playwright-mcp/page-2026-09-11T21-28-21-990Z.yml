@@ -1,0 +1,201 @@
+- generic [ref=e1706]:
+  - complementary "Panel lateral de navegación" [ref=e1707]:
+    - generic [ref=e1708]:
+      - generic [ref=e1709]:
+        - generic [ref=e1710]:
+          - generic [ref=e1711]: FV
+          - generic [ref=e1712]:
+            - generic [ref=e1713]:
+              - generic [ref=e1714]: FirmaVault
+              - generic [ref=e1715]: SAT
+            - paragraph [ref=e1716]: Portal de Operaciones
+        - button "close" [ref=e1718] [cursor=pointer]
+      - generic [ref=e1720]:
+        - generic [ref=e1721]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=e1722] [cursor=pointer]:
+            - generic [ref=e1723]:
+              - generic [ref=e1724]: cloud_download
+              - generic [ref=e1726]:
+                - generic [ref=e1727]: Extracción SAT
+                - generic [ref=e1728]: Descargas Automáticas
+            - generic [ref=e1729]:
+              - generic [ref=e1730]: "3"
+              - generic [ref=e1731]: expand_more
+          - generic [ref=e1732]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=e1733] [cursor=pointer]:
+              - generic [ref=e1734]:
+                - generic [ref=e1735]: receipt
+                - generic [ref=e1737]:
+                  - generic [ref=e1738]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=e1740]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=e1741]:
+                    - generic [ref=e1742]: XML + PDF
+                    - generic [ref=e1743]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=e1744] [cursor=pointer]:
+              - generic [ref=e1745]:
+                - generic [ref=e1746]: receipt_long
+                - generic [ref=e1748]:
+                  - generic [ref=e1749]: Recibos de Nómina
+                  - paragraph [ref=e1751]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=e1752]:
+                    - generic [ref=e1753]: PDF + XML
+                    - generic [ref=e1754]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=e1755] [cursor=pointer]:
+              - generic [ref=e1756]:
+                - generic [ref=e1757]: description
+                - generic [ref=e1759]:
+                  - generic [ref=e1760]: Documentos Frecuentes
+                  - paragraph [ref=e1762]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=e1763]:
+                    - generic [ref=e1764]: Opinión 32-D
+                    - generic [ref=e1765]: CSF Actualizada
+                    - generic [ref=e1766]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 6 expand_more" [ref=e1768] [cursor=pointer]:
+          - generic [ref=e1769]:
+            - generic [ref=e1770]: query_stats
+            - generic [ref=e1772]:
+              - generic [ref=e1773]: Papeles de Trabajo
+              - generic [ref=e1774]: Reportes Contables
+          - generic [ref=e1775]:
+            - generic [ref=e1776]: "6"
+            - generic [ref=e1777]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 3 expand_more" [ref=e1779] [cursor=pointer]:
+          - generic [ref=e1780]:
+            - generic [ref=e1781]: shield
+            - generic [ref=e1783]:
+              - generic [ref=e1784]: Auditoría y Riesgo
+              - generic [ref=e1785]: Auditoría Fiscal
+          - generic [ref=e1786]:
+            - generic [ref=e1787]: "3"
+            - generic [ref=e1788]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=e1790] [cursor=pointer]:
+      - generic [ref=e1791]: arrow_back
+      - generic [ref=e1792]: Volver a Contribuyentes
+  - banner [ref=e1793]:
+    - generic [ref=e1795]:
+      - generic [ref=e1796]:
+        - button "Menú principal" [ref=e1797] [cursor=pointer]:
+          - generic [ref=e1798]: menu
+        - navigation "Ruta de navegación" [ref=e1800]:
+          - button "FirmaVault SAT" [ref=e1801] [cursor=pointer]:
+            - generic [ref=e1802]: FirmaVault
+            - generic [ref=e1803]: SAT
+          - generic [ref=e1804]: /
+          - button "Portal" [ref=e1805] [cursor=pointer]
+          - generic [ref=e11416]: /
+          - generic [ref=e11417]:
+            - generic [ref=e11418]: account_balance
+            - generic [ref=e11419]: Conciliación Bancaria vs CFDI
+      - generic [ref=e1806]:
+        - generic [ref=e1807]:
+          - generic [ref=e1808]: AC
+          - generic [ref=e1809]:
+            - generic [ref=e1810]: ARACELI CENTENO HERNANDEZ
+            - generic [ref=e1815]:
+              - generic [ref=e1816]: CEHA7904273AA
+              - generic [ref=e1817]: Física
+        - button "grid_view Hub" [ref=e11420] [cursor=pointer]:
+          - generic [ref=e1820]: grid_view
+          - generic [ref=e1821]: Hub
+  - main [ref=e1822]:
+    - generic [ref=e11421]:
+      - generic [ref=e11424]:
+        - generic [ref=e11425]:
+          - generic [ref=e11426]: account_balance
+          - text: 2. Papeles de Trabajo • Flujo de Efectivo
+        - generic [ref=e11427]: CEHA7904273AA
+      - generic [ref=e11428]:
+        - heading "Conciliación Bancaria vs. CFDI" [level=1] [ref=e11429]
+        - paragraph [ref=e11430]: Cotejo de depósitos y retiros bancarios contra facturas PUE y complementos REP para blindar contra la presunción de ingresos (Art. 59 Fracc. III CFF).
+      - generic [ref=e11431]:
+        - generic [ref=e11432]:
+          - generic [ref=e11433]: tune
+          - generic [ref=e11434]:
+            - heading "Parámetros de Ejecución" [level=3] [ref=e11435]
+            - paragraph [ref=e11436]: "Contribuyente activo: ARACELI CENTENO HERNANDEZ"
+        - generic [ref=e11438]:
+          - generic [ref=e11439]: "Ejercicio:"
+          - combobox [ref=e11440] [cursor=pointer]:
+            - option "2026" [selected]
+            - option "2025"
+            - option "2024"
+            - option "2023"
+            - option "2022"
+      - generic [ref=e11441]:
+        - generic [ref=e11442]:
+          - generic [ref=e11443]:
+            - generic [ref=e11444]: account_balance
+            - generic [ref=e11446]:
+              - generic [ref=e11447]:
+                - heading "Conciliación Bancaria vs. CFDI (Flujo de Efectivo)" [level=2] [ref=e11448]
+                - generic [ref=e11449]: "Riesgo Art. 59 CFF: BAJO"
+              - paragraph [ref=e11450]: Auditoría de estados de cuenta vs. facturas PUE y complementos REP para ARACELI CENTENO HERNANDEZ (CEHA7904273AA) — 2026
+          - generic [ref=e11451]:
+            - button "upload_file Subir Estado de Cuenta" [ref=e11452] [cursor=pointer]:
+              - generic [ref=e11453]: upload_file
+              - generic [ref=e11454]: Subir Estado de Cuenta
+            - button "refresh Actualizar" [ref=e11455] [cursor=pointer]:
+              - generic [ref=e11456]: refresh
+              - generic [ref=e11457]: Actualizar
+            - button "table_chart Descargar Cédula Excel (.xlsx)" [ref=e11458] [cursor=pointer]:
+              - generic [ref=e11459]: table_chart
+              - generic [ref=e11460]: Descargar Cédula Excel (.xlsx)
+        - generic [ref=e11461]:
+          - generic [ref=e11462]:
+            - generic [ref=e11463]:
+              - generic [ref=e11464]: Depósitos Bancarios
+              - generic [ref=e11465]: arrow_downward
+            - generic [ref=e11466]:
+              - generic [ref=e11467]: $0.00
+              - generic [ref=e11468]:
+                - generic [ref=e11469]: 0 movimientos
+                - generic [ref=e11470]: Flujo Entrada
+          - generic [ref=e11471]:
+            - generic [ref=e11472]:
+              - generic [ref=e11473]: Amparados con CFDI
+              - generic [ref=e11474]: check_circle
+            - generic [ref=e11475]:
+              - generic [ref=e11476]: $0.00
+              - generic [ref=e11477]: 0 depósitos conciliados con PUE/REP
+          - generic [ref=e11478]:
+            - generic [ref=e11479]:
+              - generic [ref=e11480]: Depósitos Sin CFDI
+              - generic [ref=e11481]: warning
+            - generic [ref=e11482]:
+              - generic [ref=e11483]: $0.00
+              - generic [ref=e11484]: 0 depósitos (Riesgo presunción fiscal)
+          - generic [ref=e11485]:
+            - generic [ref=e11486]:
+              - generic [ref=e11487]: Retiros Bancarios
+              - generic [ref=e11488]: arrow_upward
+            - generic [ref=e11489]:
+              - generic [ref=e11490]: $0.00
+              - generic [ref=e11491]:
+                - generic [ref=e11492]: 0 sin CFDI
+                - generic [ref=e11493]: $0.00 deducibles
+        - generic [ref=e11494]:
+          - button "payments 1. Depósitos Bancarios vs. Facturación (0)" [ref=e11495] [cursor=pointer]:
+            - generic [ref=e11496]: payments
+            - generic [ref=e11497]: 1. Depósitos Bancarios vs. Facturación (0)
+          - button "shopping_bag 2. Retiros y Gastos vs. Deducciones (0)" [ref=e11498] [cursor=pointer]:
+            - generic [ref=e11499]: shopping_bag
+            - generic [ref=e11500]: 2. Retiros y Gastos vs. Deducciones (0)
+          - button "assignment 3. Cédula Dictamen de Flujo de Efectivo" [ref=e11501] [cursor=pointer]:
+            - generic [ref=e11502]: assignment
+            - generic [ref=e11503]: 3. Cédula Dictamen de Flujo de Efectivo
+        - generic [ref=e11504]:
+          - generic [ref=e11506]:
+            - heading "Auditoría de Entradas de Dinero y Conciliación Fiscal" [level=3] [ref=e11507]
+            - paragraph [ref=e11508]: Cotejo de abonos bancarios contra facturas PUE y complementos REP para prevenir presunciones del SAT (Art. 59 CFF).
+          - table [ref=e11510]:
+            - rowgroup [ref=e11511]:
+              - row [ref=e11512]:
+                - columnheader "Fecha Banco" [ref=e11513]
+                - columnheader "Concepto en Estado de Cuenta" [ref=e11514]
+                - columnheader "Depósito ($)" [ref=e11515]
+                - columnheader "Folio Fiscal CFDI Match" [ref=e11516]
+                - columnheader "Cliente / Receptor" [ref=e11517]
+                - columnheader "Estatus Fiscal" [ref=e11518]
+            - rowgroup [ref=e11519]:
+              - row [ref=e11520]:
+                - cell "No hay depósitos bancarios registrados. Sube el estado de cuenta en Excel o CSV para conciliar." [ref=e11521]

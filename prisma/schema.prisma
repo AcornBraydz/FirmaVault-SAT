@@ -1,0 +1,58 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Client {
+  id        String   @id @default(uuid())
+  rfc       String   @unique
+  name      String
+  password  String
+  cerFile   Bytes
+  keyFile   Bytes
+  validFrom DateTime
+  validTo   DateTime
+  photo     String?
+  curp      String?
+  email     String?
+  certSerialNumber String?
+  issuer    String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  csdCertificates CsdCredential[]
+  auditLogs       AuditLog[]
+}
+
+model CsdCredential {
+  id               String   @id @default(uuid())
+  clientId         String
+  client           Client   @relation(fields: [clientId], references: [id], onDelete: Cascade)
+  branchName       String?
+  cerFile          Bytes
+  keyFile          Bytes
+  password         String
+  validFrom        DateTime
+  validTo          DateTime
+  certSerialNumber String?
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}
+
+model AuditLog {
+  id          String   @id @default(uuid())
+  action      String   // REVEAL_PASSWORD, DOWNLOAD_CREDENTIALS, CREATE_CLIENT, DELETE_CLIENT, SYNC_SAT, CALC_TAX
+  resource    String   // Client, CsdCredential, System
+  resourceId  String?
+  rfc         String?
+  clientId    String?
+  client      Client?  @relation(fields: [clientId], references: [id], onDelete: SetNull)
+  details     String?  // Metadata adicional en JSON
+  ipAddress   String?
+  userAgent   String?
+  createdAt   DateTime @default(now())
+}

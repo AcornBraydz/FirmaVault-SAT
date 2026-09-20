@@ -1,0 +1,15 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    env_file:
+      - .env
+    environment:
+      NODE_ENV: production
+      DATABASE_URL: "file:/app/data/dev.db?connection_limit=1&socket_timeout=10"
+    volumes:
+      - ./data:/app/data
+    command: >
+      sh -c "npx prisma migrate deploy && node server/index.js"

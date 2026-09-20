@@ -1,0 +1,307 @@
+- generic [ref=f1e530]:
+  - complementary "Panel lateral de navegación" [ref=f1e531]:
+    - generic [ref=f1e532]:
+      - generic [ref=f1e533]:
+        - generic [ref=f1e534]:
+          - generic [ref=f1e535]: FV
+          - generic [ref=f1e536]:
+            - generic [ref=f1e537]:
+              - generic [ref=f1e538]: FirmaVault
+              - generic [ref=f1e539]: SAT
+            - paragraph [ref=f1e540]: Portal de Operaciones
+        - button "close" [ref=f1e541] [cursor=pointer]
+      - generic [ref=f1e543]:
+        - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [ref=f1e545] [cursor=pointer]:
+          - generic [ref=f1e546]:
+            - generic [ref=f1e547]: cloud_download
+            - generic [ref=f1e549]:
+              - generic [ref=f1e550]: Extracción SAT
+              - generic [ref=f1e551]: Descargas Automáticas
+          - generic [ref=f1e552]:
+            - generic [ref=f1e553]: "3"
+            - generic [ref=f1e554]: expand_more
+        - generic [ref=f1e590]:
+          - button "query_stats Papeles de Trabajo Reportes Contables 4 expand_more" [expanded] [ref=f1e591] [cursor=pointer]:
+            - generic [ref=f1e592]:
+              - generic [ref=f1e593]: query_stats
+              - generic [ref=f1e595]:
+                - generic [ref=f1e596]: Papeles de Trabajo
+                - generic [ref=f1e597]: Reportes Contables
+            - generic [ref=f1e598]:
+              - generic [ref=f1e599]: "4"
+              - generic [ref=f1e600]: expand_more
+          - generic [ref=f1e1267]:
+            - 'button "calculate Análisis de IVA e ISR Reemplazo analítico de Excel: Subtotal, IVA (16% y 8%), Retenciones ISR, Retenciones IVA y Total. Subtotal / IVA Retenciones ISR/IVA" [ref=f1e1268] [cursor=pointer]':
+              - generic [ref=f1e1269]:
+                - generic [ref=f1e1270]: calculate
+                - generic [ref=f1e1272]:
+                  - generic [ref=f1e1273]: Análisis de IVA e ISR
+                  - paragraph [ref=f1e1275]: "Reemplazo analítico de Excel: Subtotal, IVA (16% y 8%), Retenciones ISR, Retenciones IVA y Total."
+                  - generic [ref=f1e1276]:
+                    - generic [ref=f1e1277]: Subtotal / IVA
+                    - generic [ref=f1e1278]: Retenciones ISR/IVA
+            - button "account_balance_wallet Control de Pagos (PUE vs PPD) Separación de contado (PUE) vs crédito (PPD) y detección de facturas PPD sin Complemento de Pago (REP). PUE vs PPD Alerta sin REP Nuevo" [ref=f1e1279] [cursor=pointer]:
+              - generic [ref=f1e1280]:
+                - generic [ref=f1e1281]: account_balance_wallet
+                - generic [ref=f1e1283]:
+                  - generic [ref=f1e1284]: Control de Pagos (PUE vs PPD)
+                  - paragraph [ref=f1e1286]: Separación de contado (PUE) vs crédito (PPD) y detección de facturas PPD sin Complemento de Pago (REP).
+                  - generic [ref=f1e1287]:
+                    - generic [ref=f1e1288]: PUE vs PPD
+                    - generic [ref=f1e1289]: Alerta sin REP
+                    - generic [ref=f1e1290]: Nuevo
+            - 'button "summarize Resumen de Nóminas para Declarar Concentrado mensual acumulado por empleado: Ingresos Gravados, Ingresos Exentos e ISR Retenido. Gravado / Exento ISR Retenido Nuevo" [ref=f1e1291] [cursor=pointer]':
+              - generic [ref=f1e1292]:
+                - generic [ref=f1e1293]: summarize
+                - generic [ref=f1e1295]:
+                  - generic [ref=f1e1296]: Resumen de Nóminas para Declarar
+                  - paragraph [ref=f1e1298]: "Concentrado mensual acumulado por empleado: Ingresos Gravados, Ingresos Exentos e ISR Retenido."
+                  - generic [ref=f1e1299]:
+                    - generic [ref=f1e1300]: Gravado / Exento
+                    - generic [ref=f1e1301]: ISR Retenido
+                    - generic [ref=f1e1302]: Nuevo
+            - button "table_view Pre-cálculo DIOT Reporte automatizado de gastos del mes agrupados y acumulados por RFC de proveedor para captura DIOT. Agrupado por Proveedor DIOT Nuevo" [active] [ref=f1e1303] [cursor=pointer]:
+              - generic [ref=f1e1304]:
+                - generic [ref=f1e1305]: table_view
+                - generic [ref=f1e1307]:
+                  - generic [ref=f1e1308]: Pre-cálculo DIOT
+                  - paragraph [ref=f1e1310]: Reporte automatizado de gastos del mes agrupados y acumulados por RFC de proveedor para captura DIOT.
+                  - generic [ref=f1e1311]:
+                    - generic [ref=f1e1312]: Agrupado por Proveedor
+                    - generic [ref=f1e1313]: DIOT
+                    - generic [ref=f1e1314]: Nuevo
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 2 expand_more" [ref=f1e602] [cursor=pointer]:
+          - generic [ref=f1e603]:
+            - generic [ref=f1e604]: shield
+            - generic [ref=f1e606]:
+              - generic [ref=f1e607]: Auditoría y Riesgo
+              - generic [ref=f1e608]: Auditoría Fiscal
+          - generic [ref=f1e609]:
+            - generic [ref=f1e610]: "2"
+            - generic [ref=f1e611]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=f1e613] [cursor=pointer]:
+      - generic [ref=f1e614]: arrow_back
+      - generic [ref=f1e615]: Volver a Contribuyentes
+  - banner [ref=f1e616]:
+    - generic [ref=f1e618]:
+      - generic [ref=f1e619]:
+        - button "Menú principal" [ref=f1e620] [cursor=pointer]:
+          - generic [ref=f1e621]: menu
+        - generic [ref=f1e623]:
+          - generic [ref=f1e624]:
+            - generic [ref=f1e625]: FirmaVault
+            - generic [ref=f1e626]: SAT
+          - generic [ref=f1e627]: /
+          - generic [ref=f1e628]:
+            - generic [ref=f1e629]: Papeles de Trabajo
+            - generic [ref=f1e630]: •
+            - generic [ref=f1e631]: Pre-cálculo DIOT
+      - generic [ref=f1e632]:
+        - generic [ref=f1e633]:
+          - generic [ref=f1e634]: schedule
+          - generic [ref=f1e635]: vie, 11 de sep de 2026
+          - generic [ref=f1e636]: •
+          - generic [ref=f1e637]: 12:50:26 a.m.
+        - generic [ref=f1e638]:
+          - generic [ref=f1e639]: AN
+          - generic [ref=f1e640]:
+            - generic [ref=f1e641]: AMERICA NOLASCO PALACIOS
+            - generic [ref=f1e646]:
+              - generic [ref=f1e647]: NOPA890313A48
+              - generic [ref=f1e648]: Persona Física
+        - button "arrow_back Volver" [ref=f1e650] [cursor=pointer]:
+          - generic [ref=f1e651]: arrow_back
+          - generic [ref=f1e652]: Volver
+  - main [ref=f1e653]:
+    - generic [ref=f1e1828]:
+      - generic [ref=f1e1831]:
+        - generic [ref=f1e1832]:
+          - generic [ref=f1e1833]: table_view
+          - text: 2. Papeles de Trabajo • Reportes Contables
+        - generic [ref=f1e1834]: NOPA890313A48
+      - generic [ref=f1e1835]:
+        - heading "Pre-cálculo DIOT (Art. 32 Fracc. VIII LIVA)" [level=1] [ref=f1e1836]
+        - paragraph [ref=f1e1837]: Auditoría de compras y gastos efectivamente pagados agrupados por proveedor para la Declaración Informativa de Operaciones con Terceros.
+      - generic [ref=f1e1838]:
+        - generic [ref=f1e1839]:
+          - generic [ref=f1e1840]: tune
+          - generic [ref=f1e1841]:
+            - heading "Parámetros de Ejecución" [level=3] [ref=f1e1842]
+            - paragraph [ref=f1e1843]: "Contribuyente activo: AMERICA NOLASCO PALACIOS"
+        - generic [ref=f1e1844]:
+          - button "upload_file Subir XMLs (.xml / .zip)" [ref=f1e1845] [cursor=pointer]:
+            - generic [ref=f1e1846]: upload_file
+            - generic [ref=f1e1847]: Subir XMLs (.xml / .zip)
+          - generic [ref=f1e1848]:
+            - generic [ref=f1e1849]: "Ejercicio:"
+            - combobox [ref=f1e1850] [cursor=pointer]:
+              - option "2026" [selected]
+              - option "2025"
+              - option "2024"
+              - option "2023"
+              - option "2022"
+          - generic [ref=f1e1851]:
+            - generic [ref=f1e1852]: "Periodo:"
+            - combobox [ref=f1e1853] [cursor=pointer]:
+              - option "Todo el Año (Consolidado)" [selected]
+              - option "Enero"
+              - option "Febrero"
+              - option "Marzo"
+              - option "Abril"
+              - option "Mayo"
+              - option "Junio"
+              - option "Julio"
+              - option "Agosto"
+              - option "Septiembre"
+              - option "Octubre"
+              - option "Noviembre"
+              - option "Diciembre"
+          - button "play_circle Descargar Paquete DIOT (ZIP)" [ref=f1e1854] [cursor=pointer]:
+            - generic [ref=f1e1855]: play_circle
+            - generic [ref=f1e1856]: Descargar Paquete DIOT (ZIP)
+      - generic [ref=f1e1857]:
+        - generic [ref=f1e1858]:
+          - generic [ref=f1e1859]:
+            - generic [ref=f1e1860]:
+              - generic [ref=f1e1861]: Art. 32 Fracc. VIII LIVA • Formato Electrónico A-29
+              - heading "table_view Pre-cálculo DIOT — Declaración Informativa de Operaciones con Terceros" [level=2] [ref=f1e1863]:
+                - generic [ref=f1e1864]: table_view
+                - text: Pre-cálculo DIOT — Declaración Informativa de Operaciones con Terceros
+              - paragraph [ref=f1e1865]: Agrupación automática por RFC de proveedor con desglose de bases gravables (16%, 8%, 0%, Exentos y Retenciones). Genera en 1 clic el archivo batch listo para importar directo en la DIOT del SAT.
+            - generic [ref=f1e1866]:
+              - button "folder_zip Descargar Paquete Completo (.zip)" [ref=f1e1867] [cursor=pointer]:
+                - generic [ref=f1e1868]: folder_zip
+                - generic [ref=f1e1869]: Descargar Paquete Completo (.zip)
+              - generic [ref=f1e1870]:
+                - button "📊 Excel (.xlsx)" [ref=f1e1871] [cursor=pointer]
+                - button "TXT 54 Campos" [ref=f1e1872] [cursor=pointer]
+                - button "TXT DEM (24)" [ref=f1e1873] [cursor=pointer]
+          - generic [ref=f1e1874]:
+            - generic [ref=f1e1875]:
+              - generic [ref=f1e1876]: Base 16% Pagada
+              - generic [ref=f1e1877]: $77,453.92
+              - generic [ref=f1e1878]: "IVA 16%: $1,458.22"
+            - generic [ref=f1e1879]:
+              - generic [ref=f1e1880]: IVA Acreditable DIOT
+              - generic [ref=f1e1881]: $1,458.22
+              - text: 100% efectivamente pagado
+            - generic [ref=f1e1882]:
+              - generic [ref=f1e1883]: IVA Retenido (002)
+              - generic [ref=f1e1884]: $0.00
+              - text: Retenciones a proveedores
+            - generic [ref=f1e1885]:
+              - generic [ref=f1e1886]: Confronta Fiscal
+              - generic [ref=f1e1887]:
+                - generic [ref=f1e1888]: verified
+                - generic [ref=f1e1889]: Conciliación Cuadrada
+              - text: "Diferencia: $0.00 MXN"
+        - generic [ref=f1e1890]:
+          - generic [ref=f1e1891]:
+            - generic [ref=f1e1892]: Proveedores
+            - generic [ref=f1e1893]: "4"
+            - generic [ref=f1e1894]: 17 facturas pagadas
+          - generic [ref=f1e1895]:
+            - generic [ref=f1e1896]: Actos al 16%
+            - generic [ref=f1e1897]: $77,453.92
+            - text: Tasa General
+          - generic [ref=f1e1898]:
+            - generic [ref=f1e1899]: Frontera (8%)
+            - generic [ref=f1e1900]: $0.00
+            - text: Estímulo Región Norte
+          - generic [ref=f1e1901]:
+            - generic [ref=f1e1902]: Tasa 0%
+            - generic [ref=f1e1903]: $0.00
+            - text: Medicinas / Alimentos
+          - generic [ref=f1e1904]:
+            - generic [ref=f1e1905]: Actos Exentos
+            - generic [ref=f1e1906]: $4,000.00
+            - text: Sin traslado de IVA
+          - generic [ref=f1e1907]:
+            - generic [ref=f1e1908]: Total Operación
+            - generic [ref=f1e1909]: $75,626.07
+            - text: Total compras y gastos
+        - generic [ref=f1e1910]:
+          - generic [ref=f1e1911]:
+            - generic [ref=f1e1912]:
+              - generic [ref=f1e1913]: account_tree
+              - heading "Padrón de Terceros para DIOT (Formato A-29)" [level=3] [ref=f1e1914]
+              - generic [ref=f1e1915]: 4 tercero(s)
+            - generic [ref=f1e1916]:
+              - generic [ref=f1e1917]:
+                - button "Todos (4)" [ref=f1e1918] [cursor=pointer]
+                - button "Con IVA 16%/8%" [ref=f1e1919] [cursor=pointer]
+                - button "Con Retenciones" [ref=f1e1920] [cursor=pointer]
+                - button "0% / Exento" [ref=f1e1921] [cursor=pointer]
+              - generic [ref=f1e1922]:
+                - textbox "Buscar por RFC o proveedor..." [ref=f1e1923]
+                - generic [ref=f1e1924]: filter_alt
+          - table [ref=f1e1926]:
+            - rowgroup [ref=f1e1927]:
+              - row [ref=f1e1928]:
+                - columnheader "Tipo 3°" [ref=f1e1929]
+                - columnheader "Tipo Op." [ref=f1e1930]
+                - columnheader "RFC Proveedor" [ref=f1e1931]
+                - columnheader "Razón Social" [ref=f1e1932]
+                - columnheader "CFDIs" [ref=f1e1933]
+                - columnheader "Base 16% ($)" [ref=f1e1934]
+                - columnheader "IVA Trasl. ($)" [ref=f1e1935]
+                - columnheader "IVA Ret. ($)" [ref=f1e1936]
+                - columnheader "Total Operación ($)" [ref=f1e1937]
+                - columnheader "Acciones" [ref=f1e1938]
+            - rowgroup [ref=f1e1939]:
+              - row [ref=f1e1940]:
+                - cell "04" [ref=f1e1941]
+                - cell "85" [ref=f1e1942]
+                - cell "INO981201JN3" [ref=f1e1943]
+                - cell "INSTITUTO NOYOLA" [ref=f1e1944]
+                - cell "13" [ref=f1e1946]
+                - cell "$68,340.00" [ref=f1e1947]
+                - cell "$0.00" [ref=f1e1948]
+                - cell "$0.00" [ref=f1e1949]
+                - cell "$68,340.00" [ref=f1e1950]
+                - cell [ref=f1e1951]:
+                  - button "receipt_long Facturas" [ref=f1e1952] [cursor=pointer]:
+                    - generic [ref=f1e1953]: receipt_long
+                    - generic [ref=f1e1954]: Facturas
+              - row [ref=f1e1955]:
+                - cell "04" [ref=f1e1956]
+                - cell "85" [ref=f1e1957]
+                - cell "LMP771017AM6" [ref=f1e1958]
+                - cell "LABORATORIO MEDICO POLANCO" [ref=f1e1959]
+                - cell "1" [ref=f1e1961]
+                - cell "$8,753.92" [ref=f1e1962]
+                - cell "$1,400.62" [ref=f1e1963]
+                - cell "$0.00" [ref=f1e1964]
+                - cell "$5,077.27" [ref=f1e1965]
+                - cell [ref=f1e1966]:
+                  - button "receipt_long Facturas" [ref=f1e1967] [cursor=pointer]:
+                    - generic [ref=f1e1968]: receipt_long
+                    - generic [ref=f1e1969]: Facturas
+              - row [ref=f1e1970]:
+                - cell "04" [ref=f1e1971]
+                - cell "03" [ref=f1e1972]
+                - cell "NUBS7310188T1" [ref=f1e1973]
+                - cell "SANDRA ISABEL NUÑEZ BARRERA" [ref=f1e1974]
+                - cell "2" [ref=f1e1976]
+                - cell "$0.00" [ref=f1e1977]
+                - cell "$0.00" [ref=f1e1978]
+                - cell "$0.00" [ref=f1e1979]
+                - cell "$2,000.00" [ref=f1e1980]
+                - cell [ref=f1e1981]:
+                  - button "receipt_long Facturas" [ref=f1e1982] [cursor=pointer]:
+                    - generic [ref=f1e1983]: receipt_long
+                    - generic [ref=f1e1984]: Facturas
+              - row [ref=f1e1985]:
+                - cell "04" [ref=f1e1986]
+                - cell "85" [ref=f1e1987]
+                - cell "BMN930209927" [ref=f1e1988]
+                - cell "BANCO MERCANTIL DEL NORTE SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE" [ref=f1e1989]
+                - cell "1" [ref=f1e1991]
+                - cell "$360.00" [ref=f1e1992]
+                - cell "$57.60" [ref=f1e1993]
+                - cell "$0.00" [ref=f1e1994]
+                - cell "$208.80" [ref=f1e1995]
+                - cell [ref=f1e1996]:
+                  - button "receipt_long Facturas" [ref=f1e1997] [cursor=pointer]:
+                    - generic [ref=f1e1998]: receipt_long
+                    - generic [ref=f1e1999]: Facturas

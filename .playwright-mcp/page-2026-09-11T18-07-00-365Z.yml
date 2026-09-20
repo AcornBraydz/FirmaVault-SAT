@@ -1,0 +1,19 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]: FirmaVault
+      - generic [ref=e9]: SAT
+    - paragraph [ref=e10]: Gestión Segura de Credenciales e.firma
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - generic [ref=e13]: lock
+      - heading "Acceso al Sistema" [level=1] [ref=e15]
+      - paragraph [ref=e16]: Ingresa la contraseña maestra para continuar
+      - generic [ref=e17]:
+        - generic [ref=e18]: key
+        - textbox "Contraseña maestra" [active] [ref=e19]
+        - button "visibility" [ref=e20] [cursor=pointer]
+    - button "login Ingresar" [ref=e23] [cursor=pointer]:
+      - generic [ref=e24]: login
+      - text: Ingresar
+  - paragraph [ref=e25]: Sistema protegido con cifrado AES-256 y autenticación JWT

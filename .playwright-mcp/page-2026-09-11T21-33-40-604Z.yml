@@ -1,0 +1,442 @@
+- generic [ref=e1706]:
+  - complementary "Panel lateral de navegación" [ref=e1707]:
+    - generic [ref=e1708]:
+      - generic [ref=e1709]:
+        - generic [ref=e1710]:
+          - generic [ref=e1711]: FV
+          - generic [ref=e1712]:
+            - generic [ref=e1713]:
+              - generic [ref=e1714]: FirmaVault
+              - generic [ref=e1715]: SAT
+            - paragraph [ref=e1716]: Portal de Operaciones
+        - button "close" [ref=e1718] [cursor=pointer]
+      - generic [ref=e1720]:
+        - generic [ref=e1721]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=e1722] [cursor=pointer]:
+            - generic [ref=e1723]:
+              - generic [ref=e1724]: cloud_download
+              - generic [ref=e1726]:
+                - generic [ref=e1727]: Extracción SAT
+                - generic [ref=e1728]: Descargas Automáticas
+            - generic [ref=e1729]:
+              - generic [ref=e1730]: "3"
+              - generic [ref=e1731]: expand_more
+          - generic [ref=e1732]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=e1733] [cursor=pointer]:
+              - generic [ref=e1734]:
+                - generic [ref=e1735]: receipt
+                - generic [ref=e1737]:
+                  - generic [ref=e1738]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=e1740]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=e1741]:
+                    - generic [ref=e1742]: XML + PDF
+                    - generic [ref=e1743]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=e1744] [cursor=pointer]:
+              - generic [ref=e1745]:
+                - generic [ref=e1746]: receipt_long
+                - generic [ref=e1748]:
+                  - generic [ref=e1749]: Recibos de Nómina
+                  - paragraph [ref=e1751]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=e1752]:
+                    - generic [ref=e1753]: PDF + XML
+                    - generic [ref=e1754]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=e1755] [cursor=pointer]:
+              - generic [ref=e1756]:
+                - generic [ref=e1757]: description
+                - generic [ref=e1759]:
+                  - generic [ref=e1760]: Documentos Frecuentes
+                  - paragraph [ref=e1762]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=e1763]:
+                    - generic [ref=e1764]: Opinión 32-D
+                    - generic [ref=e1765]: CSF Actualizada
+                    - generic [ref=e1766]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 6 expand_more" [ref=e1768] [cursor=pointer]:
+          - generic [ref=e1769]:
+            - generic [ref=e1770]: query_stats
+            - generic [ref=e1772]:
+              - generic [ref=e1773]: Papeles de Trabajo
+              - generic [ref=e1774]: Reportes Contables
+          - generic [ref=e1775]:
+            - generic [ref=e1776]: "6"
+            - generic [ref=e1777]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 3 expand_more" [ref=e1779] [cursor=pointer]:
+          - generic [ref=e1780]:
+            - generic [ref=e1781]: shield
+            - generic [ref=e1783]:
+              - generic [ref=e1784]: Auditoría y Riesgo
+              - generic [ref=e1785]: Auditoría Fiscal
+          - generic [ref=e1786]:
+            - generic [ref=e1787]: "3"
+            - generic [ref=e1788]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=e1790] [cursor=pointer]:
+      - generic [ref=e1791]: arrow_back
+      - generic [ref=e1792]: Volver a Contribuyentes
+  - banner [ref=e1793]:
+    - generic [ref=e1795]:
+      - generic [ref=e1796]:
+        - button "Menú principal" [ref=e1797] [cursor=pointer]:
+          - generic [ref=e1798]: menu
+        - navigation "Ruta de navegación" [ref=e1800]:
+          - button "FirmaVault SAT" [ref=e1801] [cursor=pointer]:
+            - generic [ref=e1802]: FirmaVault
+            - generic [ref=e1803]: SAT
+          - generic [ref=e1804]: /
+          - button "Portal" [ref=e1805] [cursor=pointer]
+          - generic [ref=e24555]: /
+          - generic [ref=e24556]:
+            - generic [ref=e24557]: receipt
+            - generic [ref=e24558]: Facturas (Ingresos y Gastos)
+      - generic [ref=e1806]:
+        - generic [ref=e1807]:
+          - generic [ref=e1808]: AC
+          - generic [ref=e1809]:
+            - generic [ref=e1810]: ARACELI CENTENO HERNANDEZ
+            - generic [ref=e1815]:
+              - generic [ref=e1816]: CEHA7904273AA
+              - generic [ref=e1817]: Física
+        - button "grid_view Hub" [ref=e24559] [cursor=pointer]:
+          - generic [ref=e1820]: grid_view
+          - generic [ref=e1821]: Hub
+  - main [ref=e1822]:
+    - generic [ref=e24560]:
+      - generic [ref=e24562]:
+        - generic [ref=e24563]:
+          - generic [ref=e24564]: Facturas Recibidas (Gastos y Compras)
+          - generic [ref=e24566]: "Contribuyente: CEHA7904273AA"
+        - generic [ref=e24567]:
+          - generic [ref=e24568]: verified
+          - generic [ref=e24569]: Conexión Directa al Portal del SAT vía e.firma
+      - generic [ref=e24570]:
+        - button "upload Facturas Emitidas Comprobantes emitidos a clientes • ConsultaEmisor.aspx" [ref=e24571] [cursor=pointer]:
+          - generic [ref=e24573]:
+            - generic [ref=e24574]: upload
+            - generic [ref=e24576]:
+              - heading "Facturas Emitidas" [level=4] [ref=e24577]
+              - paragraph [ref=e24578]: Comprobantes emitidos a clientes • ConsultaEmisor.aspx
+        - button "download Facturas Recibidas Comprobantes recibidos de proveedores • ConsultaReceptor.aspx check_circle" [ref=e24579] [cursor=pointer]:
+          - generic [ref=e24580]:
+            - generic [ref=e24581]:
+              - generic [ref=e24582]: download
+              - generic [ref=e24584]:
+                - heading "Facturas Recibidas" [level=4] [ref=e24585]
+                - paragraph [ref=e24586]: Comprobantes recibidos de proveedores • ConsultaReceptor.aspx
+            - generic [ref=e24587]: check_circle
+      - generic [ref=e24588]:
+        - heading "Descarga Automatizada de Facturas Recibidas del SAT" [level=1] [ref=e24589]
+        - paragraph [ref=e24590]: Extracción directa de comprobantes fiscales recibidos de proveedores para ARACELI CENTENO HERNANDEZ desde el SAT, convirtiéndolos en Excel con fórmulas contables automáticas de IVA al 16%.
+      - generic [ref=e24591]:
+        - generic [ref=e24592]:
+          - heading "tune Criterios de Consulta ante el SAT" [level=3] [ref=e24593]:
+            - generic [ref=e24594]: tune
+            - text: Criterios de Consulta ante el SAT
+          - generic [ref=e24595]:
+            - generic [ref=e24596]: local_shipping
+            - text: "Tipo: Recibidas (Compras)"
+        - generic [ref=e24597]:
+          - generic [ref=e24598]:
+            - generic [ref=e24599]: Ejercicio Fiscal (Año)
+            - generic [ref=e24600]:
+              - combobox [ref=e24601] [cursor=pointer]:
+                - option "2026 (Actual)" [selected]
+                - option "2025"
+                - option "2024"
+                - option "2023"
+                - option "2022"
+                - option "2021"
+                - option "2020"
+                - option "2019"
+                - option "2018"
+                - option "2017"
+                - option "2016"
+                - option "2015"
+                - option "2014"
+                - option "2013"
+                - option "2012"
+              - generic: expand_more
+          - generic [ref=e24602]:
+            - generic [ref=e24603]: Periodo Fiscal (Mes)
+            - generic [ref=e24604]:
+              - combobox [ref=e24605] [cursor=pointer]:
+                - option "Todo el año" [selected]
+                - option "Enero"
+                - option "Febrero"
+                - option "Marzo"
+                - option "Abril"
+                - option "Mayo"
+                - option "Junio"
+                - option "Julio"
+                - option "Agosto"
+                - option "Septiembre"
+                - option "Octubre"
+                - option "Noviembre"
+                - option "Diciembre"
+              - generic: expand_more
+        - generic [ref=e24606]:
+          - generic [ref=e24607]:
+            - generic [ref=e24608]: key
+            - generic [ref=e24609]:
+              - text: "e.firma vinculada:"
+              - strong [ref=e24610]: CEHA7904273AA
+              - text: • Credenciales listas
+          - button "cloud_download Descargar Facturas Recibidas del SAT" [ref=e24612] [cursor=pointer]:
+            - generic [ref=e24613]: cloud_download
+            - generic [ref=e24614]: Descargar Facturas Recibidas del SAT
+      - generic [ref=e24615]:
+        - generic [ref=e24616]:
+          - generic [ref=e24617]:
+            - generic [ref=e24618]:
+              - generic [ref=e24619]: verified
+              - generic [ref=e24621]:
+                - generic [ref=e24622]: 100% Completado • Descarga Lista
+                - heading "Facturas Recibidas extraídas exitosamente del SAT" [level=3] [ref=e24625]
+                - paragraph [ref=e24626]:
+                  - text: "Periodo:"
+                  - strong [ref=e24627]: Todo el año 2026
+                  - text: • 344 comprobantes procesados con fórmulas contables vivas
+            - generic [ref=e24628]:
+              - button "refresh Nueva Consulta" [ref=e24629] [cursor=pointer]:
+                - generic [ref=e24630]: refresh
+                - generic [ref=e24631]: Nueva Consulta
+              - button "folder_zip Descargar ZIP (PDF + XML) 670 archivos" [ref=e24632] [cursor=pointer]:
+                - generic [ref=e24633]: folder_zip
+                - generic [ref=e24634]: Descargar ZIP (PDF + XML)
+                - generic [ref=e24635]: 670 archivos
+              - button "download Descargar Excel (.xlsx)" [ref=e24636] [cursor=pointer]:
+                - generic [ref=e24637]: download
+                - generic [ref=e24638]: Descargar Excel (.xlsx)
+          - generic [ref=e24639]:
+            - generic [ref=e24640]:
+              - generic [ref=e24641]: folder_check
+              - generic [ref=e24642]:
+                - text: "Guardado en tu carpeta de Descargas:"
+                - strong [ref=e24643]: C:\Users\Gio\Downloads\Facturas_RECIBIDAS_CEHA7904273AA_2026_ANUAL.xlsx
+            - generic [ref=e24644]:
+              - button "table_view Abrir en Excel" [ref=e24645] [cursor=pointer]:
+                - generic [ref=e24646]: table_view
+                - generic [ref=e24647]: Abrir en Excel
+              - button "folder_open Ver en Descargas" [ref=e24648] [cursor=pointer]:
+                - generic [ref=e24649]: folder_open
+                - generic [ref=e24650]: Ver en Descargas
+        - generic [ref=e24651]:
+          - generic [ref=e24652]:
+            - generic [ref=e24653]: Total Facturas
+            - generic [ref=e24655]: "344"
+            - generic [ref=e24656]: Comprobantes procesados
+          - generic [ref=e24657]:
+            - generic [ref=e24658]: Monto Facturado
+            - generic [ref=e24660]: $158,541.68
+            - generic [ref=e24661]: Suma total de comprobantes
+          - generic [ref=e24662]:
+            - generic [ref=e24663]: Comprobantes Vigentes
+            - generic [ref=e24665]: "341"
+            - generic [ref=e24666]: Activos en el SAT
+          - generic [ref=e24667]:
+            - generic [ref=e24668]: Cancelados
+            - generic [ref=e24670]: "3"
+            - generic [ref=e24671]: Sin efectos fiscales
+        - generic [ref=e24672]:
+          - generic [ref=e24673]:
+            - generic [ref=e24675]:
+              - generic [ref=e24676]: calendar_month
+              - generic [ref=e24677]: "Filtrar por Mes:"
+              - generic [ref=e24678]: •
+              - generic [ref=e24679]:
+                - text: "Mostrando:"
+                - strong [ref=e24680]: Todo el año
+                - generic [ref=e24681]: (344 facturas)
+            - generic [ref=e24682]:
+              - button "Todo el año 344" [ref=e24683] [cursor=pointer]:
+                - generic [ref=e24684]: Todo el año
+                - generic [ref=e24685]: "344"
+              - generic [ref=e24687]:
+                - button "Ene 51" [ref=e24688] [cursor=pointer]:
+                  - generic [ref=e24689]: Ene
+                  - generic [ref=e24690]: "51"
+                - button "Feb 35" [ref=e24691] [cursor=pointer]:
+                  - generic [ref=e24692]: Feb
+                  - generic [ref=e24693]: "35"
+                - button "Mar 22" [ref=e24694] [cursor=pointer]:
+                  - generic [ref=e24695]: Mar
+                  - generic [ref=e24696]: "22"
+                - button "Abr 45" [ref=e24697] [cursor=pointer]:
+                  - generic [ref=e24698]: Abr
+                  - generic [ref=e24699]: "45"
+                - button "May 56" [ref=e24700] [cursor=pointer]:
+                  - generic [ref=e24701]: May
+                  - generic [ref=e24702]: "56"
+                - button "Jun 31" [ref=e24703] [cursor=pointer]:
+                  - generic [ref=e24704]: Jun
+                  - generic [ref=e24705]: "31"
+                - button "Jul 46" [ref=e24706] [cursor=pointer]:
+                  - generic [ref=e24707]: Jul
+                  - generic [ref=e24708]: "46"
+                - button "Ago 48" [ref=e24709] [cursor=pointer]:
+                  - generic [ref=e24710]: Ago
+                  - generic [ref=e24711]: "48"
+                - button "Sep 10" [ref=e24712] [cursor=pointer]:
+                  - generic [ref=e24713]: Sep
+                  - generic [ref=e24714]: "10"
+                - button "Oct ·" [disabled] [ref=e24715]:
+                  - generic [ref=e24716]: Oct
+                  - generic [ref=e24717]: ·
+                - button "Nov ·" [disabled] [ref=e24718]:
+                  - generic [ref=e24719]: Nov
+                  - generic [ref=e24720]: ·
+                - button "Dic ·" [disabled] [ref=e24721]:
+                  - generic [ref=e24722]: Dic
+                  - generic [ref=e24723]: ·
+          - generic [ref=e24724]:
+            - generic [ref=e24725]:
+              - generic [ref=e24726]: search
+              - textbox "Buscar por Folio, RFC o Razón Social..." [ref=e24727]
+            - generic [ref=e24729]:
+              - button "Todos (344)" [ref=e24730] [cursor=pointer]
+              - button "Vigentes (341)" [ref=e24731] [cursor=pointer]
+              - button "Cancelados (3)" [ref=e24732] [cursor=pointer]
+          - table [ref=e24734]:
+            - rowgroup [ref=e24735]:
+              - row [ref=e24736]:
+                - columnheader "Folio Fiscal (UUID)" [ref=e24737]
+                - columnheader "Mes" [ref=e24738]
+                - columnheader "Fecha Emisión" [ref=e24739]
+                - columnheader "Proveedor / Emisor" [ref=e24740]
+                - columnheader "RFC" [ref=e24741]
+                - columnheader "Importe" [ref=e24742]
+                - columnheader "IVA al 16%" [ref=e24743]
+                - columnheader "Total" [ref=e24744]
+                - columnheader "Estado" [ref=e24745]
+            - rowgroup [ref=e24746]:
+              - row [ref=e24747]:
+                - cell "5F5167A8-C549... content_copy" [ref=e24748]:
+                  - generic [ref=e24749]:
+                    - generic "5F5167A8-C549-4495-8754-73622875CA0E" [ref=e24750]: 5F5167A8-C549...
+                    - button "content_copy" [ref=e24751] [cursor=pointer]
+                - cell "calendar_today Enero" [ref=e24753]:
+                  - generic [ref=e24754]:
+                    - generic [ref=e24755]: calendar_today
+                    - text: Enero
+                - cell "--" [ref=e24756]
+                - cell "Sin Nombre" [ref=e24757]
+                - cell "TME840315KT6" [ref=e24758]
+                - cell "$0.00" [ref=e24759]
+                - cell "$0.00" [ref=e24760]
+                - cell "$0.00" [ref=e24761]
+                - cell "Vigente" [ref=e24762]
+              - row [ref=e24764]:
+                - cell "0EA11C54-37EF... content_copy" [ref=e24765]:
+                  - generic [ref=e24766]:
+                    - generic "0EA11C54-37EF-448F-A7FB-06C23A1B8415" [ref=e24767]: 0EA11C54-37EF...
+                    - button "content_copy" [ref=e24768] [cursor=pointer]
+                - cell "calendar_today Enero" [ref=e24770]:
+                  - generic [ref=e24771]:
+                    - generic [ref=e24772]: calendar_today
+                    - text: Enero
+                - cell "--" [ref=e24773]
+                - cell "Sin Nombre" [ref=e24774]
+                - cell "MAC870728Q75" [ref=e24775]
+                - cell "$2,127.59" [ref=e24776]
+                - cell "$340.41" [ref=e24777]
+                - cell "$2,468.00" [ref=e24778]
+                - cell "Vigente" [ref=e24779]
+              - row [ref=e24781]:
+                - cell "48DCDA68-9C88... content_copy" [ref=e24782]:
+                  - generic [ref=e24783]:
+                    - generic "48DCDA68-9C88-447C-AFB0-AC3BA5E1A533" [ref=e24784]: 48DCDA68-9C88...
+                    - button "content_copy" [ref=e24785] [cursor=pointer]
+                - cell "calendar_today Enero" [ref=e24787]:
+                  - generic [ref=e24788]:
+                    - generic [ref=e24789]: calendar_today
+                    - text: Enero
+                - cell "--" [ref=e24790]
+                - cell "Sin Nombre" [ref=e24791]
+                - cell "MAC870728Q75" [ref=e24792]
+                - cell "$1,163.79" [ref=e24793]
+                - cell "$186.21" [ref=e24794]
+                - cell "$1,350.00" [ref=e24795]
+                - cell "Vigente" [ref=e24796]
+              - row [ref=e24798]:
+                - cell "1F355142-86B3... content_copy" [ref=e24799]:
+                  - generic [ref=e24800]:
+                    - generic "1F355142-86B3-4A04-9E19-0E1DE7F481E5" [ref=e24801]: 1F355142-86B3...
+                    - button "content_copy" [ref=e24802] [cursor=pointer]
+                - cell "calendar_today Enero" [ref=e24804]:
+                  - generic [ref=e24805]:
+                    - generic [ref=e24806]: calendar_today
+                    - text: Enero
+                - cell "--" [ref=e24807]
+                - cell "Sin Nombre" [ref=e24808]
+                - cell "MAC870728Q75" [ref=e24809]
+                - cell "$198.28" [ref=e24810]
+                - cell "$31.72" [ref=e24811]
+                - cell "$230.00" [ref=e24812]
+                - cell "Vigente" [ref=e24813]
+              - row [ref=e24815]:
+                - cell "CEC94227-1F58... content_copy" [ref=e24816]:
+                  - generic [ref=e24817]:
+                    - generic "CEC94227-1F58-41DA-94CE-5AC246C46BB6" [ref=e24818]: CEC94227-1F58...
+                    - button "content_copy" [ref=e24819] [cursor=pointer]
+                - cell "calendar_today Enero" [ref=e24821]:
+                  - generic [ref=e24822]:
+                    - generic [ref=e24823]: calendar_today
+                    - text: Enero
+                - cell "--" [ref=e24824]
+                - cell "Sin Nombre" [ref=e24825]
+                - cell "MAC870728Q75" [ref=e24826]
+                - cell "$948.28" [ref=e24827]
+                - cell "$151.72" [ref=e24828]
+                - cell "$1,100.00" [ref=e24829]
+                - cell "Vigente" [ref=e24830]
+              - row [ref=e24832]:
+                - cell "5DF470E0-7BB9... content_copy" [ref=e24833]:
+                  - generic [ref=e24834]:
+                    - generic "5DF470E0-7BB9-4401-9B7B-22DA0881B850" [ref=e24835]: 5DF470E0-7BB9...
+                    - button "content_copy" [ref=e24836] [cursor=pointer]
+                - cell "calendar_today Enero" [ref=e24838]:
+                  - generic [ref=e24839]:
+                    - generic [ref=e24840]: calendar_today
+                    - text: Enero
+                - cell "--" [ref=e24841]
+                - cell "Sin Nombre" [ref=e24842]
+                - cell "VIFS760506MP5" [ref=e24843]
+                - cell "$427.59" [ref=e24844]
+                - cell "$68.41" [ref=e24845]
+                - cell "$496.00" [ref=e24846]
+                - cell "Vigente" [ref=e24847]
+              - row [ref=e24849]:
+                - cell "C1354B50-5E7E... content_copy" [ref=e24850]:
+                  - generic [ref=e24851]:
+                    - generic "C1354B50-5E7E-4B49-A901-D4A707C084FB" [ref=e24852]: C1354B50-5E7E...
+                    - button "content_copy" [ref=e24853] [cursor=pointer]
+                - cell "calendar_today Enero" [ref=e24855]:
+                  - generic [ref=e24856]:
+                    - generic [ref=e24857]: calendar_today
+                    - text: Enero
+                - cell "--" [ref=e24858]
+                - cell "Sin Nombre" [ref=e24859]
+                - cell "VIFS760506MP5" [ref=e24860]
+                - cell "$35.34" [ref=e24861]
+                - cell "$5.66" [ref=e24862]
+                - cell "$41.00" [ref=e24863]
+                - cell "Vigente" [ref=e24864]
+              - row [ref=e24866]:
+                - cell "DC7B9778-3CBC... content_copy" [ref=e24867]:
+                  - generic [ref=e24868]:
+                    - generic "DC7B9778-3CBC-4D28-93A1-EDDD7CA339C2" [ref=e24869]: DC7B9778-3CBC...
+                    - button "content_copy" [ref=e24870] [cursor=pointer]
+                - cell "calendar_today Enero" [ref=e24872]:
+                  - generic [ref=e24873]:
+                    - generic [ref=e24874]: calendar_today
+                    - text: Enero
+                - cell "--" [ref=e24875]
+                - cell "Sin Nombre" [ref=e24876]
+                - cell "MAC870728Q75" [ref=e24877]
+                - cell "$343.97" [ref=e24878]
+                - cell "$55.03" [ref=e24879]
+                - cell "$399.00" [ref=e24880]
+                - cell "Vigente" [ref=e24881]
+          - generic [ref=e24883]:
+            - generic [ref=e24884]: Mostrando 1 a 8 de 344 registros
+            - generic [ref=e24885]:
+              - button "Anterior" [disabled] [ref=e24886] [cursor=pointer]
+              - generic [ref=e24887]: 1 / 43
+              - button "Siguiente" [ref=e24888] [cursor=pointer]

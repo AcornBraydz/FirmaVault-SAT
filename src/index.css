@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+button:not(:disabled),
+[role="button"]:not(:disabled) {
+  cursor: pointer;
+}
+
+@keyframes roadDash {
+  0% { stroke-dashoffset: 0; }
+  100% { stroke-dashoffset: -40; }
+}
+
+@keyframes vehicleBob {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-3px); }
+}
+
+@keyframes wheelSpin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes paperFloat {
+  0% { transform: translateY(-14px) scale(0.9); opacity: 0; }
+  40% { opacity: 1; }
+  100% { transform: translateY(14px) scale(1.02); opacity: 0.9; }
+}
+
+@keyframes radarSweep {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes floatCloud {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(14px); }
+}
+
+@keyframes confettiPoof {
+  0% { transform: scale(0.5) translateY(0); opacity: 1; }
+  100% { transform: scale(1.2) translateY(-20px); opacity: 0; }
+}
+
+.animate-road {
+  animation: roadDash 0.8s linear infinite;
+}
+
+.animate-vehicle {
+  animation: vehicleBob 0.6s ease-in-out infinite;
+}
+
+.animate-wheel {
+  animation: wheelSpin 0.5s linear infinite;
+  transform-origin: center;
+}
+
+.animate-paper {
+  animation: paperFloat 1.8s ease-in-out infinite;
+}
+
+.animate-radar {
+  animation: radarSweep 2.5s linear infinite;
+  transform-origin: center;
+}
+
+.animate-cloud-slow {
+  animation: floatCloud 8s ease-in-out infinite;
+}
+
+.animate-cloud-fast {
+  animation: floatCloud 5s ease-in-out infinite reverse;
+}

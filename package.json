@@ -1,0 +1,51 @@
+{
+  "name": "programa-sat",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "dev:server": "node --watch server/index.js",
+    "build": "vite build",
+    "start": "node server/index.js",
+    "start:prod": "vite build && node server/index.js",
+    "preview": "vite preview",
+    "postinstall": "prisma generate || exit 0",
+    "test:python": "python tools/facturas/test_sat_regimenes.py && python tools/shared/test_cfdi_engine.py && python tools/contabilidad/test_generador_polizas.py",
+    "test:backend": "node server/tests/security_audit.test.js",
+    "test": "npm run test:python && npm run test:backend"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "archiver": "^8.0.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.7.0",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.3.0",
+    "node-forge": "^1.4.0",
+    "pdfkit": "^0.20.2",
+    "qrcode": "^1.5.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-easy-crop": "^6.2.3",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "nodemon": "^3.1.14",
+    "playwright": "^1.63.0",
+    "prisma": "^5.22.0",
+    "tailwindcss": "^4.3.3",
+    "vite": "^6.0.0"
+  }
+}

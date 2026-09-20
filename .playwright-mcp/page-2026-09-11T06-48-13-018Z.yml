@@ -1,0 +1,360 @@
+- generic [ref=f1e530]:
+  - complementary "Panel lateral de navegación" [ref=f1e531]:
+    - generic [ref=f1e532]:
+      - generic [ref=f1e533]:
+        - generic [ref=f1e534]:
+          - generic [ref=f1e535]: FV
+          - generic [ref=f1e536]:
+            - generic [ref=f1e537]:
+              - generic [ref=f1e538]: FirmaVault
+              - generic [ref=f1e539]: SAT
+            - paragraph [ref=f1e540]: Portal de Operaciones
+        - button "close" [ref=f1e541] [cursor=pointer]
+      - generic [ref=f1e543]:
+        - generic [ref=f1e544]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=f1e545] [cursor=pointer]:
+            - generic [ref=f1e546]:
+              - generic [ref=f1e547]: cloud_download
+              - generic [ref=f1e549]:
+                - generic [ref=f1e550]: Extracción SAT
+                - generic [ref=f1e551]: Descargas Automáticas
+            - generic [ref=f1e552]:
+              - generic [ref=f1e553]: "3"
+              - generic [ref=f1e554]: expand_more
+          - generic [ref=f1e555]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=f1e556] [cursor=pointer]:
+              - generic [ref=f1e557]:
+                - generic [ref=f1e558]: receipt
+                - generic [ref=f1e560]:
+                  - generic [ref=f1e561]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=f1e563]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=f1e564]:
+                    - generic [ref=f1e565]: XML + PDF
+                    - generic [ref=f1e566]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=f1e567] [cursor=pointer]:
+              - generic [ref=f1e568]:
+                - generic [ref=f1e569]: receipt_long
+                - generic [ref=f1e571]:
+                  - generic [ref=f1e572]: Recibos de Nómina
+                  - paragraph [ref=f1e574]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=f1e575]:
+                    - generic [ref=f1e576]: PDF + XML
+                    - generic [ref=f1e577]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=f1e578] [cursor=pointer]:
+              - generic [ref=f1e579]:
+                - generic [ref=f1e580]: description
+                - generic [ref=f1e582]:
+                  - generic [ref=f1e583]: Documentos Frecuentes
+                  - paragraph [ref=f1e585]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=f1e586]:
+                    - generic [ref=f1e587]: Opinión 32-D
+                    - generic [ref=f1e588]: CSF Actualizada
+                    - generic [ref=f1e589]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 4 expand_more" [ref=f1e591] [cursor=pointer]:
+          - generic [ref=f1e592]:
+            - generic [ref=f1e593]: query_stats
+            - generic [ref=f1e595]:
+              - generic [ref=f1e596]: Papeles de Trabajo
+              - generic [ref=f1e597]: Reportes Contables
+          - generic [ref=f1e598]:
+            - generic [ref=f1e599]: "4"
+            - generic [ref=f1e600]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 2 expand_more" [ref=f1e602] [cursor=pointer]:
+          - generic [ref=f1e603]:
+            - generic [ref=f1e604]: shield
+            - generic [ref=f1e606]:
+              - generic [ref=f1e607]: Auditoría y Riesgo
+              - generic [ref=f1e608]: Auditoría Fiscal
+          - generic [ref=f1e609]:
+            - generic [ref=f1e610]: "2"
+            - generic [ref=f1e611]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=f1e613] [cursor=pointer]:
+      - generic [ref=f1e614]: arrow_back
+      - generic [ref=f1e615]: Volver a Contribuyentes
+  - banner [ref=f1e616]:
+    - generic [ref=f1e618]:
+      - generic [ref=f1e619]:
+        - button "Menú principal" [expanded] [active] [ref=f1e620] [cursor=pointer]:
+          - generic [ref=f1e621]: close
+        - generic [ref=f1e623]:
+          - generic [ref=f1e624]:
+            - generic [ref=f1e625]: FirmaVault
+            - generic [ref=f1e626]: SAT
+          - generic [ref=f1e627]: /
+          - generic [ref=f1e628]:
+            - generic [ref=f1e629]: Extracción SAT
+            - generic [ref=f1e630]: •
+            - generic [ref=f1e631]: Recibos de Nómina
+      - generic [ref=f1e632]:
+        - generic [ref=f1e633]:
+          - generic [ref=f1e634]: schedule
+          - generic [ref=f1e635]: vie, 11 de sep de 2026
+          - generic [ref=f1e636]: •
+          - generic [ref=f1e637]: 12:48:12 a.m.
+        - generic [ref=f1e638]:
+          - generic [ref=f1e639]: AN
+          - generic [ref=f1e640]:
+            - generic [ref=f1e641]: AMERICA NOLASCO PALACIOS
+            - generic [ref=f1e646]:
+              - generic [ref=f1e647]: NOPA890313A48
+              - generic [ref=f1e648]: Persona Física
+        - button "arrow_back Volver" [ref=f1e650] [cursor=pointer]:
+          - generic [ref=f1e651]: arrow_back
+          - generic [ref=f1e652]: Volver
+  - main [ref=f1e653]:
+    - generic [ref=f1e921]:
+      - generic [ref=f1e923]:
+        - generic [ref=f1e924]:
+          - generic [ref=f1e925]: Herramientas Fiscales
+          - generic [ref=f1e927]: "Contribuyente: NOPA890313A48"
+        - generic [ref=f1e928]:
+          - generic [ref=f1e929]: verified
+          - generic [ref=f1e930]: Motor de Extracción SAT Nóminas v2
+      - generic [ref=f1e931]:
+        - heading "Descarga Automatizada de Nóminas (CFDI)" [level=1] [ref=f1e932]
+        - paragraph [ref=f1e933]:
+          - text: Extracción automática de comprobantes fiscales de nómina (CFDI) en PDF y XML directamente desde el portal del SAT para
+          - strong [ref=f1e934]: AMERICA NOLASCO PALACIOS
+          - text: ", utilizando su firma electrónica (.cer, .key y contraseña) registrada en el sistema."
+      - generic [ref=f1e935]:
+        - generic [ref=f1e936]:
+          - heading "tune Criterios de Extracción" [level=3] [ref=f1e937]:
+            - generic [ref=f1e938]: tune
+            - text: Criterios de Extracción
+          - generic [ref=f1e939]:
+            - generic [ref=f1e940]: receipt_long
+            - text: "Filtro Activo: Solo Nóminas (CFDI Sueldos y Asimilados)"
+        - generic [ref=f1e941]:
+          - generic [ref=f1e942]:
+            - generic [ref=f1e943]: Ejercicio Fiscal
+            - button "calendar_month 2026 (Actual) expand_more" [ref=f1e944] [cursor=pointer]:
+              - generic [ref=f1e945]:
+                - generic [ref=f1e946]: calendar_month
+                - generic [ref=f1e947]: 2026 (Actual)
+              - generic [ref=f1e948]: expand_more
+          - generic [ref=f1e949]:
+            - generic [ref=f1e950]: Formato de Entrega
+            - button "folder_zip PDF + XML expand_more" [ref=f1e951] [cursor=pointer]:
+              - generic [ref=f1e952]:
+                - generic [ref=f1e953]: folder_zip
+                - generic [ref=f1e954]: PDF + XML
+              - generic [ref=f1e955]: expand_more
+        - generic [ref=f1e956]:
+          - generic [ref=f1e957]:
+            - generic [ref=f1e958]: vpn_key
+            - generic [ref=f1e959]:
+              - text: Autenticación directa con e.firma de
+              - strong [ref=f1e960]: NOPA890313A48
+              - text: .
+          - button "play_arrow Iniciar Extracción Automatizada" [ref=f1e962] [cursor=pointer]:
+            - generic [ref=f1e963]: play_arrow
+            - generic [ref=f1e964]: Iniciar Extracción Automatizada
+      - generic [ref=f1e965]:
+        - generic [ref=f1e966]:
+          - generic [ref=f1e967]:
+            - generic [ref=f1e968]: calendar_month
+            - generic [ref=f1e970]:
+              - generic [ref=f1e971]:
+                - heading "Matriz de Nóminas por Mes" [level=3] [ref=f1e972]
+                - generic [ref=f1e973]: Ejercicio 2026
+              - paragraph [ref=f1e974]: Monitoreo en tiempo real de timbrado y desglose mensual de comprobantes ante el SAT
+          - generic [ref=f1e975]: 0% COMPLETADO
+        - generic [ref=f1e979]:
+          - generic [ref=f1e980]: Progreso de escaneo y extracción anual
+          - generic [ref=f1e981]: 0% de 100%
+        - generic [ref=f1e983]:
+          - generic [ref=f1e984]:
+            - generic [ref=f1e986]:
+              - generic [ref=f1e987]:
+                - generic [ref=f1e988]: "01"
+                - heading "Enero" [level=4] [ref=f1e989]
+              - generic [ref=f1e991]:
+                - generic [ref=f1e992]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e994]:
+              - generic [ref=f1e995]: hourglass_empty
+              - generic [ref=f1e997]:
+                - paragraph [ref=f1e998]: En cola de escaneo
+                - paragraph [ref=f1e999]: Listo para procesar
+            - generic [ref=f1e1001]:
+              - generic [ref=f1e1002]: Periodo mensual
+              - generic [ref=f1e1003]: CFDI NÓMINA
+          - generic [ref=f1e1004]:
+            - generic [ref=f1e1006]:
+              - generic [ref=f1e1007]:
+                - generic [ref=f1e1008]: "02"
+                - heading "Febrero" [level=4] [ref=f1e1009]
+              - generic [ref=f1e1011]:
+                - generic [ref=f1e1012]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1014]:
+              - generic [ref=f1e1015]: hourglass_empty
+              - generic [ref=f1e1017]:
+                - paragraph [ref=f1e1018]: En cola de escaneo
+                - paragraph [ref=f1e1019]: Listo para procesar
+            - generic [ref=f1e1021]:
+              - generic [ref=f1e1022]: Periodo mensual
+              - generic [ref=f1e1023]: CFDI NÓMINA
+          - generic [ref=f1e1024]:
+            - generic [ref=f1e1026]:
+              - generic [ref=f1e1027]:
+                - generic [ref=f1e1028]: "03"
+                - heading "Marzo" [level=4] [ref=f1e1029]
+              - generic [ref=f1e1031]:
+                - generic [ref=f1e1032]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1034]:
+              - generic [ref=f1e1035]: hourglass_empty
+              - generic [ref=f1e1037]:
+                - paragraph [ref=f1e1038]: En cola de escaneo
+                - paragraph [ref=f1e1039]: Listo para procesar
+            - generic [ref=f1e1041]:
+              - generic [ref=f1e1042]: Periodo mensual
+              - generic [ref=f1e1043]: CFDI NÓMINA
+          - generic [ref=f1e1044]:
+            - generic [ref=f1e1046]:
+              - generic [ref=f1e1047]:
+                - generic [ref=f1e1048]: "04"
+                - heading "Abril" [level=4] [ref=f1e1049]
+              - generic [ref=f1e1051]:
+                - generic [ref=f1e1052]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1054]:
+              - generic [ref=f1e1055]: hourglass_empty
+              - generic [ref=f1e1057]:
+                - paragraph [ref=f1e1058]: En cola de escaneo
+                - paragraph [ref=f1e1059]: Listo para procesar
+            - generic [ref=f1e1061]:
+              - generic [ref=f1e1062]: Periodo mensual
+              - generic [ref=f1e1063]: CFDI NÓMINA
+          - generic [ref=f1e1064]:
+            - generic [ref=f1e1066]:
+              - generic [ref=f1e1067]:
+                - generic [ref=f1e1068]: "05"
+                - heading "Mayo" [level=4] [ref=f1e1069]
+              - generic [ref=f1e1071]:
+                - generic [ref=f1e1072]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1074]:
+              - generic [ref=f1e1075]: hourglass_empty
+              - generic [ref=f1e1077]:
+                - paragraph [ref=f1e1078]: En cola de escaneo
+                - paragraph [ref=f1e1079]: Listo para procesar
+            - generic [ref=f1e1081]:
+              - generic [ref=f1e1082]: Periodo mensual
+              - generic [ref=f1e1083]: CFDI NÓMINA
+          - generic [ref=f1e1084]:
+            - generic [ref=f1e1086]:
+              - generic [ref=f1e1087]:
+                - generic [ref=f1e1088]: "06"
+                - heading "Junio" [level=4] [ref=f1e1089]
+              - generic [ref=f1e1091]:
+                - generic [ref=f1e1092]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1094]:
+              - generic [ref=f1e1095]: hourglass_empty
+              - generic [ref=f1e1097]:
+                - paragraph [ref=f1e1098]: En cola de escaneo
+                - paragraph [ref=f1e1099]: Listo para procesar
+            - generic [ref=f1e1101]:
+              - generic [ref=f1e1102]: Periodo mensual
+              - generic [ref=f1e1103]: CFDI NÓMINA
+          - generic [ref=f1e1104]:
+            - generic [ref=f1e1106]:
+              - generic [ref=f1e1107]:
+                - generic [ref=f1e1108]: "07"
+                - heading "Julio" [level=4] [ref=f1e1109]
+              - generic [ref=f1e1111]:
+                - generic [ref=f1e1112]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1114]:
+              - generic [ref=f1e1115]: hourglass_empty
+              - generic [ref=f1e1117]:
+                - paragraph [ref=f1e1118]: En cola de escaneo
+                - paragraph [ref=f1e1119]: Listo para procesar
+            - generic [ref=f1e1121]:
+              - generic [ref=f1e1122]: Periodo mensual
+              - generic [ref=f1e1123]: CFDI NÓMINA
+          - generic [ref=f1e1124]:
+            - generic [ref=f1e1126]:
+              - generic [ref=f1e1127]:
+                - generic [ref=f1e1128]: "08"
+                - heading "Agosto" [level=4] [ref=f1e1129]
+              - generic [ref=f1e1131]:
+                - generic [ref=f1e1132]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1134]:
+              - generic [ref=f1e1135]: hourglass_empty
+              - generic [ref=f1e1137]:
+                - paragraph [ref=f1e1138]: En cola de escaneo
+                - paragraph [ref=f1e1139]: Listo para procesar
+            - generic [ref=f1e1141]:
+              - generic [ref=f1e1142]: Periodo mensual
+              - generic [ref=f1e1143]: CFDI NÓMINA
+          - generic [ref=f1e1144]:
+            - generic [ref=f1e1146]:
+              - generic [ref=f1e1147]:
+                - generic [ref=f1e1148]: "09"
+                - heading "Septiembre" [level=4] [ref=f1e1149]
+              - generic [ref=f1e1151]:
+                - generic [ref=f1e1152]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1154]:
+              - generic [ref=f1e1155]: hourglass_empty
+              - generic [ref=f1e1157]:
+                - paragraph [ref=f1e1158]: En cola de escaneo
+                - paragraph [ref=f1e1159]: Listo para procesar
+            - generic [ref=f1e1161]:
+              - generic [ref=f1e1162]: Periodo mensual
+              - generic [ref=f1e1163]: CFDI NÓMINA
+          - generic [ref=f1e1164]:
+            - generic [ref=f1e1166]:
+              - generic [ref=f1e1167]:
+                - generic [ref=f1e1168]: "10"
+                - heading "Octubre" [level=4] [ref=f1e1169]
+              - generic [ref=f1e1171]:
+                - generic [ref=f1e1172]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1174]:
+              - generic [ref=f1e1175]: hourglass_empty
+              - generic [ref=f1e1177]:
+                - paragraph [ref=f1e1178]: En cola de escaneo
+                - paragraph [ref=f1e1179]: Listo para procesar
+            - generic [ref=f1e1181]:
+              - generic [ref=f1e1182]: Periodo mensual
+              - generic [ref=f1e1183]: CFDI NÓMINA
+          - generic [ref=f1e1184]:
+            - generic [ref=f1e1186]:
+              - generic [ref=f1e1187]:
+                - generic [ref=f1e1188]: "11"
+                - heading "Noviembre" [level=4] [ref=f1e1189]
+              - generic [ref=f1e1191]:
+                - generic [ref=f1e1192]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1194]:
+              - generic [ref=f1e1195]: hourglass_empty
+              - generic [ref=f1e1197]:
+                - paragraph [ref=f1e1198]: En cola de escaneo
+                - paragraph [ref=f1e1199]: Listo para procesar
+            - generic [ref=f1e1201]:
+              - generic [ref=f1e1202]: Periodo mensual
+              - generic [ref=f1e1203]: CFDI NÓMINA
+          - generic [ref=f1e1204]:
+            - generic [ref=f1e1206]:
+              - generic [ref=f1e1207]:
+                - generic [ref=f1e1208]: "12"
+                - heading "Diciembre" [level=4] [ref=f1e1209]
+              - generic [ref=f1e1211]:
+                - generic [ref=f1e1212]: schedule
+                - text: EN ESPERA
+            - generic [ref=f1e1214]:
+              - generic [ref=f1e1215]: hourglass_empty
+              - generic [ref=f1e1217]:
+                - paragraph [ref=f1e1218]: En cola de escaneo
+                - paragraph [ref=f1e1219]: Listo para procesar
+            - generic [ref=f1e1221]:
+              - generic [ref=f1e1222]: Periodo mensual
+              - generic [ref=f1e1223]: CFDI NÓMINA
+      - generic [ref=f1e1224]:
+        - generic [ref=f1e1225]: FirmaVault SAT • Módulo de Extracción de Nóminas Autónomo
+        - generic [ref=f1e1228]: CDP Headless Browser • Chromium/Brave Engine

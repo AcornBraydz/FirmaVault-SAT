@@ -1,0 +1,1152 @@
+- generic [ref=e1706]:
+  - complementary "Panel lateral de navegación" [ref=e1707]:
+    - generic [ref=e1708]:
+      - generic [ref=e1709]:
+        - generic [ref=e1710]:
+          - generic [ref=e1711]: FV
+          - generic [ref=e1712]:
+            - generic [ref=e1713]:
+              - generic [ref=e1714]: FirmaVault
+              - generic [ref=e1715]: SAT
+            - paragraph [ref=e1716]: Portal de Operaciones
+        - button "close" [ref=e1718] [cursor=pointer]
+      - generic [ref=e1720]:
+        - generic [ref=e1721]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=e1722] [cursor=pointer]:
+            - generic [ref=e1723]:
+              - generic [ref=e1724]: cloud_download
+              - generic [ref=e1726]:
+                - generic [ref=e1727]: Extracción SAT
+                - generic [ref=e1728]: Descargas Automáticas
+            - generic [ref=e1729]:
+              - generic [ref=e1730]: "3"
+              - generic [ref=e1731]: expand_more
+          - generic [ref=e1732]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=e1733] [cursor=pointer]:
+              - generic [ref=e1734]:
+                - generic [ref=e1735]: receipt
+                - generic [ref=e1737]:
+                  - generic [ref=e1738]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=e1740]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=e1741]:
+                    - generic [ref=e1742]: XML + PDF
+                    - generic [ref=e1743]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=e1744] [cursor=pointer]:
+              - generic [ref=e1745]:
+                - generic [ref=e1746]: receipt_long
+                - generic [ref=e1748]:
+                  - generic [ref=e1749]: Recibos de Nómina
+                  - paragraph [ref=e1751]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=e1752]:
+                    - generic [ref=e1753]: PDF + XML
+                    - generic [ref=e1754]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=e1755] [cursor=pointer]:
+              - generic [ref=e1756]:
+                - generic [ref=e1757]: description
+                - generic [ref=e1759]:
+                  - generic [ref=e1760]: Documentos Frecuentes
+                  - paragraph [ref=e1762]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=e1763]:
+                    - generic [ref=e1764]: Opinión 32-D
+                    - generic [ref=e1765]: CSF Actualizada
+                    - generic [ref=e1766]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 6 expand_more" [ref=e1768] [cursor=pointer]:
+          - generic [ref=e1769]:
+            - generic [ref=e1770]: query_stats
+            - generic [ref=e1772]:
+              - generic [ref=e1773]: Papeles de Trabajo
+              - generic [ref=e1774]: Reportes Contables
+          - generic [ref=e1775]:
+            - generic [ref=e1776]: "6"
+            - generic [ref=e1777]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 3 expand_more" [ref=e1779] [cursor=pointer]:
+          - generic [ref=e1780]:
+            - generic [ref=e1781]: shield
+            - generic [ref=e1783]:
+              - generic [ref=e1784]: Auditoría y Riesgo
+              - generic [ref=e1785]: Auditoría Fiscal
+          - generic [ref=e1786]:
+            - generic [ref=e1787]: "3"
+            - generic [ref=e1788]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=e1790] [cursor=pointer]:
+      - generic [ref=e1791]: arrow_back
+      - generic [ref=e1792]: Volver a Contribuyentes
+  - banner [ref=e1793]:
+    - generic [ref=e1795]:
+      - generic [ref=e1796]:
+        - button "Menú principal" [ref=e1797] [cursor=pointer]:
+          - generic [ref=e1798]: menu
+        - navigation "Ruta de navegación" [ref=e1800]:
+          - button "FirmaVault SAT" [ref=e1801] [cursor=pointer]:
+            - generic [ref=e1802]: FirmaVault
+            - generic [ref=e1803]: SAT
+          - generic [ref=e1804]: /
+          - button "Portal" [ref=e1805] [cursor=pointer]
+          - generic [ref=e22249]: /
+          - generic [ref=e22250]:
+            - generic [ref=e22251]: warning_amber
+            - generic [ref=e22252]: Rastreador de Listas Negras (EFOS)
+      - generic [ref=e1806]:
+        - generic [ref=e1807]:
+          - generic [ref=e1808]: AC
+          - generic [ref=e1809]:
+            - generic [ref=e1810]: ARACELI CENTENO HERNANDEZ
+            - generic [ref=e1815]:
+              - generic [ref=e1816]: CEHA7904273AA
+              - generic [ref=e1817]: Física
+        - button "grid_view Hub" [ref=e22253] [cursor=pointer]:
+          - generic [ref=e1820]: grid_view
+          - generic [ref=e1821]: Hub
+  - main [ref=e1822]:
+    - generic [ref=e22254]:
+      - generic [ref=e22257]:
+        - generic [ref=e22258]:
+          - generic [ref=e22259]: warning_amber
+          - text: 3. Auditoría y Riesgo • Auditoría Fiscal
+        - generic [ref=e22260]: CEHA7904273AA
+      - generic [ref=e22261]:
+        - heading "Rastreador de Listas Negras (EFOS - Art. 69-B)" [level=1] [ref=e22262]
+        - paragraph [ref=e22263]: Cruce automático de los RFCs de proveedores contra la lista negra oficial de Empresas Facturadoras de Operaciones Simuladas.
+      - generic [ref=e22264]:
+        - generic [ref=e22265]:
+          - generic [ref=e22266]: tune
+          - generic [ref=e22267]:
+            - heading "Parámetros de Ejecución" [level=3] [ref=e22268]
+            - paragraph [ref=e22269]: "Contribuyente activo: ARACELI CENTENO HERNANDEZ"
+        - generic [ref=e22270]:
+          - button "upload_file Subir XMLs (.xml / .zip)" [ref=e22271] [cursor=pointer]:
+            - generic [ref=e22272]: upload_file
+            - generic [ref=e22273]: Subir XMLs (.xml / .zip)
+          - generic [ref=e22274]:
+            - generic [ref=e22275]: "Ejercicio:"
+            - combobox [ref=e22276] [cursor=pointer]:
+              - option "Todos los Años (Consolidado)"
+              - option "2026" [selected]
+              - option "2025"
+              - option "2024"
+              - option "2023"
+              - option "2022"
+          - generic [ref=e22277]:
+            - generic [ref=e22278]: "Periodo:"
+            - combobox [ref=e22279] [cursor=pointer]:
+              - option "Todo el Año (Consolidado)" [selected]
+              - option "Enero"
+              - option "Febrero"
+              - option "Marzo"
+              - option "Abril"
+              - option "Mayo"
+              - option "Junio"
+              - option "Julio"
+              - option "Agosto"
+              - option "Septiembre"
+              - option "Octubre"
+              - option "Noviembre"
+              - option "Diciembre"
+          - button "play_circle Iniciar Cruce 69-B y Descargar Excel" [ref=e22280] [cursor=pointer]:
+            - generic [ref=e22281]: play_circle
+            - generic [ref=e22282]: Iniciar Cruce 69-B y Descargar Excel
+      - generic [ref=e22283]:
+        - generic [ref=e22285]:
+          - generic [ref=e22286]:
+            - generic [ref=e22287]: Base Oficial DOF + SAT (14,123 Registros)
+            - heading "search_check Validador Exprés de RFC (Artículo 69-B)" [level=3] [ref=e22289]:
+              - generic [ref=e22290]: search_check
+              - text: Validador Exprés de RFC (Artículo 69-B)
+            - paragraph [ref=e22291]: Consulta en tiempo real si cualquier proveedor o tercero está boletinado como presunto o definitivo.
+          - generic [ref=e22292]:
+            - generic [ref=e22293]:
+              - textbox "RFC a consultar (ej. AAA120730823)" [ref=e22294]
+              - generic [ref=e22295]: badge
+            - button "search Verificar" [disabled] [ref=e22296]:
+              - generic [ref=e22297]: search
+              - generic [ref=e22298]: Verificar
+        - generic [ref=e22300]:
+          - generic [ref=e22301]:
+            - generic [ref=e22302]: verified_user
+            - generic [ref=e22304]:
+              - generic [ref=e22305]:
+                - generic [ref=e22306]: CONFORME
+                - generic [ref=e22307]: "Periodo: Ejercicio Anual 2026"
+              - 'heading "DICTAMEN FISCAL: CUMPLIMIENTO FAVORABLE â€” COMPROBANTES 100% LIMPIOS" [level=2] [ref=e22308]'
+              - paragraph [ref=e22309]: Se auditaron satisfactoriamente 76 proveedores únicos y 337 comprobantes fiscales recibidos. NINGUNO de los emisores se encuentra boletinado como presunto ni definitivo en el listado oficial del Artículo 69-B del CFF publicado en el DOF. El contribuyente cuenta con blindaje y trazabilidad completa de sus deducciones e IVA acreditable.
+          - generic [ref=e22310]:
+            - button "download Descargar Auditoría Oficial (.xlsx)" [ref=e22311] [cursor=pointer]:
+              - generic [ref=e22312]: download
+              - generic [ref=e22313]: Descargar Auditoría Oficial (.xlsx)
+            - generic [ref=e22314]: Incluye cédula de dictamen y firmas
+        - generic [ref=e22315]:
+          - generic [ref=e22316]:
+            - generic [ref=e22317]:
+              - generic [ref=e22318]: Proveedores Totales
+              - generic [ref=e22319]: group
+            - generic [ref=e22320]:
+              - text: "76"
+              - generic [ref=e22321]: 337 comprobantes recibidos
+          - generic [ref=e22322]:
+            - generic [ref=e22323]:
+              - generic [ref=e22324]: 100% Conformes
+              - generic [ref=e22325]: check_circle
+            - generic [ref=e22326]:
+              - text: "76"
+              - generic [ref=e22327]: 100% Cumplimiento Limpio
+          - generic [ref=e22328]:
+            - generic [ref=e22329]:
+              - generic [ref=e22330]: EFOS Definitivos
+              - generic [ref=e22331]: error
+            - generic [ref=e22332]:
+              - text: "0"
+              - generic [ref=e22333]: Sin alertas críticas
+          - generic [ref=e22334]:
+            - generic [ref=e22335]:
+              - generic [ref=e22336]: EFOS Presuntos
+              - generic [ref=e22337]: warning_amber
+            - generic [ref=e22338]:
+              - text: "0"
+              - generic [ref=e22339]: Sin alertas preventivas
+          - generic [ref=e22340]:
+            - generic [ref=e22341]:
+              - generic [ref=e22342]: Monto en Riesgo
+              - generic [ref=e22343]: payments
+            - generic [ref=e22344]:
+              - generic [ref=e22345]: $0.00
+              - generic [ref=e22346]: Subtotal + IVA auditado
+        - generic [ref=e22347]:
+          - generic [ref=e22348]:
+            - generic [ref=e22349]:
+              - generic [ref=e22350]: domain
+              - heading "Padrón de Proveedores Auditados" [level=3] [ref=e22351]
+              - generic [ref=e22352]: 76 proveedor(es)
+            - generic [ref=e22353]:
+              - generic [ref=e22354]:
+                - button "Todos (76)" [ref=e22355] [cursor=pointer]
+                - button "🚨 En Riesgo (0)" [ref=e22356] [cursor=pointer]:
+                  - generic [ref=e22357]: 🚨 En Riesgo
+                  - generic [ref=e22358]: (0)
+                - button "Conformes (76)" [ref=e22359] [cursor=pointer]
+              - generic [ref=e22360]:
+                - textbox "Filtrar por RFC o Razón Social..." [ref=e22361]
+                - generic [ref=e22362]: filter_alt
+          - table [ref=e22364]:
+            - rowgroup [ref=e22365]:
+              - row [ref=e22366]:
+                - columnheader "RFC Emisor" [ref=e22367]
+                - columnheader "Razón Social" [ref=e22368]
+                - columnheader "CFDIs" [ref=e22369]
+                - columnheader "Subtotal" [ref=e22370]
+                - columnheader "Total Facturado" [ref=e22371]
+                - columnheader "Situación Art. 69-B" [ref=e22372]
+                - columnheader "Acción Legal" [ref=e22373]
+                - columnheader "Acciones" [ref=e22374]
+            - rowgroup [ref=e22375]:
+              - row [ref=e22376]:
+                - cell "NWM9709244W4" [ref=e22377]
+                - cell "NUEVA WAL MART DE MEXICO" [ref=e22378]
+                - cell "71" [ref=e22380]
+                - cell "$51,328.03" [ref=e22381]
+                - cell "$51,699.41" [ref=e22382]
+                - cell "Conforme" [ref=e22383]
+                - cell "Sin riesgo / Deducible" [ref=e22386]
+                - cell [ref=e22387]:
+                  - button "receipt_long Facturas" [ref=e22388] [cursor=pointer]:
+                    - generic [ref=e22389]: receipt_long
+                    - generic [ref=e22390]: Facturas
+              - row [ref=e22391]:
+                - cell "CET0810145K6" [ref=e22392]
+                - cell "CENTRO EDUCATIVO TRES CULTURAS" [ref=e22393]
+                - cell "16" [ref=e22395]
+                - cell "$11,272.32" [ref=e22396]
+                - cell "$11,272.32" [ref=e22397]
+                - cell "Conforme" [ref=e22398]
+                - cell "Sin riesgo / Deducible" [ref=e22401]
+                - cell [ref=e22402]:
+                  - button "receipt_long Facturas" [ref=e22403] [cursor=pointer]:
+                    - generic [ref=e22404]: receipt_long
+                    - generic [ref=e22405]: Facturas
+              - row [ref=e22406]:
+                - cell "AME970109GW0" [ref=e22407]
+                - cell "AUTOZONE DE MEXICO" [ref=e22408]
+                - cell "4" [ref=e22410]
+                - cell "$7,841.53" [ref=e22411]
+                - cell "$7,504.81" [ref=e22412]
+                - cell "Conforme" [ref=e22413]
+                - cell "Sin riesgo / Deducible" [ref=e22416]
+                - cell [ref=e22417]:
+                  - button "receipt_long Facturas" [ref=e22418] [cursor=pointer]:
+                    - generic [ref=e22419]: receipt_long
+                    - generic [ref=e22420]: Facturas
+              - row [ref=e22421]:
+                - cell "MAC870728Q75" [ref=e22422]
+                - cell "MATERIALES AVENIDA CUAUHTEMOC" [ref=e22423]
+                - cell "5" [ref=e22425]
+                - cell "$4,781.91" [ref=e22426]
+                - cell "$5,547.00" [ref=e22427]
+                - cell "Conforme" [ref=e22428]
+                - cell "Sin riesgo / Deducible" [ref=e22431]
+                - cell [ref=e22432]:
+                  - button "receipt_long Facturas" [ref=e22433] [cursor=pointer]:
+                    - generic [ref=e22434]: receipt_long
+                    - generic [ref=e22435]: Facturas
+              - row [ref=e22436]:
+                - cell "GZA9104307K6" [ref=e22437]
+                - cell "GRUPO ZORRO ABARROTERO" [ref=e22438]
+                - cell "6" [ref=e22440]
+                - cell "$5,271.73" [ref=e22441]
+                - cell "$5,496.76" [ref=e22442]
+                - cell "Conforme" [ref=e22443]
+                - cell "Sin riesgo / Deducible" [ref=e22446]
+                - cell [ref=e22447]:
+                  - button "receipt_long Facturas" [ref=e22448] [cursor=pointer]:
+                    - generic [ref=e22449]: receipt_long
+                    - generic [ref=e22450]: Facturas
+              - row [ref=e22451]:
+                - cell "TCH850701RM1" [ref=e22452]
+                - cell "TIENDAS CHEDRAUI" [ref=e22453]
+                - cell "25" [ref=e22455]
+                - cell "$3,642.52" [ref=e22456]
+                - cell "$3,946.76" [ref=e22457]
+                - cell "Conforme" [ref=e22458]
+                - cell "Sin riesgo / Deducible" [ref=e22461]
+                - cell [ref=e22462]:
+                  - button "receipt_long Facturas" [ref=e22463] [cursor=pointer]:
+                    - generic [ref=e22464]: receipt_long
+                    - generic [ref=e22465]: Facturas
+              - row [ref=e22466]:
+                - cell "VMI050120AU6" [ref=e22467]
+                - cell "27 MICRAS INTERNACIONAL" [ref=e22468]
+                - cell "3" [ref=e22470]
+                - cell "$3,290.54" [ref=e22471]
+                - cell "$3,817.01" [ref=e22472]
+                - cell "Conforme" [ref=e22473]
+                - cell "Sin riesgo / Deducible" [ref=e22476]
+                - cell [ref=e22477]:
+                  - button "receipt_long Facturas" [ref=e22478] [cursor=pointer]:
+                    - generic [ref=e22479]: receipt_long
+                    - generic [ref=e22480]: Facturas
+              - row [ref=e22481]:
+                - cell "MOS150123565" [ref=e22482]
+                - cell "MULTIBRAND OUTLET STORES" [ref=e22483]
+                - cell "5" [ref=e22485]
+                - cell "$3,157.76" [ref=e22486]
+                - cell "$3,663.01" [ref=e22487]
+                - cell "Conforme" [ref=e22488]
+                - cell "Sin riesgo / Deducible" [ref=e22491]
+                - cell [ref=e22492]:
+                  - button "receipt_long Facturas" [ref=e22493] [cursor=pointer]:
+                    - generic [ref=e22494]: receipt_long
+                    - generic [ref=e22495]: Facturas
+              - row [ref=e22496]:
+                - cell "GES021031BL9" [ref=e22497]
+                - cell "GRUPO EMPRESARIAL S.J." [ref=e22498]
+                - cell "5" [ref=e22500]
+                - cell "$3,070.70" [ref=e22501]
+                - cell "$3,562.00" [ref=e22502]
+                - cell "Conforme" [ref=e22503]
+                - cell "Sin riesgo / Deducible" [ref=e22506]
+                - cell [ref=e22507]:
+                  - button "receipt_long Facturas" [ref=e22508] [cursor=pointer]:
+                    - generic [ref=e22509]: receipt_long
+                    - generic [ref=e22510]: Facturas
+              - row [ref=e22511]:
+                - cell "TME840315KT6" [ref=e22512]
+                - cell "TELEFONOS DE MEXICO" [ref=e22513]
+                - cell "17" [ref=e22515]
+                - cell "$3,172.92" [ref=e22516]
+                - cell "$3,219.28" [ref=e22517]
+                - cell "Conforme" [ref=e22518]
+                - cell "Sin riesgo / Deducible" [ref=e22521]
+                - cell [ref=e22522]:
+                  - button "receipt_long Facturas" [ref=e22523] [cursor=pointer]:
+                    - generic [ref=e22524]: receipt_long
+                    - generic [ref=e22525]: Facturas
+              - row [ref=e22526]:
+                - cell "JCO200305LY7" [ref=e22527]
+                - cell "JSE COMERCIAL" [ref=e22528]
+                - cell "1" [ref=e22530]
+                - cell "$2,715.52" [ref=e22531]
+                - cell "$3,150.00" [ref=e22532]
+                - cell "Conforme" [ref=e22533]
+                - cell "Sin riesgo / Deducible" [ref=e22536]
+                - cell [ref=e22537]:
+                  - button "receipt_long Facturas" [ref=e22538] [cursor=pointer]:
+                    - generic [ref=e22539]: receipt_long
+                    - generic [ref=e22540]: Facturas
+              - row [ref=e22541]:
+                - cell "PPL961114GZ1" [ref=e22542]
+                - cell "PHARMA PLUS" [ref=e22543]
+                - cell "6" [ref=e22545]
+                - cell "$2,391.77" [ref=e22546]
+                - cell "$2,454.50" [ref=e22547]
+                - cell "Conforme" [ref=e22548]
+                - cell "Sin riesgo / Deducible" [ref=e22551]
+                - cell [ref=e22552]:
+                  - button "receipt_long Facturas" [ref=e22553] [cursor=pointer]:
+                    - generic [ref=e22554]: receipt_long
+                    - generic [ref=e22555]: Facturas
+              - row [ref=e22556]:
+                - cell "SUB910603SB3" [ref=e22557]
+                - cell "SUBURBIA" [ref=e22558]
+                - cell "3" [ref=e22560]
+                - cell "$1,913.75" [ref=e22561]
+                - cell "$2,120.10" [ref=e22562]
+                - cell "Conforme" [ref=e22563]
+                - cell "Sin riesgo / Deducible" [ref=e22566]
+                - cell [ref=e22567]:
+                  - button "receipt_long Facturas" [ref=e22568] [cursor=pointer]:
+                    - generic [ref=e22569]: receipt_long
+                    - generic [ref=e22570]: Facturas
+              - row [ref=e22571]:
+                - cell "HDM001017AS1" [ref=e22572]
+                - cell "HOME DEPOT MEXICO" [ref=e22573]
+                - cell "1" [ref=e22575]
+                - cell "$1,817.24" [ref=e22576]
+                - cell "$2,108.00" [ref=e22577]
+                - cell "Conforme" [ref=e22578]
+                - cell "Sin riesgo / Deducible" [ref=e22581]
+                - cell [ref=e22582]:
+                  - button "receipt_long Facturas" [ref=e22583] [cursor=pointer]:
+                    - generic [ref=e22584]: receipt_long
+                    - generic [ref=e22585]: Facturas
+              - row [ref=e22586]:
+                - cell "FPA240206V2A" [ref=e22587]
+                - cell "FIKA PANADERIA" [ref=e22588]
+                - cell "7" [ref=e22590]
+                - cell "$2,054.19" [ref=e22591]
+                - cell "$2,089.00" [ref=e22592]
+                - cell "Conforme" [ref=e22593]
+                - cell "Sin riesgo / Deducible" [ref=e22596]
+                - cell [ref=e22597]:
+                  - button "receipt_long Facturas" [ref=e22598] [cursor=pointer]:
+                    - generic [ref=e22599]: receipt_long
+                    - generic [ref=e22600]: Facturas
+              - row [ref=e22601]:
+                - cell "OVI800131GQ6" [ref=e22602]
+                - cell "OPERADORA VIPS" [ref=e22603]
+                - cell "4" [ref=e22605]
+                - cell "$1,731.03" [ref=e22606]
+                - cell "$2,008.00" [ref=e22607]
+                - cell "Conforme" [ref=e22608]
+                - cell "Sin riesgo / Deducible" [ref=e22611]
+                - cell [ref=e22612]:
+                  - button "receipt_long Facturas" [ref=e22613] [cursor=pointer]:
+                    - generic [ref=e22614]: receipt_long
+                    - generic [ref=e22615]: Facturas
+              - row [ref=e22616]:
+                - cell "GPO780317G73" [ref=e22617]
+                - cell "GAS POPO" [ref=e22618]
+                - cell "2" [ref=e22620]
+                - cell "$1,716.41" [ref=e22621]
+                - cell "$1,991.04" [ref=e22622]
+                - cell "Conforme" [ref=e22623]
+                - cell "Sin riesgo / Deducible" [ref=e22626]
+                - cell [ref=e22627]:
+                  - button "receipt_long Facturas" [ref=e22628] [cursor=pointer]:
+                    - generic [ref=e22629]: receipt_long
+                    - generic [ref=e22630]: Facturas
+              - row [ref=e22631]:
+                - cell "SHE190630V37" [ref=e22632]
+                - cell "SANBORN HERMANOS" [ref=e22633]
+                - cell "3" [ref=e22635]
+                - cell "$1,627.35" [ref=e22636]
+                - cell "$1,877.85" [ref=e22637]
+                - cell "Conforme" [ref=e22638]
+                - cell "Sin riesgo / Deducible" [ref=e22641]
+                - cell [ref=e22642]:
+                  - button "receipt_long Facturas" [ref=e22643] [cursor=pointer]:
+                    - generic [ref=e22644]: receipt_long
+                    - generic [ref=e22645]: Facturas
+              - row [ref=e22646]:
+                - cell "NMM101011JP0" [ref=e22647]
+                - cell "EL NUEVO MUNDO MEXICO" [ref=e22648]
+                - cell "1" [ref=e22650]
+                - cell "$1,585.86" [ref=e22651]
+                - cell "$1,839.60" [ref=e22652]
+                - cell "Conforme" [ref=e22653]
+                - cell "Sin riesgo / Deducible" [ref=e22656]
+                - cell [ref=e22657]:
+                  - button "receipt_long Facturas" [ref=e22658] [cursor=pointer]:
+                    - generic [ref=e22659]: receipt_long
+                    - generic [ref=e22660]: Facturas
+              - row [ref=e22661]:
+                - cell "AII010827SA8" [ref=e22662]
+                - cell "ADMINISTRADORA DE INMUEBLES IXTAPALUCA" [ref=e22663]
+                - cell "5" [ref=e22665]
+                - cell "$1,537.97" [ref=e22666]
+                - cell "$1,776.77" [ref=e22667]
+                - cell "Conforme" [ref=e22668]
+                - cell "Sin riesgo / Deducible" [ref=e22671]
+                - cell [ref=e22672]:
+                  - button "receipt_long Facturas" [ref=e22673] [cursor=pointer]:
+                    - generic [ref=e22674]: receipt_long
+                    - generic [ref=e22675]: Facturas
+              - row [ref=e22676]:
+                - cell "CCA940503DW5" [ref=e22677]
+                - cell "COMERCIALIZADORA CADER" [ref=e22678]
+                - cell "2" [ref=e22680]
+                - cell "$1,391.56" [ref=e22681]
+                - cell "$1,614.21" [ref=e22682]
+                - cell "Conforme" [ref=e22683]
+                - cell "Sin riesgo / Deducible" [ref=e22686]
+                - cell [ref=e22687]:
+                  - button "receipt_long Facturas" [ref=e22688] [cursor=pointer]:
+                    - generic [ref=e22689]: receipt_long
+                    - generic [ref=e22690]: Facturas
+              - row [ref=e22691]:
+                - cell "CMU9005034K1" [ref=e22692]
+                - cell "CORPORACION MUSSI" [ref=e22693]
+                - cell "4" [ref=e22695]
+                - cell "$1,307.24" [ref=e22696]
+                - cell "$1,516.40" [ref=e22697]
+                - cell "Conforme" [ref=e22698]
+                - cell "Sin riesgo / Deducible" [ref=e22701]
+                - cell [ref=e22702]:
+                  - button "receipt_long Facturas" [ref=e22703] [cursor=pointer]:
+                    - generic [ref=e22704]: receipt_long
+                    - generic [ref=e22705]: Facturas
+              - row [ref=e22706]:
+                - cell "FNI970829JR9" [ref=e22707]
+                - cell "FONDO NACIONAL DE INFRAESTRUCTURA" [ref=e22708]
+                - cell "19" [ref=e22710]
+                - cell "$1,273.20" [ref=e22711]
+                - cell "$1,477.00" [ref=e22712]
+                - cell "Conforme" [ref=e22713]
+                - cell "Sin riesgo / Deducible" [ref=e22716]
+                - cell [ref=e22717]:
+                  - button "receipt_long Facturas" [ref=e22718] [cursor=pointer]:
+                    - generic [ref=e22719]: receipt_long
+                    - generic [ref=e22720]: Facturas
+              - row [ref=e22721]:
+                - cell "TSO991022PB6" [ref=e22722]
+                - cell "TIENDAS SORIANA" [ref=e22723]
+                - cell "6" [ref=e22725]
+                - cell "$1,196.29" [ref=e22726]
+                - cell "$1,377.75" [ref=e22727]
+                - cell "Conforme" [ref=e22728]
+                - cell "Sin riesgo / Deducible" [ref=e22731]
+                - cell [ref=e22732]:
+                  - button "receipt_long Facturas" [ref=e22733] [cursor=pointer]:
+                    - generic [ref=e22734]: receipt_long
+                    - generic [ref=e22735]: Facturas
+              - row [ref=e22736]:
+                - cell "ORI0805206Y2" [ref=e22737]
+                - cell "ORIGAS" [ref=e22738]
+                - cell "4" [ref=e22740]
+                - cell "$1,146.32" [ref=e22741]
+                - cell "$1,324.55" [ref=e22742]
+                - cell "Conforme" [ref=e22743]
+                - cell "Sin riesgo / Deducible" [ref=e22746]
+                - cell [ref=e22747]:
+                  - button "receipt_long Facturas" [ref=e22748] [cursor=pointer]:
+                    - generic [ref=e22749]: receipt_long
+                    - generic [ref=e22750]: Facturas
+              - row [ref=e22751]:
+                - cell "SME051013BQ2" [ref=e22752]
+                - cell "TIENDAS FIX" [ref=e22753]
+                - cell "6" [ref=e22755]
+                - cell "$1,040.09" [ref=e22756]
+                - cell "$1,206.50" [ref=e22757]
+                - cell "Conforme" [ref=e22758]
+                - cell "Sin riesgo / Deducible" [ref=e22761]
+                - cell [ref=e22762]:
+                  - button "receipt_long Facturas" [ref=e22763] [cursor=pointer]:
+                    - generic [ref=e22764]: receipt_long
+                    - generic [ref=e22765]: Facturas
+              - row [ref=e22766]:
+                - cell "SAYM5011256H1" [ref=e22767]
+                - cell "MOSHE SHARON YAZED" [ref=e22768]
+                - cell "1" [ref=e22770]
+                - cell "$1,120.69" [ref=e22771]
+                - cell "$1,105.00" [ref=e22772]
+                - cell "Conforme" [ref=e22773]
+                - cell "Sin riesgo / Deducible" [ref=e22776]
+                - cell [ref=e22777]:
+                  - button "receipt_long Facturas" [ref=e22778] [cursor=pointer]:
+                    - generic [ref=e22779]: receipt_long
+                    - generic [ref=e22780]: Facturas
+              - row [ref=e22781]:
+                - cell "DLI931201MI9" [ref=e22782]
+                - cell "DISTRIBUIDORA LIVERPOOL" [ref=e22783]
+                - cell "3" [ref=e22785]
+                - cell "$1,234.17" [ref=e22786]
+                - cell "$967.69" [ref=e22787]
+                - cell "Conforme" [ref=e22788]
+                - cell "Sin riesgo / Deducible" [ref=e22791]
+                - cell [ref=e22792]:
+                  - button "receipt_long Facturas" [ref=e22793] [cursor=pointer]:
+                    - generic [ref=e22794]: receipt_long
+                    - generic [ref=e22795]: Facturas
+              - row [ref=e22796]:
+                - cell "HEMJ740107BV9" [ref=e22797]
+                - cell "JUAN GABRIEL HERNANDEZ MEDINA" [ref=e22798]
+                - cell "1" [ref=e22800]
+                - cell "$758.62" [ref=e22801]
+                - cell "$880.00" [ref=e22802]
+                - cell "Conforme" [ref=e22803]
+                - cell "Sin riesgo / Deducible" [ref=e22806]
+                - cell [ref=e22807]:
+                  - button "receipt_long Facturas" [ref=e22808] [cursor=pointer]:
+                    - generic [ref=e22809]: receipt_long
+                    - generic [ref=e22810]: Facturas
+              - row [ref=e22811]:
+                - cell "RISA9403102M3" [ref=e22812]
+                - cell "ALAN RIVERA SANCHEZ" [ref=e22813]
+                - cell "1" [ref=e22815]
+                - cell "$618.97" [ref=e22816]
+                - cell "$718.00" [ref=e22817]
+                - cell "Conforme" [ref=e22818]
+                - cell "Sin riesgo / Deducible" [ref=e22821]
+                - cell [ref=e22822]:
+                  - button "receipt_long Facturas" [ref=e22823] [cursor=pointer]:
+                    - generic [ref=e22824]: receipt_long
+                    - generic [ref=e22825]: Facturas
+              - row [ref=e22826]:
+                - cell "CCM9208249H1" [ref=e22827]
+                - cell "CENTRO COMERCIAL MAHAKIAN" [ref=e22828]
+                - cell "1" [ref=e22830]
+                - cell "$603.36" [ref=e22831]
+                - cell "$699.90" [ref=e22832]
+                - cell "Conforme" [ref=e22833]
+                - cell "Sin riesgo / Deducible" [ref=e22836]
+                - cell [ref=e22837]:
+                  - button "receipt_long Facturas" [ref=e22838] [cursor=pointer]:
+                    - generic [ref=e22839]: receipt_long
+                    - generic [ref=e22840]: Facturas
+              - row [ref=e22841]:
+                - cell "SOFB931008E81" [ref=e22842]
+                - cell "BRYAN SOLIS FLORES" [ref=e22843]
+                - cell "1" [ref=e22845]
+                - cell "$581.90" [ref=e22846]
+                - cell "$675.00" [ref=e22847]
+                - cell "Conforme" [ref=e22848]
+                - cell "Sin riesgo / Deducible" [ref=e22851]
+                - cell [ref=e22852]:
+                  - button "receipt_long Facturas" [ref=e22853] [cursor=pointer]:
+                    - generic [ref=e22854]: receipt_long
+                    - generic [ref=e22855]: Facturas
+              - row [ref=e22856]:
+                - cell "CDI1305022N7" [ref=e22857]
+                - cell "COMPUMEX DIGITAL" [ref=e22858]
+                - cell "1" [ref=e22860]
+                - cell "$577.17" [ref=e22861]
+                - cell "$669.52" [ref=e22862]
+                - cell "Conforme" [ref=e22863]
+                - cell "Sin riesgo / Deducible" [ref=e22866]
+                - cell [ref=e22867]:
+                  - button "receipt_long Facturas" [ref=e22868] [cursor=pointer]:
+                    - generic [ref=e22869]: receipt_long
+                    - generic [ref=e22870]: Facturas
+              - row [ref=e22871]:
+                - cell "OOM960429832" [ref=e22872]
+                - cell "OPERADORA OMX" [ref=e22873]
+                - cell "4" [ref=e22875]
+                - cell "$569.48" [ref=e22876]
+                - cell "$660.60" [ref=e22877]
+                - cell "Conforme" [ref=e22878]
+                - cell "Sin riesgo / Deducible" [ref=e22881]
+                - cell [ref=e22882]:
+                  - button "receipt_long Facturas" [ref=e22883] [cursor=pointer]:
+                    - generic [ref=e22884]: receipt_long
+                    - generic [ref=e22885]: Facturas
+              - row [ref=e22886]:
+                - cell "CSA900202A7A" [ref=e22887]
+                - cell "COMERCIAL SUPER ALIANZA" [ref=e22888]
+                - cell "1" [ref=e22890]
+                - cell "$550.93" [ref=e22891]
+                - cell "$633.00" [ref=e22892]
+                - cell "Conforme" [ref=e22893]
+                - cell "Sin riesgo / Deducible" [ref=e22896]
+                - cell [ref=e22897]:
+                  - button "receipt_long Facturas" [ref=e22898] [cursor=pointer]:
+                    - generic [ref=e22899]: receipt_long
+                    - generic [ref=e22900]: Facturas
+              - row [ref=e22901]:
+                - cell "CCA1308213W7" [ref=e22902]
+                - cell "SIZZLING PLATTER DE MEXICO" [ref=e22903]
+                - cell "4" [ref=e22905]
+                - cell "$533.60" [ref=e22906]
+                - cell "$619.00" [ref=e22907]
+                - cell "Conforme" [ref=e22908]
+                - cell "Sin riesgo / Deducible" [ref=e22911]
+                - cell [ref=e22912]:
+                  - button "receipt_long Facturas" [ref=e22913] [cursor=pointer]:
+                    - generic [ref=e22914]: receipt_long
+                    - generic [ref=e22915]: Facturas
+              - row [ref=e22916]:
+                - cell "GLU040831UX0" [ref=e22917]
+                - cell "GRUPO LUJOSA" [ref=e22918]
+                - cell "9" [ref=e22920]
+                - cell "$595.62" [ref=e22921]
+                - cell "$601.00" [ref=e22922]
+                - cell "Conforme" [ref=e22923]
+                - cell "Sin riesgo / Deducible" [ref=e22926]
+                - cell [ref=e22927]:
+                  - button "receipt_long Facturas" [ref=e22928] [cursor=pointer]:
+                    - generic [ref=e22929]: receipt_long
+                    - generic [ref=e22930]: Facturas
+              - row [ref=e22931]:
+                - cell "TSP0004051I4" [ref=e22932]
+                - cell "TIENDAS SUPER PRECIO" [ref=e22933]
+                - cell "10" [ref=e22935]
+                - cell "$561.75" [ref=e22936]
+                - cell "$574.01" [ref=e22937]
+                - cell "Conforme" [ref=e22938]
+                - cell "Sin riesgo / Deducible" [ref=e22941]
+                - cell [ref=e22942]:
+                  - button "receipt_long Facturas" [ref=e22943] [cursor=pointer]:
+                    - generic [ref=e22944]: receipt_long
+                    - generic [ref=e22945]: Facturas
+              - row [ref=e22946]:
+                - cell "VIFS760506MP5" [ref=e22947]
+                - cell "SERGIO VIVEROS FRAGOSO" [ref=e22948]
+                - cell "2" [ref=e22950]
+                - cell "$462.92" [ref=e22951]
+                - cell "$537.00" [ref=e22952]
+                - cell "Conforme" [ref=e22953]
+                - cell "Sin riesgo / Deducible" [ref=e22956]
+                - cell [ref=e22957]:
+                  - button "receipt_long Facturas" [ref=e22958] [cursor=pointer]:
+                    - generic [ref=e22959]: receipt_long
+                    - generic [ref=e22960]: Facturas
+              - row [ref=e22961]:
+                - cell "FGU830930PD3" [ref=e22962]
+                - cell "FARMACIA GUADALAJARA" [ref=e22963]
+                - cell "1" [ref=e22965]
+                - cell "$441.74" [ref=e22966]
+                - cell "$509.30" [ref=e22967]
+                - cell "Conforme" [ref=e22968]
+                - cell "Sin riesgo / Deducible" [ref=e22971]
+                - cell [ref=e22972]:
+                  - button "receipt_long Facturas" [ref=e22973] [cursor=pointer]:
+                    - generic [ref=e22974]: receipt_long
+                    - generic [ref=e22975]: Facturas
+              - row [ref=e22976]:
+                - cell "CME030219B64" [ref=e22977]
+                - cell "CONCESIONARIA MEXIQUENSE" [ref=e22978]
+                - cell "2" [ref=e22980]
+                - cell "$409.49" [ref=e22981]
+                - cell "$475.00" [ref=e22982]
+                - cell "Conforme" [ref=e22983]
+                - cell "Sin riesgo / Deducible" [ref=e22986]
+                - cell [ref=e22987]:
+                  - button "receipt_long Facturas" [ref=e22988] [cursor=pointer]:
+                    - generic [ref=e22989]: receipt_long
+                    - generic [ref=e22990]: Facturas
+              - row [ref=e22991]:
+                - cell "DAT110318S98" [ref=e22992]
+                - cell "DISTRIBUIDORA DE ALIMENTOS TH" [ref=e22993]
+                - cell "1" [ref=e22995]
+                - cell "$404.31" [ref=e22996]
+                - cell "$469.00" [ref=e22997]
+                - cell "Conforme" [ref=e22998]
+                - cell "Sin riesgo / Deducible" [ref=e23001]
+                - cell [ref=e23002]:
+                  - button "receipt_long Facturas" [ref=e23003] [cursor=pointer]:
+                    - generic [ref=e23004]: receipt_long
+                    - generic [ref=e23005]: Facturas
+              - row [ref=e23006]:
+                - cell "AFE020419BS0" [ref=e23007]
+                - cell "CASA CRAVIOTO" [ref=e23008]
+                - cell "2" [ref=e23010]
+                - cell "$448.68" [ref=e23011]
+                - cell "$459.77" [ref=e23012]
+                - cell "Conforme" [ref=e23013]
+                - cell "Sin riesgo / Deducible" [ref=e23016]
+                - cell [ref=e23017]:
+                  - button "receipt_long Facturas" [ref=e23018] [cursor=pointer]:
+                    - generic [ref=e23019]: receipt_long
+                    - generic [ref=e23020]: Facturas
+              - row [ref=e23021]:
+                - cell "LGA0111296B6" [ref=e23022]
+                - cell "LIBRERIAS GANDHI" [ref=e23023]
+                - cell "1" [ref=e23025]
+                - cell "$418.00" [ref=e23026]
+                - cell "$418.00" [ref=e23027]
+                - cell "Conforme" [ref=e23028]
+                - cell "Sin riesgo / Deducible" [ref=e23031]
+                - cell [ref=e23032]:
+                  - button "receipt_long Facturas" [ref=e23033] [cursor=pointer]:
+                    - generic [ref=e23034]: receipt_long
+                    - generic [ref=e23035]: Facturas
+              - row [ref=e23036]:
+                - cell "SEM980701STA" [ref=e23037]
+                - cell "7-ELEVEN MEXICO" [ref=e23038]
+                - cell "5" [ref=e23040]
+                - cell "$322.99" [ref=e23041]
+                - cell "$365.00" [ref=e23042]
+                - cell "Conforme" [ref=e23043]
+                - cell "Sin riesgo / Deducible" [ref=e23046]
+                - cell [ref=e23047]:
+                  - button "receipt_long Facturas" [ref=e23048] [cursor=pointer]:
+                    - generic [ref=e23049]: receipt_long
+                    - generic [ref=e23050]: Facturas
+              - row [ref=e23051]:
+                - cell "TSP241115H70" [ref=e23052]
+                - cell "TIENDA SPAX" [ref=e23053]
+                - cell "1" [ref=e23055]
+                - cell "$276.72" [ref=e23056]
+                - cell "$321.00" [ref=e23057]
+                - cell "Conforme" [ref=e23058]
+                - cell "Sin riesgo / Deducible" [ref=e23061]
+                - cell [ref=e23062]:
+                  - button "receipt_long Facturas" [ref=e23063] [cursor=pointer]:
+                    - generic [ref=e23064]: receipt_long
+                    - generic [ref=e23065]: Facturas
+              - row [ref=e23066]:
+                - cell "CCO8605231N4" [ref=e23067]
+                - cell "CADENA COMERCIAL OXXO" [ref=e23068]
+                - cell "3" [ref=e23070]
+                - cell "$302.02" [ref=e23071]
+                - cell "$320.99" [ref=e23072]
+                - cell "Conforme" [ref=e23073]
+                - cell "Sin riesgo / Deducible" [ref=e23076]
+                - cell [ref=e23077]:
+                  - button "receipt_long Facturas" [ref=e23078] [cursor=pointer]:
+                    - generic [ref=e23079]: receipt_long
+                    - generic [ref=e23080]: Facturas
+              - row [ref=e23081]:
+                - cell "OPP010927SA5" [ref=e23082]
+                - cell "OPERADORA Y PROCESADORA DE PRODUCTOS DE PANIFICACION" [ref=e23083]
+                - cell "1" [ref=e23085]
+                - cell "$275.00" [ref=e23086]
+                - cell "$319.00" [ref=e23087]
+                - cell "Conforme" [ref=e23088]
+                - cell "Sin riesgo / Deducible" [ref=e23091]
+                - cell [ref=e23092]:
+                  - button "receipt_long Facturas" [ref=e23093] [cursor=pointer]:
+                    - generic [ref=e23094]: receipt_long
+                    - generic [ref=e23095]: Facturas
+              - row [ref=e23096]:
+                - cell "GAS140620U44" [ref=e23097]
+                - cell "GASTOGA" [ref=e23098]
+                - cell "1" [ref=e23100]
+                - cell "$259.71" [ref=e23101]
+                - cell "$300.00" [ref=e23102]
+                - cell "Conforme" [ref=e23103]
+                - cell "Sin riesgo / Deducible" [ref=e23106]
+                - cell [ref=e23107]:
+                  - button "receipt_long Facturas" [ref=e23108] [cursor=pointer]:
+                    - generic [ref=e23109]: receipt_long
+                    - generic [ref=e23110]: Facturas
+              - row [ref=e23111]:
+                - cell "CMA831005SG1" [ref=e23112]
+                - cell "CASA DE PAPELERIA M" [ref=e23113]
+                - cell "1" [ref=e23115]
+                - cell "$256.54" [ref=e23116]
+                - cell "$297.59" [ref=e23117]
+                - cell "Conforme" [ref=e23118]
+                - cell "Sin riesgo / Deducible" [ref=e23121]
+                - cell [ref=e23122]:
+                  - button "receipt_long Facturas" [ref=e23123] [cursor=pointer]:
+                    - generic [ref=e23124]: receipt_long
+                    - generic [ref=e23125]: Facturas
+              - row [ref=e23126]:
+                - cell "DJU890724BU0" [ref=e23127]
+                - cell "DISTRIBUIDORA JUGUETRON" [ref=e23128]
+                - cell "2" [ref=e23130]
+                - cell "$256.12" [ref=e23131]
+                - cell "$297.10" [ref=e23132]
+                - cell "Conforme" [ref=e23133]
+                - cell "Sin riesgo / Deducible" [ref=e23136]
+                - cell [ref=e23137]:
+                  - button "receipt_long Facturas" [ref=e23138] [cursor=pointer]:
+                    - generic [ref=e23139]: receipt_long
+                    - generic [ref=e23140]: Facturas
+              - row [ref=e23141]:
+                - cell "DSH230530EN8" [ref=e23142]
+                - cell "DSC SHOPS" [ref=e23143]
+                - cell "1" [ref=e23145]
+                - cell "$218.97" [ref=e23146]
+                - cell "$254.00" [ref=e23147]
+                - cell "Conforme" [ref=e23148]
+                - cell "Sin riesgo / Deducible" [ref=e23151]
+                - cell [ref=e23152]:
+                  - button "receipt_long Facturas" [ref=e23153] [cursor=pointer]:
+                    - generic [ref=e23154]: receipt_long
+                    - generic [ref=e23155]: Facturas
+              - row [ref=e23156]:
+                - cell "CAP080114GMA" [ref=e23157]
+                - cell "CONCESIONARIA AUTOPISTA PEROTE-XALAPA" [ref=e23158]
+                - cell "1" [ref=e23160]
+                - cell "$177.59" [ref=e23161]
+                - cell "$206.00" [ref=e23162]
+                - cell "Conforme" [ref=e23163]
+                - cell "Sin riesgo / Deducible" [ref=e23166]
+                - cell [ref=e23167]:
+                  - button "receipt_long Facturas" [ref=e23168] [cursor=pointer]:
+                    - generic [ref=e23169]: receipt_long
+                    - generic [ref=e23170]: Facturas
+              - row [ref=e23171]:
+                - cell "ANE070706HL1" [ref=e23172]
+                - cell "AUTOVIA NECAXA-TIHUATLAN" [ref=e23173]
+                - cell "2" [ref=e23175]
+                - cell "$170.68" [ref=e23176]
+                - cell "$198.00" [ref=e23177]
+                - cell "Conforme" [ref=e23178]
+                - cell "Sin riesgo / Deducible" [ref=e23181]
+                - cell [ref=e23182]:
+                  - button "receipt_long Facturas" [ref=e23183] [cursor=pointer]:
+                    - generic [ref=e23184]: receipt_long
+                    - generic [ref=e23185]: Facturas
+              - row [ref=e23186]:
+                - cell "HCH160519QV5" [ref=e23187]
+                - cell "HELADOS DEL CENTRO HISTORICO" [ref=e23188]
+                - cell "1" [ref=e23190]
+                - cell "$177.00" [ref=e23191]
+                - cell "$177.00" [ref=e23192]
+                - cell "Conforme" [ref=e23193]
+                - cell "Sin riesgo / Deducible" [ref=e23196]
+                - cell [ref=e23197]:
+                  - button "receipt_long Facturas" [ref=e23198] [cursor=pointer]:
+                    - generic [ref=e23199]: receipt_long
+                    - generic [ref=e23200]: Facturas
+              - row [ref=e23201]:
+                - cell "BNM840515VB1" [ref=e23202]
+                - cell "BANCO NACIONAL DE MEXICO" [ref=e23203]
+                - cell "3" [ref=e23205]
+                - cell "$150.00" [ref=e23206]
+                - cell "$174.00" [ref=e23207]
+                - cell "Conforme" [ref=e23208]
+                - cell "Sin riesgo / Deducible" [ref=e23211]
+                - cell [ref=e23212]:
+                  - button "receipt_long Facturas" [ref=e23213] [cursor=pointer]:
+                    - generic [ref=e23214]: receipt_long
+                    - generic [ref=e23215]: Facturas
+              - row [ref=e23216]:
+                - cell "GEV8501016A2" [ref=e23217]
+                - cell "GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE" [ref=e23218]
+                - cell "1" [ref=e23220]
+                - cell "$146.55" [ref=e23221]
+                - cell "$170.00" [ref=e23222]
+                - cell "Conforme" [ref=e23223]
+                - cell "Sin riesgo / Deducible" [ref=e23226]
+                - cell [ref=e23227]:
+                  - button "receipt_long Facturas" [ref=e23228] [cursor=pointer]:
+                    - generic [ref=e23229]: receipt_long
+                    - generic [ref=e23230]: Facturas
+              - row [ref=e23231]:
+                - cell "PVA850304TN2" [ref=e23232]
+                - cell "PANIFICADORA LA VASCONIA" [ref=e23233]
+                - cell "11" [ref=e23235]
+                - cell "$158.00" [ref=e23236]
+                - cell "$158.00" [ref=e23237]
+                - cell "Conforme" [ref=e23238]
+                - cell "Sin riesgo / Deducible" [ref=e23241]
+                - cell [ref=e23242]:
+                  - button "receipt_long Facturas" [ref=e23243] [cursor=pointer]:
+                    - generic [ref=e23244]: receipt_long
+                    - generic [ref=e23245]: Facturas
+              - row [ref=e23246]:
+                - cell "SUP200818IP0" [ref=e23247]
+                - cell "SUPRACARE" [ref=e23248]
+                - cell "1" [ref=e23250]
+                - cell "$130.51" [ref=e23251]
+                - cell "$151.39" [ref=e23252]
+                - cell "Conforme" [ref=e23253]
+                - cell "Sin riesgo / Deducible" [ref=e23256]
+                - cell [ref=e23257]:
+                  - button "receipt_long Facturas" [ref=e23258] [cursor=pointer]:
+                    - generic [ref=e23259]: receipt_long
+                    - generic [ref=e23260]: Facturas
+              - row [ref=e23261]:
+                - cell "AEL050620TJ9" [ref=e23262]
+                - cell "ALDAN ELECTRONICA" [ref=e23263]
+                - cell "1" [ref=e23265]
+                - cell "$119.83" [ref=e23266]
+                - cell "$139.00" [ref=e23267]
+                - cell "Conforme" [ref=e23268]
+                - cell "Sin riesgo / Deducible" [ref=e23271]
+                - cell [ref=e23272]:
+                  - button "receipt_long Facturas" [ref=e23273] [cursor=pointer]:
+                    - generic [ref=e23274]: receipt_long
+                    - generic [ref=e23275]: Facturas
+              - row [ref=e23276]:
+                - cell "PCE1710038M4" [ref=e23277]
+                - cell "PROMOTORA DE CARRETERAS ECATEPEC PIRAMIDES" [ref=e23278]
+                - cell "2" [ref=e23280]
+                - cell "$114.66" [ref=e23281]
+                - cell "$133.00" [ref=e23282]
+                - cell "Conforme" [ref=e23283]
+                - cell "Sin riesgo / Deducible" [ref=e23286]
+                - cell [ref=e23287]:
+                  - button "receipt_long Facturas" [ref=e23288] [cursor=pointer]:
+                    - generic [ref=e23289]: receipt_long
+                    - generic [ref=e23290]: Facturas
+              - row [ref=e23291]:
+                - cell "MUR1406245XA" [ref=e23292]
+                - cell "MUROBA" [ref=e23293]
+                - cell "1" [ref=e23295]
+                - cell "$118.00" [ref=e23296]
+                - cell "$118.00" [ref=e23297]
+                - cell "Conforme" [ref=e23298]
+                - cell "Sin riesgo / Deducible" [ref=e23301]
+                - cell [ref=e23302]:
+                  - button "receipt_long Facturas" [ref=e23303] [cursor=pointer]:
+                    - generic [ref=e23304]: receipt_long
+                    - generic [ref=e23305]: Facturas
+              - row [ref=e23306]:
+                - cell "OFA9210138U1" [ref=e23307]
+                - cell "OPERADORA DE FRANQUICIAS ALSEA" [ref=e23308]
+                - cell "2" [ref=e23310]
+                - cell "$100.00" [ref=e23311]
+                - cell "$116.00" [ref=e23312]
+                - cell "Conforme" [ref=e23313]
+                - cell "Sin riesgo / Deducible" [ref=e23316]
+                - cell [ref=e23317]:
+                  - button "receipt_long Facturas" [ref=e23318] [cursor=pointer]:
+                    - generic [ref=e23319]: receipt_long
+                    - generic [ref=e23320]: Facturas
+              - row [ref=e23321]:
+                - cell "TTB040915CY9" [ref=e23322]
+                - cell "TIENDAS TRES B" [ref=e23323]
+                - cell "3" [ref=e23325]
+                - cell "$107.70" [ref=e23326]
+                - cell "$113.00" [ref=e23327]
+                - cell "Conforme" [ref=e23328]
+                - cell "Sin riesgo / Deducible" [ref=e23331]
+                - cell [ref=e23332]:
+                  - button "receipt_long Facturas" [ref=e23333] [cursor=pointer]:
+                    - generic [ref=e23334]: receipt_long
+                    - generic [ref=e23335]: Facturas
+              - row [ref=e23336]:
+                - cell "CTL140730568" [ref=e23337]
+                - cell "CORPORATIVO DE TIN Y LAVANDMAX" [ref=e23338]
+                - cell "1" [ref=e23340]
+                - cell "$88.80" [ref=e23341]
+                - cell "$103.01" [ref=e23342]
+                - cell "Conforme" [ref=e23343]
+                - cell "Sin riesgo / Deducible" [ref=e23346]
+                - cell [ref=e23347]:
+                  - button "receipt_long Facturas" [ref=e23348] [cursor=pointer]:
+                    - generic [ref=e23349]: receipt_long
+                    - generic [ref=e23350]: Facturas
+              - row [ref=e23351]:
+                - cell "SOM101125UEA" [ref=e23352]
+                - cell "GS TIENDAS DEPARTAMENTALES" [ref=e23353]
+                - cell "1" [ref=e23355]
+                - cell "$111.21" [ref=e23356]
+                - cell "$98.10" [ref=e23357]
+                - cell "Conforme" [ref=e23358]
+                - cell "Sin riesgo / Deducible" [ref=e23361]
+                - cell [ref=e23362]:
+                  - button "receipt_long Facturas" [ref=e23363] [cursor=pointer]:
+                    - generic [ref=e23364]: receipt_long
+                    - generic [ref=e23365]: Facturas
+              - row [ref=e23366]:
+                - cell "MBR200508FU9" [ref=e23367]
+                - cell "MINT BREAD" [ref=e23368]
+                - cell "1" [ref=e23370]
+                - cell "$96.00" [ref=e23371]
+                - cell "$96.00" [ref=e23372]
+                - cell "Conforme" [ref=e23373]
+                - cell "Sin riesgo / Deducible" [ref=e23376]
+                - cell [ref=e23377]:
+                  - button "receipt_long Facturas" [ref=e23378] [cursor=pointer]:
+                    - generic [ref=e23379]: receipt_long
+                    - generic [ref=e23380]: Facturas
+              - row [ref=e23381]:
+                - cell "PID721214BG4" [ref=e23382]
+                - cell "PASTELERIA IDEAL" [ref=e23383]
+                - cell "1" [ref=e23385]
+                - cell "$91.00" [ref=e23386]
+                - cell "$91.00" [ref=e23387]
+                - cell "Conforme" [ref=e23388]
+                - cell "Sin riesgo / Deducible" [ref=e23391]
+                - cell [ref=e23392]:
+                  - button "receipt_long Facturas" [ref=e23393] [cursor=pointer]:
+                    - generic [ref=e23394]: receipt_long
+                    - generic [ref=e23395]: Facturas
+              - row [ref=e23396]:
+                - cell "LEP1408184R1" [ref=e23397]
+                - cell "LIBRAMIENTO ELEVADO DE PUEBLA" [ref=e23398]
+                - cell "1" [ref=e23400]
+                - cell "$76.72" [ref=e23401]
+                - cell "$89.00" [ref=e23402]
+                - cell "Conforme" [ref=e23403]
+                - cell "Sin riesgo / Deducible" [ref=e23406]
+                - cell [ref=e23407]:
+                  - button "receipt_long Facturas" [ref=e23408] [cursor=pointer]:
+                    - generic [ref=e23409]: receipt_long
+                    - generic [ref=e23410]: Facturas
+              - row [ref=e23411]:
+                - cell "FBE9110215Z3" [ref=e23412]
+                - cell "FARMACIAS BENAVIDES" [ref=e23413]
+                - cell "1" [ref=e23415]
+                - cell "$77.41" [ref=e23416]
+                - cell "$80.00" [ref=e23417]
+                - cell "Conforme" [ref=e23418]
+                - cell "Sin riesgo / Deducible" [ref=e23421]
+                - cell [ref=e23422]:
+                  - button "receipt_long Facturas" [ref=e23423] [cursor=pointer]:
+                    - generic [ref=e23424]: receipt_long
+                    - generic [ref=e23425]: Facturas
+              - row [ref=e23426]:
+                - cell "CPM030614M68" [ref=e23427]
+                - cell "CONCESIONES Y PROMOCIONES MALIBRAN" [ref=e23428]
+                - cell "1" [ref=e23430]
+                - cell "$56.90" [ref=e23431]
+                - cell "$66.00" [ref=e23432]
+                - cell "Conforme" [ref=e23433]
+                - cell "Sin riesgo / Deducible" [ref=e23436]
+                - cell [ref=e23437]:
+                  - button "receipt_long Facturas" [ref=e23438] [cursor=pointer]:
+                    - generic [ref=e23439]: receipt_long
+                    - generic [ref=e23440]: Facturas
+              - row [ref=e23441]:
+                - cell "FSI970908ML5" [ref=e23442]
+                - cell "FARMACIAS DE SIMILARES" [ref=e23443]
+                - cell "1" [ref=e23445]
+                - cell "$53.00" [ref=e23446]
+                - cell "$53.00" [ref=e23447]
+                - cell "Conforme" [ref=e23448]
+                - cell "Sin riesgo / Deducible" [ref=e23451]
+                - cell [ref=e23452]:
+                  - button "receipt_long Facturas" [ref=e23453] [cursor=pointer]:
+                    - generic [ref=e23454]: receipt_long
+                    - generic [ref=e23455]: Facturas
+              - row [ref=e23456]:
+                - cell "CPF6307036N8" [ref=e23457]
+                - cell "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS" [ref=e23458]
+                - cell "1" [ref=e23460]
+                - cell "$44.82" [ref=e23461]
+                - cell "$52.00" [ref=e23462]
+                - cell "Conforme" [ref=e23463]
+                - cell "Sin riesgo / Deducible" [ref=e23466]
+                - cell [ref=e23467]:
+                  - button "receipt_long Facturas" [ref=e23468] [cursor=pointer]:
+                    - generic [ref=e23469]: receipt_long
+                    - generic [ref=e23470]: Facturas
+              - row [ref=e23471]:
+                - cell "RAD161031RK1" [ref=e23472]
+                - cell "RESTAURANTES ADMX" [ref=e23473]
+                - cell "1" [ref=e23475]
+                - cell "$34.48" [ref=e23476]
+                - cell "$40.00" [ref=e23477]
+                - cell "Conforme" [ref=e23478]
+                - cell "Sin riesgo / Deducible" [ref=e23481]
+                - cell [ref=e23482]:
+                  - button "receipt_long Facturas" [ref=e23483] [cursor=pointer]:
+                    - generic [ref=e23484]: receipt_long
+                    - generic [ref=e23485]: Facturas
+              - row [ref=e23486]:
+                - cell "ODM950324V2A" [ref=e23487]
+                - cell "OFFICE DEPOT DE MEXICO" [ref=e23488]
+                - cell "1" [ref=e23490]
+                - cell "$8.39" [ref=e23491]
+                - cell "$8.07" [ref=e23492]
+                - cell "Conforme" [ref=e23493]
+                - cell "Sin riesgo / Deducible" [ref=e23496]
+                - cell [ref=e23497]:
+                  - button "receipt_long Facturas" [ref=e23498] [cursor=pointer]:
+                    - generic [ref=e23499]: receipt_long
+                    - generic [ref=e23500]: Facturas
+              - row [ref=e23501]:
+                - cell "BAI0205236Y8" [ref=e23502]
+                - cell "BANCO AZTECA SA INSTITUCION DE BANCA MULTIPLE" [ref=e23503]
+                - cell "5" [ref=e23505]
+                - cell "$0.05" [ref=e23506]
+                - cell "$0.00" [ref=e23507]
+                - cell "Conforme" [ref=e23508]
+                - cell "Sin riesgo / Deducible" [ref=e23511]
+                - cell [ref=e23512]:
+                  - button "receipt_long Facturas" [ref=e23513] [cursor=pointer]:
+                    - generic [ref=e23514]: receipt_long
+                    - generic [ref=e23515]: Facturas

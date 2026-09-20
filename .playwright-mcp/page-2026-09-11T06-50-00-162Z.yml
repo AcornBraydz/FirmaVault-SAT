@@ -1,0 +1,173 @@
+- generic [ref=f1e530]:
+  - complementary "Panel lateral de navegación" [ref=f1e531]:
+    - generic [ref=f1e532]:
+      - generic [ref=f1e533]:
+        - generic [ref=f1e534]:
+          - generic [ref=f1e535]: FV
+          - generic [ref=f1e536]:
+            - generic [ref=f1e537]:
+              - generic [ref=f1e538]: FirmaVault
+              - generic [ref=f1e539]: SAT
+            - paragraph [ref=f1e540]: Portal de Operaciones
+        - button "close" [ref=f1e541] [cursor=pointer]
+      - generic [ref=f1e543]:
+        - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [ref=f1e545] [cursor=pointer]:
+          - generic [ref=f1e546]:
+            - generic [ref=f1e547]: cloud_download
+            - generic [ref=f1e549]:
+              - generic [ref=f1e550]: Extracción SAT
+              - generic [ref=f1e551]: Descargas Automáticas
+          - generic [ref=f1e552]:
+            - generic [ref=f1e553]: "3"
+            - generic [ref=f1e554]: expand_more
+        - generic [ref=f1e590]:
+          - button "query_stats Papeles de Trabajo Reportes Contables 4 expand_more" [expanded] [ref=f1e591] [cursor=pointer]:
+            - generic [ref=f1e592]:
+              - generic [ref=f1e593]: query_stats
+              - generic [ref=f1e595]:
+                - generic [ref=f1e596]: Papeles de Trabajo
+                - generic [ref=f1e597]: Reportes Contables
+            - generic [ref=f1e598]:
+              - generic [ref=f1e599]: "4"
+              - generic [ref=f1e600]: expand_more
+          - generic [ref=f1e1267]:
+            - 'button "calculate Análisis de IVA e ISR Reemplazo analítico de Excel: Subtotal, IVA (16% y 8%), Retenciones ISR, Retenciones IVA y Total. Subtotal / IVA Retenciones ISR/IVA" [ref=f1e1268] [cursor=pointer]':
+              - generic [ref=f1e1269]:
+                - generic [ref=f1e1270]: calculate
+                - generic [ref=f1e1272]:
+                  - generic [ref=f1e1273]: Análisis de IVA e ISR
+                  - paragraph [ref=f1e1275]: "Reemplazo analítico de Excel: Subtotal, IVA (16% y 8%), Retenciones ISR, Retenciones IVA y Total."
+                  - generic [ref=f1e1276]:
+                    - generic [ref=f1e1277]: Subtotal / IVA
+                    - generic [ref=f1e1278]: Retenciones ISR/IVA
+            - button "account_balance_wallet Control de Pagos (PUE vs PPD) Separación de contado (PUE) vs crédito (PPD) y detección de facturas PPD sin Complemento de Pago (REP). PUE vs PPD Alerta sin REP Nuevo" [ref=f1e1279] [cursor=pointer]:
+              - generic [ref=f1e1280]:
+                - generic [ref=f1e1281]: account_balance_wallet
+                - generic [ref=f1e1283]:
+                  - generic [ref=f1e1284]: Control de Pagos (PUE vs PPD)
+                  - paragraph [ref=f1e1286]: Separación de contado (PUE) vs crédito (PPD) y detección de facturas PPD sin Complemento de Pago (REP).
+                  - generic [ref=f1e1287]:
+                    - generic [ref=f1e1288]: PUE vs PPD
+                    - generic [ref=f1e1289]: Alerta sin REP
+                    - generic [ref=f1e1290]: Nuevo
+            - 'button "summarize Resumen de Nóminas para Declarar Concentrado mensual acumulado por empleado: Ingresos Gravados, Ingresos Exentos e ISR Retenido. Gravado / Exento ISR Retenido Nuevo" [active] [ref=f1e1291] [cursor=pointer]':
+              - generic [ref=f1e1292]:
+                - generic [ref=f1e1293]: summarize
+                - generic [ref=f1e1295]:
+                  - generic [ref=f1e1296]: Resumen de Nóminas para Declarar
+                  - paragraph [ref=f1e1298]: "Concentrado mensual acumulado por empleado: Ingresos Gravados, Ingresos Exentos e ISR Retenido."
+                  - generic [ref=f1e1299]:
+                    - generic [ref=f1e1300]: Gravado / Exento
+                    - generic [ref=f1e1301]: ISR Retenido
+                    - generic [ref=f1e1302]: Nuevo
+            - button "table_view Pre-cálculo DIOT Reporte automatizado de gastos del mes agrupados y acumulados por RFC de proveedor para captura DIOT. Agrupado por Proveedor DIOT Nuevo" [ref=f1e1303] [cursor=pointer]:
+              - generic [ref=f1e1304]:
+                - generic [ref=f1e1305]: table_view
+                - generic [ref=f1e1307]:
+                  - generic [ref=f1e1308]: Pre-cálculo DIOT
+                  - paragraph [ref=f1e1310]: Reporte automatizado de gastos del mes agrupados y acumulados por RFC de proveedor para captura DIOT.
+                  - generic [ref=f1e1311]:
+                    - generic [ref=f1e1312]: Agrupado por Proveedor
+                    - generic [ref=f1e1313]: DIOT
+                    - generic [ref=f1e1314]: Nuevo
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 2 expand_more" [ref=f1e602] [cursor=pointer]:
+          - generic [ref=f1e603]:
+            - generic [ref=f1e604]: shield
+            - generic [ref=f1e606]:
+              - generic [ref=f1e607]: Auditoría y Riesgo
+              - generic [ref=f1e608]: Auditoría Fiscal
+          - generic [ref=f1e609]:
+            - generic [ref=f1e610]: "2"
+            - generic [ref=f1e611]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=f1e613] [cursor=pointer]:
+      - generic [ref=f1e614]: arrow_back
+      - generic [ref=f1e615]: Volver a Contribuyentes
+  - banner [ref=f1e616]:
+    - generic [ref=f1e618]:
+      - generic [ref=f1e619]:
+        - button "Menú principal" [ref=f1e620] [cursor=pointer]:
+          - generic [ref=f1e621]: menu
+        - generic [ref=f1e623]:
+          - generic [ref=f1e624]:
+            - generic [ref=f1e625]: FirmaVault
+            - generic [ref=f1e626]: SAT
+          - generic [ref=f1e627]: /
+          - generic [ref=f1e628]:
+            - generic [ref=f1e629]: Papeles de Trabajo
+            - generic [ref=f1e630]: •
+            - generic [ref=f1e631]: Resumen de Nóminas para Declarar
+      - generic [ref=f1e632]:
+        - generic [ref=f1e633]:
+          - generic [ref=f1e634]: schedule
+          - generic [ref=f1e635]: vie, 11 de sep de 2026
+          - generic [ref=f1e636]: •
+          - generic [ref=f1e637]: 12:49:59 a.m.
+        - generic [ref=f1e638]:
+          - generic [ref=f1e639]: AN
+          - generic [ref=f1e640]:
+            - generic [ref=f1e641]: AMERICA NOLASCO PALACIOS
+            - generic [ref=f1e646]:
+              - generic [ref=f1e647]: NOPA890313A48
+              - generic [ref=f1e648]: Persona Física
+        - button "arrow_back Volver" [ref=f1e650] [cursor=pointer]:
+          - generic [ref=f1e651]: arrow_back
+          - generic [ref=f1e652]: Volver
+  - main [ref=f1e653]:
+    - generic [ref=f1e1783]:
+      - generic [ref=f1e1786]:
+        - generic [ref=f1e1787]:
+          - generic [ref=f1e1788]: summarize
+          - text: 2. Papeles de Trabajo • Reportes Contables
+        - generic [ref=f1e1789]: NOPA890313A48
+      - generic [ref=f1e1790]:
+        - heading "Resumen de Nóminas para Declarar" [level=1] [ref=f1e1791]
+        - paragraph [ref=f1e1792]: Acumulado mensual automático por trabajador listo para captura directa en el portal de declaraciones del SAT.
+      - generic [ref=f1e1793]:
+        - generic [ref=f1e1794]:
+          - generic [ref=f1e1795]: tune
+          - generic [ref=f1e1796]:
+            - heading "Parámetros de Ejecución" [level=3] [ref=f1e1797]
+            - paragraph [ref=f1e1798]: "Contribuyente activo: AMERICA NOLASCO PALACIOS"
+        - generic [ref=f1e1799]:
+          - button "upload_file Subir XMLs (.xml / .zip)" [ref=f1e1800] [cursor=pointer]:
+            - generic [ref=f1e1801]: upload_file
+            - generic [ref=f1e1802]: Subir XMLs (.xml / .zip)
+          - generic [ref=f1e1803]:
+            - generic [ref=f1e1804]: "Ejercicio:"
+            - combobox [ref=f1e1805] [cursor=pointer]:
+              - option "2026" [selected]
+              - option "2025"
+              - option "2024"
+              - option "2023"
+              - option "2022"
+          - generic [ref=f1e1806]:
+            - generic [ref=f1e1807]: "Periodo:"
+            - combobox [ref=f1e1808] [cursor=pointer]:
+              - option "Todo el Año (Consolidado)" [selected]
+              - option "Enero"
+              - option "Febrero"
+              - option "Marzo"
+              - option "Abril"
+              - option "Mayo"
+              - option "Junio"
+              - option "Julio"
+              - option "Agosto"
+              - option "Septiembre"
+              - option "Octubre"
+              - option "Noviembre"
+              - option "Diciembre"
+          - button "play_circle Iniciar Auditoría y Descargar Excel" [ref=f1e1809] [cursor=pointer]:
+            - generic [ref=f1e1810]: play_circle
+            - generic [ref=f1e1811]: Iniciar Auditoría y Descargar Excel
+      - generic [ref=f1e1813]:
+        - generic [ref=f1e1814]:
+          - generic [ref=f1e1815]: group
+          - generic [ref=f1e1817]: Excel (.xlsx)
+        - generic [ref=f1e1818]:
+          - heading "Hoja de Trabajo de Retenciones por Salarios" [level=3] [ref=f1e1819]
+          - paragraph [ref=f1e1820]: Suma de percepciones gravadas, exentas e impuestos retenidos con desglose por RFC de trabajador.
+        - generic [ref=f1e1821]:
+          - generic [ref=f1e1822]: Listo para captura SAT
+          - button "download Descargar" [ref=f1e1824] [cursor=pointer]:
+            - generic [ref=f1e1825]: download
+            - generic [ref=f1e1826]: Descargar

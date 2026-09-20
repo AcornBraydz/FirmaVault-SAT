@@ -1,0 +1,284 @@
+- generic [ref=f1e530]:
+  - complementary "Panel lateral de navegación" [ref=f1e531]:
+    - generic [ref=f1e532]:
+      - generic [ref=f1e533]:
+        - generic [ref=f1e534]:
+          - generic [ref=f1e535]: FV
+          - generic [ref=f1e536]:
+            - generic [ref=f1e537]:
+              - generic [ref=f1e538]: FirmaVault
+              - generic [ref=f1e539]: SAT
+            - paragraph [ref=f1e540]: Portal de Operaciones
+        - button "close" [ref=f1e541] [cursor=pointer]
+      - generic [ref=f1e543]:
+        - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [ref=f1e545] [cursor=pointer]:
+          - generic [ref=f1e546]:
+            - generic [ref=f1e547]: cloud_download
+            - generic [ref=f1e549]:
+              - generic [ref=f1e550]: Extracción SAT
+              - generic [ref=f1e551]: Descargas Automáticas
+          - generic [ref=f1e552]:
+            - generic [ref=f1e553]: "3"
+            - generic [ref=f1e554]: expand_more
+        - button "query_stats Papeles de Trabajo Reportes Contables 4 expand_more" [ref=f1e591] [cursor=pointer]:
+          - generic [ref=f1e592]:
+            - generic [ref=f1e593]: query_stats
+            - generic [ref=f1e595]:
+              - generic [ref=f1e596]: Papeles de Trabajo
+              - generic [ref=f1e597]: Reportes Contables
+          - generic [ref=f1e598]:
+            - generic [ref=f1e599]: "4"
+            - generic [ref=f1e600]: expand_more
+        - generic [ref=f1e601]:
+          - button "shield Auditoría y Riesgo Auditoría Fiscal 2 expand_more" [expanded] [ref=f1e602] [cursor=pointer]:
+            - generic [ref=f1e603]:
+              - generic [ref=f1e604]: shield
+              - generic [ref=f1e606]:
+                - generic [ref=f1e607]: Auditoría y Riesgo
+                - generic [ref=f1e608]: Auditoría Fiscal
+            - generic [ref=f1e609]:
+              - generic [ref=f1e610]: "2"
+              - generic [ref=f1e611]: expand_more
+          - generic [ref=f1e2000]:
+            - button "fact_check Validador de Cancelaciones Cotejo contra Web Service del SAT para detectar si proveedores cancelaron facturas a escondidas. Web Service SAT Detección Silenciosa Nuevo" [ref=f1e2001] [cursor=pointer]:
+              - generic [ref=f1e2002]:
+                - generic [ref=f1e2003]: fact_check
+                - generic [ref=f1e2005]:
+                  - generic [ref=f1e2006]: Validador de Cancelaciones
+                  - paragraph [ref=f1e2008]: Cotejo contra Web Service del SAT para detectar si proveedores cancelaron facturas a escondidas.
+                  - generic [ref=f1e2009]:
+                    - generic [ref=f1e2010]: Web Service SAT
+                    - generic [ref=f1e2011]: Detección Silenciosa
+                    - generic [ref=f1e2012]: Nuevo
+            - button "warning_amber Rastreador de Listas Negras (EFOS) Cruce automático de compras y gastos contra el listado del Artículo 69-B del SAT (Empresas Fantasma). Art. 69-B SAT Blindaje Deducción Nuevo" [active] [ref=f1e2013] [cursor=pointer]:
+              - generic [ref=f1e2014]:
+                - generic [ref=f1e2015]: warning_amber
+                - generic [ref=f1e2017]:
+                  - generic [ref=f1e2018]: Rastreador de Listas Negras (EFOS)
+                  - paragraph [ref=f1e2020]: Cruce automático de compras y gastos contra el listado del Artículo 69-B del SAT (Empresas Fantasma).
+                  - generic [ref=f1e2021]:
+                    - generic [ref=f1e2022]: Art. 69-B SAT
+                    - generic [ref=f1e2023]: Blindaje Deducción
+                    - generic [ref=f1e2024]: Nuevo
+    - button "arrow_back Volver a Contribuyentes" [ref=f1e613] [cursor=pointer]:
+      - generic [ref=f1e614]: arrow_back
+      - generic [ref=f1e615]: Volver a Contribuyentes
+  - banner [ref=f1e616]:
+    - generic [ref=f1e618]:
+      - generic [ref=f1e619]:
+        - button "Menú principal" [ref=f1e620] [cursor=pointer]:
+          - generic [ref=f1e621]: menu
+        - generic [ref=f1e623]:
+          - generic [ref=f1e624]:
+            - generic [ref=f1e625]: FirmaVault
+            - generic [ref=f1e626]: SAT
+          - generic [ref=f1e627]: /
+          - generic [ref=f1e628]:
+            - generic [ref=f1e629]: Auditoría y Riesgo
+            - generic [ref=f1e630]: •
+            - generic [ref=f1e631]: Rastreador de Listas Negras (EFOS)
+      - generic [ref=f1e632]:
+        - generic [ref=f1e633]:
+          - generic [ref=f1e634]: schedule
+          - generic [ref=f1e635]: vie, 11 de sep de 2026
+          - generic [ref=f1e636]: •
+          - generic [ref=f1e637]: 12:51:25 a.m.
+        - generic [ref=f1e638]:
+          - generic [ref=f1e639]: AN
+          - generic [ref=f1e640]:
+            - generic [ref=f1e641]: AMERICA NOLASCO PALACIOS
+            - generic [ref=f1e646]:
+              - generic [ref=f1e647]: NOPA890313A48
+              - generic [ref=f1e648]: Persona Física
+        - button "arrow_back Volver" [ref=f1e650] [cursor=pointer]:
+          - generic [ref=f1e651]: arrow_back
+          - generic [ref=f1e652]: Volver
+  - main [ref=f1e653]:
+    - generic [ref=f1e2900]:
+      - generic [ref=f1e2903]:
+        - generic [ref=f1e2904]:
+          - generic [ref=f1e2905]: warning_amber
+          - text: 3. Auditoría y Riesgo • Auditoría Fiscal
+        - generic [ref=f1e2906]: NOPA890313A48
+      - generic [ref=f1e2907]:
+        - heading "Rastreador de Listas Negras (EFOS - Art. 69-B)" [level=1] [ref=f1e2908]
+        - paragraph [ref=f1e2909]: Cruce automático de los RFCs de proveedores contra la lista negra oficial de Empresas Facturadoras de Operaciones Simuladas.
+      - generic [ref=f1e2910]:
+        - generic [ref=f1e2911]:
+          - generic [ref=f1e2912]: tune
+          - generic [ref=f1e2913]:
+            - heading "Parámetros de Ejecución" [level=3] [ref=f1e2914]
+            - paragraph [ref=f1e2915]: "Contribuyente activo: AMERICA NOLASCO PALACIOS"
+        - generic [ref=f1e2916]:
+          - button "upload_file Subir XMLs (.xml / .zip)" [ref=f1e2917] [cursor=pointer]:
+            - generic [ref=f1e2918]: upload_file
+            - generic [ref=f1e2919]: Subir XMLs (.xml / .zip)
+          - generic [ref=f1e2920]:
+            - generic [ref=f1e2921]: "Ejercicio:"
+            - combobox [ref=f1e2922] [cursor=pointer]:
+              - option "Todos los Años (Consolidado)"
+              - option "2026" [selected]
+              - option "2025"
+              - option "2024"
+              - option "2023"
+              - option "2022"
+          - generic [ref=f1e2923]:
+            - generic [ref=f1e2924]: "Periodo:"
+            - combobox [ref=f1e2925] [cursor=pointer]:
+              - option "Todo el Año (Consolidado)" [selected]
+              - option "Enero"
+              - option "Febrero"
+              - option "Marzo"
+              - option "Abril"
+              - option "Mayo"
+              - option "Junio"
+              - option "Julio"
+              - option "Agosto"
+              - option "Septiembre"
+              - option "Octubre"
+              - option "Noviembre"
+              - option "Diciembre"
+          - button "play_circle Iniciar Cruce 69-B y Descargar Excel" [ref=f1e2926] [cursor=pointer]:
+            - generic [ref=f1e2927]: play_circle
+            - generic [ref=f1e2928]: Iniciar Cruce 69-B y Descargar Excel
+      - generic [ref=f1e2929]:
+        - generic [ref=f1e2931]:
+          - generic [ref=f1e2932]:
+            - generic [ref=f1e2933]: Base Oficial DOF + SAT (14,123 Registros)
+            - heading "search_check Validador Exprés de RFC (Artículo 69-B)" [level=3] [ref=f1e2935]:
+              - generic [ref=f1e2936]: search_check
+              - text: Validador Exprés de RFC (Artículo 69-B)
+            - paragraph [ref=f1e2937]: Consulta en tiempo real si cualquier proveedor o tercero está boletinado como presunto o definitivo.
+          - generic [ref=f1e2938]:
+            - generic [ref=f1e2939]:
+              - textbox "RFC a consultar (ej. AAA120730823)" [ref=f1e2940]
+              - generic [ref=f1e2941]: badge
+            - button "search Verificar" [disabled] [ref=f1e2942]:
+              - generic [ref=f1e2943]: search
+              - generic [ref=f1e2944]: Verificar
+        - generic [ref=f1e2946]:
+          - generic [ref=f1e2947]:
+            - generic [ref=f1e2948]: verified_user
+            - generic [ref=f1e2950]:
+              - generic [ref=f1e2951]:
+                - generic [ref=f1e2952]: CONFORME
+                - generic [ref=f1e2953]: "Periodo: Ejercicio Anual 2026"
+              - 'heading "DICTAMEN FISCAL: CUMPLIMIENTO FAVORABLE — COMPROBANTES 100% LIMPIOS" [level=2] [ref=f1e2954]'
+              - paragraph [ref=f1e2955]: Se auditaron satisfactoriamente 4 proveedores únicos y 17 comprobantes fiscales recibidos. NINGUNO de los emisores se encuentra boletinado como presunto ni definitivo en el listado oficial del Artículo 69-B del CFF publicado en el DOF. El contribuyente cuenta con blindaje y trazabilidad completa de sus deducciones e IVA acreditable.
+          - generic [ref=f1e2956]:
+            - button "download Descargar Auditoría Oficial (.xlsx)" [ref=f1e2957] [cursor=pointer]:
+              - generic [ref=f1e2958]: download
+              - generic [ref=f1e2959]: Descargar Auditoría Oficial (.xlsx)
+            - generic [ref=f1e2960]: Incluye cédula de dictamen y firmas
+        - generic [ref=f1e2961]:
+          - generic [ref=f1e2962]:
+            - generic [ref=f1e2963]:
+              - generic [ref=f1e2964]: Proveedores Totales
+              - generic [ref=f1e2965]: group
+            - generic [ref=f1e2966]:
+              - text: "4"
+              - generic [ref=f1e2967]: 17 comprobantes recibidos
+          - generic [ref=f1e2968]:
+            - generic [ref=f1e2969]:
+              - generic [ref=f1e2970]: 100% Conformes
+              - generic [ref=f1e2971]: check_circle
+            - generic [ref=f1e2972]:
+              - text: "4"
+              - generic [ref=f1e2973]: 100% Cumplimiento Limpio
+          - generic [ref=f1e2974]:
+            - generic [ref=f1e2975]:
+              - generic [ref=f1e2976]: EFOS Definitivos
+              - generic [ref=f1e2977]: error
+            - generic [ref=f1e2978]:
+              - text: "0"
+              - generic [ref=f1e2979]: Sin alertas críticas
+          - generic [ref=f1e2980]:
+            - generic [ref=f1e2981]:
+              - generic [ref=f1e2982]: EFOS Presuntos
+              - generic [ref=f1e2983]: warning_amber
+            - generic [ref=f1e2984]:
+              - text: "0"
+              - generic [ref=f1e2985]: Sin alertas preventivas
+          - generic [ref=f1e2986]:
+            - generic [ref=f1e2987]:
+              - generic [ref=f1e2988]: Monto en Riesgo
+              - generic [ref=f1e2989]: payments
+            - generic [ref=f1e2990]:
+              - generic [ref=f1e2991]: $0.00
+              - generic [ref=f1e2992]: Subtotal + IVA auditado
+        - generic [ref=f1e2993]:
+          - generic [ref=f1e2994]:
+            - generic [ref=f1e2995]:
+              - generic [ref=f1e2996]: domain
+              - heading "Padrón de Proveedores Auditados" [level=3] [ref=f1e2997]
+              - generic [ref=f1e2998]: 4 proveedor(es)
+            - generic [ref=f1e2999]:
+              - generic [ref=f1e3000]:
+                - button "Todos (4)" [ref=f1e3001] [cursor=pointer]
+                - button "🚨 En Riesgo (0)" [ref=f1e3002] [cursor=pointer]:
+                  - generic [ref=f1e3003]: 🚨 En Riesgo
+                  - generic [ref=f1e3004]: (0)
+                - button "Conformes (4)" [ref=f1e3005] [cursor=pointer]
+              - generic [ref=f1e3006]:
+                - textbox "Filtrar por RFC o Razón Social..." [ref=f1e3007]
+                - generic [ref=f1e3008]: filter_alt
+          - table [ref=f1e3010]:
+            - rowgroup [ref=f1e3011]:
+              - row [ref=f1e3012]:
+                - columnheader "RFC Emisor" [ref=f1e3013]
+                - columnheader "Razón Social" [ref=f1e3014]
+                - columnheader "CFDIs" [ref=f1e3015]
+                - columnheader "Subtotal" [ref=f1e3016]
+                - columnheader "Total Facturado" [ref=f1e3017]
+                - columnheader "Situación Art. 69-B" [ref=f1e3018]
+                - columnheader "Acción Legal" [ref=f1e3019]
+                - columnheader "Acciones" [ref=f1e3020]
+            - rowgroup [ref=f1e3021]:
+              - row [ref=f1e3022]:
+                - cell "INO981201JN3" [ref=f1e3023]
+                - cell "INSTITUTO NOYOLA" [ref=f1e3024]
+                - cell "13" [ref=f1e3026]
+                - cell "$68,340.00" [ref=f1e3027]
+                - cell "$68,340.00" [ref=f1e3028]
+                - cell "Conforme" [ref=f1e3029]
+                - cell "Sin riesgo / Deducible" [ref=f1e3032]
+                - cell [ref=f1e3033]:
+                  - button "receipt_long Facturas" [ref=f1e3034] [cursor=pointer]:
+                    - generic [ref=f1e3035]: receipt_long
+                    - generic [ref=f1e3036]: Facturas
+              - row [ref=f1e3037]:
+                - cell "LMP771017AM6" [ref=f1e3038]
+                - cell "LABORATORIO MEDICO POLANCO" [ref=f1e3039]
+                - cell "1" [ref=f1e3041]
+                - cell "$6,796.18" [ref=f1e3042]
+                - cell "$5,077.27" [ref=f1e3043]
+                - cell "Conforme" [ref=f1e3044]
+                - cell "Sin riesgo / Deducible" [ref=f1e3047]
+                - cell [ref=f1e3048]:
+                  - button "receipt_long Facturas" [ref=f1e3049] [cursor=pointer]:
+                    - generic [ref=f1e3050]: receipt_long
+                    - generic [ref=f1e3051]: Facturas
+              - row [ref=f1e3052]:
+                - cell "NUBS7310188T1" [ref=f1e3053]
+                - cell "SANDRA ISABEL NUÑEZ BARRERA" [ref=f1e3054]
+                - cell "2" [ref=f1e3056]
+                - cell "$2,000.00" [ref=f1e3057]
+                - cell "$2,000.00" [ref=f1e3058]
+                - cell "Conforme" [ref=f1e3059]
+                - cell "Sin riesgo / Deducible" [ref=f1e3062]
+                - cell [ref=f1e3063]:
+                  - button "receipt_long Facturas" [ref=f1e3064] [cursor=pointer]:
+                    - generic [ref=f1e3065]: receipt_long
+                    - generic [ref=f1e3066]: Facturas
+              - row [ref=f1e3067]:
+                - cell "BMN930209927" [ref=f1e3068]
+                - cell "BANCO MERCANTIL DEL NORTE SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO BANORTE" [ref=f1e3069]
+                - cell "1" [ref=f1e3071]
+                - cell "$180.00" [ref=f1e3072]
+                - cell "$208.80" [ref=f1e3073]
+                - cell "Conforme" [ref=f1e3074]
+                - cell "Sin riesgo / Deducible" [ref=f1e3077]
+                - cell [ref=f1e3078]:
+                  - button "receipt_long Facturas" [ref=f1e3079] [cursor=pointer]:
+                    - generic [ref=f1e3080]: receipt_long
+                    - generic [ref=f1e3081]: Facturas

@@ -1,0 +1,187 @@
+- generic [ref=f1e530]:
+  - complementary "Panel lateral de navegación" [ref=f1e531]:
+    - generic [ref=f1e532]:
+      - generic [ref=f1e533]:
+        - generic [ref=f1e534]:
+          - generic [ref=f1e535]: FV
+          - generic [ref=f1e536]:
+            - generic [ref=f1e537]:
+              - generic [ref=f1e538]: FirmaVault
+              - generic [ref=f1e539]: SAT
+            - paragraph [ref=f1e540]: Portal de Operaciones
+        - button "close" [ref=f1e541] [cursor=pointer]
+      - generic [ref=f1e543]:
+        - generic [ref=f1e544]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=f1e545] [cursor=pointer]:
+            - generic [ref=f1e546]:
+              - generic [ref=f1e547]: cloud_download
+              - generic [ref=f1e549]:
+                - generic [ref=f1e550]: Extracción SAT
+                - generic [ref=f1e551]: Descargas Automáticas
+            - generic [ref=f1e552]:
+              - generic [ref=f1e553]: "3"
+              - generic [ref=f1e554]: expand_more
+          - generic [ref=f1e555]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=f1e556] [cursor=pointer]:
+              - generic [ref=f1e557]:
+                - generic [ref=f1e558]: receipt
+                - generic [ref=f1e560]:
+                  - generic [ref=f1e561]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=f1e563]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=f1e564]:
+                    - generic [ref=f1e565]: XML + PDF
+                    - generic [ref=f1e566]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=f1e567] [cursor=pointer]:
+              - generic [ref=f1e568]:
+                - generic [ref=f1e569]: receipt_long
+                - generic [ref=f1e571]:
+                  - generic [ref=f1e572]: Recibos de Nómina
+                  - paragraph [ref=f1e574]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=f1e575]:
+                    - generic [ref=f1e576]: PDF + XML
+                    - generic [ref=f1e577]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=f1e578] [cursor=pointer]:
+              - generic [ref=f1e579]:
+                - generic [ref=f1e580]: description
+                - generic [ref=f1e582]:
+                  - generic [ref=f1e583]: Documentos Frecuentes
+                  - paragraph [ref=f1e585]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=f1e586]:
+                    - generic [ref=f1e587]: Opinión 32-D
+                    - generic [ref=f1e588]: CSF Actualizada
+                    - generic [ref=f1e589]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 4 expand_more" [ref=f1e591] [cursor=pointer]:
+          - generic [ref=f1e592]:
+            - generic [ref=f1e593]: query_stats
+            - generic [ref=f1e595]:
+              - generic [ref=f1e596]: Papeles de Trabajo
+              - generic [ref=f1e597]: Reportes Contables
+          - generic [ref=f1e598]:
+            - generic [ref=f1e599]: "4"
+            - generic [ref=f1e600]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 2 expand_more" [ref=f1e602] [cursor=pointer]:
+          - generic [ref=f1e603]:
+            - generic [ref=f1e604]: shield
+            - generic [ref=f1e606]:
+              - generic [ref=f1e607]: Auditoría y Riesgo
+              - generic [ref=f1e608]: Auditoría Fiscal
+          - generic [ref=f1e609]:
+            - generic [ref=f1e610]: "2"
+            - generic [ref=f1e611]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=f1e613] [cursor=pointer]:
+      - generic [ref=f1e614]: arrow_back
+      - generic [ref=f1e615]: Volver a Contribuyentes
+  - banner [ref=f1e616]:
+    - generic [ref=f1e618]:
+      - generic [ref=f1e619]:
+        - button "Menú principal" [ref=f1e620] [cursor=pointer]:
+          - generic [ref=f1e621]: menu
+        - generic [ref=f1e623]:
+          - generic [ref=f1e624]:
+            - generic [ref=f1e625]: FirmaVault
+            - generic [ref=f1e626]: SAT
+          - generic [ref=f1e627]: /
+          - generic [ref=f1e628]:
+            - generic [ref=f1e629]: Extracción SAT
+            - generic [ref=f1e630]: •
+            - generic [ref=f1e631]: Facturas (Ingresos y Gastos)
+      - generic [ref=f1e632]:
+        - generic [ref=f1e633]:
+          - generic [ref=f1e634]: schedule
+          - generic [ref=f1e635]: vie, 11 de sep de 2026
+          - generic [ref=f1e636]: •
+          - generic [ref=f1e637]: 12:47:01 a.m.
+        - generic [ref=f1e638]:
+          - generic [ref=f1e639]: AN
+          - generic [ref=f1e640]:
+            - generic [ref=f1e641]: AMERICA NOLASCO PALACIOS
+            - generic [ref=f1e646]:
+              - generic [ref=f1e647]: NOPA890313A48
+              - generic [ref=f1e648]: Persona Física
+        - button "arrow_back Volver" [ref=f1e650] [cursor=pointer]:
+          - generic [ref=f1e651]: arrow_back
+          - generic [ref=f1e652]: Volver
+  - main [ref=f1e653]:
+    - generic [ref=f1e859]:
+      - generic [ref=f1e861]:
+        - generic [ref=f1e862]:
+          - generic [ref=f1e863]: Facturas Emitidas (Ventas e Ingresos)
+          - generic [ref=f1e865]: "Contribuyente: NOPA890313A48"
+        - generic [ref=f1e866]:
+          - generic [ref=f1e867]: verified
+          - generic [ref=f1e868]: Conexión Directa al Portal del SAT vía e.firma
+      - generic [ref=f1e869]:
+        - button "upload Facturas Emitidas Comprobantes emitidos a clientes • ConsultaEmisor.aspx check_circle" [ref=f1e870] [cursor=pointer]:
+          - generic [ref=f1e871]:
+            - generic [ref=f1e872]:
+              - generic [ref=f1e873]: upload
+              - generic [ref=f1e875]:
+                - heading "Facturas Emitidas" [level=4] [ref=f1e876]
+                - paragraph [ref=f1e877]: Comprobantes emitidos a clientes • ConsultaEmisor.aspx
+            - generic [ref=f1e878]: check_circle
+        - button "download Facturas Recibidas Comprobantes recibidos de proveedores • ConsultaReceptor.aspx" [ref=f1e879] [cursor=pointer]:
+          - generic [ref=f1e881]:
+            - generic [ref=f1e882]: download
+            - generic [ref=f1e884]:
+              - heading "Facturas Recibidas" [level=4] [ref=f1e885]
+              - paragraph [ref=f1e886]: Comprobantes recibidos de proveedores • ConsultaReceptor.aspx
+      - generic [ref=f1e887]:
+        - heading "Descarga Automatizada de Facturas Emitidas del SAT" [level=1] [ref=f1e888]
+        - paragraph [ref=f1e889]: Extracción directa de comprobantes fiscales emitidos para AMERICA NOLASCO PALACIOS directamente desde el portal del SAT, generando el reporte en Excel con fórmulas contables automáticas de Importe e IVA al 16%.
+      - generic [ref=f1e890]:
+        - generic [ref=f1e891]:
+          - heading "tune Criterios de Consulta ante el SAT" [level=3] [ref=f1e892]:
+            - generic [ref=f1e893]: tune
+            - text: Criterios de Consulta ante el SAT
+          - generic [ref=f1e894]:
+            - generic [ref=f1e895]: storefront
+            - text: "Tipo: Emitidas (Ventas)"
+        - generic [ref=f1e896]:
+          - generic [ref=f1e897]:
+            - generic [ref=f1e898]: Ejercicio Fiscal (Año)
+            - generic [ref=f1e899]:
+              - combobox [ref=f1e900] [cursor=pointer]:
+                - option "2026 (Actual)" [selected]
+                - option "2025"
+                - option "2024"
+                - option "2023"
+                - option "2022"
+                - option "2021"
+                - option "2020"
+                - option "2019"
+                - option "2018"
+                - option "2017"
+                - option "2016"
+                - option "2015"
+                - option "2014"
+                - option "2013"
+                - option "2012"
+              - generic: expand_more
+          - generic [ref=f1e901]:
+            - generic [ref=f1e902]: Periodo Fiscal (Mes)
+            - generic [ref=f1e903]:
+              - combobox [ref=f1e904] [cursor=pointer]:
+                - option "Todo el año" [selected]
+                - option "Enero"
+                - option "Febrero"
+                - option "Marzo"
+                - option "Abril"
+                - option "Mayo"
+                - option "Junio"
+                - option "Julio"
+                - option "Agosto"
+                - option "Septiembre"
+                - option "Octubre"
+                - option "Noviembre"
+                - option "Diciembre"
+              - generic: expand_more
+        - generic [ref=f1e905]:
+          - generic [ref=f1e906]:
+            - generic [ref=f1e907]: key
+            - generic [ref=f1e908]:
+              - text: "e.firma vinculada:"
+              - strong [ref=f1e909]: NOPA890313A48
+              - text: • Credenciales listas
+          - button "cloud_download Descargar Facturas Emitidas del SAT" [ref=f1e911] [cursor=pointer]:
+            - generic [ref=f1e912]: cloud_download
+            - generic [ref=f1e913]: Descargar Facturas Emitidas del SAT

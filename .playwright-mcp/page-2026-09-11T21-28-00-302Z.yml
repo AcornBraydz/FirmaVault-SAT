@@ -1,0 +1,1300 @@
+- generic [ref=e1706]:
+  - complementary "Panel lateral de navegación" [ref=e1707]:
+    - generic [ref=e1708]:
+      - generic [ref=e1709]:
+        - generic [ref=e1710]:
+          - generic [ref=e1711]: FV
+          - generic [ref=e1712]:
+            - generic [ref=e1713]:
+              - generic [ref=e1714]: FirmaVault
+              - generic [ref=e1715]: SAT
+            - paragraph [ref=e1716]: Portal de Operaciones
+        - button "close" [ref=e1718] [cursor=pointer]
+      - generic [ref=e1720]:
+        - generic [ref=e1721]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=e1722] [cursor=pointer]:
+            - generic [ref=e1723]:
+              - generic [ref=e1724]: cloud_download
+              - generic [ref=e1726]:
+                - generic [ref=e1727]: Extracción SAT
+                - generic [ref=e1728]: Descargas Automáticas
+            - generic [ref=e1729]:
+              - generic [ref=e1730]: "3"
+              - generic [ref=e1731]: expand_more
+          - generic [ref=e1732]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=e1733] [cursor=pointer]:
+              - generic [ref=e1734]:
+                - generic [ref=e1735]: receipt
+                - generic [ref=e1737]:
+                  - generic [ref=e1738]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=e1740]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=e1741]:
+                    - generic [ref=e1742]: XML + PDF
+                    - generic [ref=e1743]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=e1744] [cursor=pointer]:
+              - generic [ref=e1745]:
+                - generic [ref=e1746]: receipt_long
+                - generic [ref=e1748]:
+                  - generic [ref=e1749]: Recibos de Nómina
+                  - paragraph [ref=e1751]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=e1752]:
+                    - generic [ref=e1753]: PDF + XML
+                    - generic [ref=e1754]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=e1755] [cursor=pointer]:
+              - generic [ref=e1756]:
+                - generic [ref=e1757]: description
+                - generic [ref=e1759]:
+                  - generic [ref=e1760]: Documentos Frecuentes
+                  - paragraph [ref=e1762]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=e1763]:
+                    - generic [ref=e1764]: Opinión 32-D
+                    - generic [ref=e1765]: CSF Actualizada
+                    - generic [ref=e1766]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 6 expand_more" [ref=e1768] [cursor=pointer]:
+          - generic [ref=e1769]:
+            - generic [ref=e1770]: query_stats
+            - generic [ref=e1772]:
+              - generic [ref=e1773]: Papeles de Trabajo
+              - generic [ref=e1774]: Reportes Contables
+          - generic [ref=e1775]:
+            - generic [ref=e1776]: "6"
+            - generic [ref=e1777]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 3 expand_more" [ref=e1779] [cursor=pointer]:
+          - generic [ref=e1780]:
+            - generic [ref=e1781]: shield
+            - generic [ref=e1783]:
+              - generic [ref=e1784]: Auditoría y Riesgo
+              - generic [ref=e1785]: Auditoría Fiscal
+          - generic [ref=e1786]:
+            - generic [ref=e1787]: "3"
+            - generic [ref=e1788]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=e1790] [cursor=pointer]:
+      - generic [ref=e1791]: arrow_back
+      - generic [ref=e1792]: Volver a Contribuyentes
+  - banner [ref=e1793]:
+    - generic [ref=e1795]:
+      - generic [ref=e1796]:
+        - button "Menú principal" [ref=e1797] [cursor=pointer]:
+          - generic [ref=e1798]: menu
+        - navigation "Ruta de navegación" [ref=e1800]:
+          - button "FirmaVault SAT" [ref=e1801] [cursor=pointer]:
+            - generic [ref=e1802]: FirmaVault
+            - generic [ref=e1803]: SAT
+          - generic [ref=e1804]: /
+          - button "Portal" [ref=e1805] [cursor=pointer]
+          - generic [ref=e9912]: /
+          - generic [ref=e9913]:
+            - generic [ref=e9914]: table_view
+            - generic [ref=e9915]: Pre-cálculo DIOT
+      - generic [ref=e1806]:
+        - generic [ref=e1807]:
+          - generic [ref=e1808]: AC
+          - generic [ref=e1809]:
+            - generic [ref=e1810]: ARACELI CENTENO HERNANDEZ
+            - generic [ref=e1815]:
+              - generic [ref=e1816]: CEHA7904273AA
+              - generic [ref=e1817]: Física
+        - button "grid_view Hub" [ref=e9916] [cursor=pointer]:
+          - generic [ref=e1820]: grid_view
+          - generic [ref=e1821]: Hub
+  - main [ref=e1822]:
+    - generic [ref=e9917]:
+      - generic [ref=e9920]:
+        - generic [ref=e9921]:
+          - generic [ref=e9922]: table_view
+          - text: 2. Papeles de Trabajo • Reportes Contables
+        - generic [ref=e9923]: CEHA7904273AA
+      - generic [ref=e9924]:
+        - heading "Pre-cálculo DIOT (Art. 32 Fracc. VIII LIVA)" [level=1] [ref=e9925]
+        - paragraph [ref=e9926]: Auditoría de compras y gastos efectivamente pagados agrupados por proveedor para la Declaración Informativa de Operaciones con Terceros.
+      - generic [ref=e9927]:
+        - generic [ref=e9928]:
+          - generic [ref=e9929]: tune
+          - generic [ref=e9930]:
+            - heading "Parámetros de Ejecución" [level=3] [ref=e9931]
+            - paragraph [ref=e9932]: "Contribuyente activo: ARACELI CENTENO HERNANDEZ"
+        - generic [ref=e9933]:
+          - button "upload_file Subir XMLs (.xml / .zip)" [ref=e9934] [cursor=pointer]:
+            - generic [ref=e9935]: upload_file
+            - generic [ref=e9936]: Subir XMLs (.xml / .zip)
+          - generic [ref=e9937]:
+            - generic [ref=e9938]: "Ejercicio:"
+            - combobox [ref=e9939] [cursor=pointer]:
+              - option "2026" [selected]
+              - option "2025"
+              - option "2024"
+              - option "2023"
+              - option "2022"
+          - generic [ref=e9940]:
+            - generic [ref=e9941]: "Periodo:"
+            - combobox [ref=e9942] [cursor=pointer]:
+              - option "Todo el Año (Consolidado)" [selected]
+              - option "Enero"
+              - option "Febrero"
+              - option "Marzo"
+              - option "Abril"
+              - option "Mayo"
+              - option "Junio"
+              - option "Julio"
+              - option "Agosto"
+              - option "Septiembre"
+              - option "Octubre"
+              - option "Noviembre"
+              - option "Diciembre"
+          - button "play_circle Descargar Paquete DIOT (ZIP)" [ref=e9943] [cursor=pointer]:
+            - generic [ref=e9944]: play_circle
+            - generic [ref=e9945]: Descargar Paquete DIOT (ZIP)
+      - generic [ref=e9946]:
+        - generic [ref=e9947]:
+          - generic [ref=e9948]:
+            - generic [ref=e9949]:
+              - generic [ref=e9950]: Art. 32 Fracc. VIII LIVA • Formato Electrónico A-29
+              - heading "table_view Pre-cálculo DIOT — Declaración Informativa de Operaciones con Terceros" [level=2] [ref=e9952]:
+                - generic [ref=e9953]: table_view
+                - text: Pre-cálculo DIOT — Declaración Informativa de Operaciones con Terceros
+              - paragraph [ref=e9954]: Agrupación automática por RFC de proveedor con desglose de bases gravables (16%, 8%, 0%, Exentos y Retenciones). Genera en 1 clic el archivo batch listo para importar directo en la DIOT del SAT.
+            - generic [ref=e9955]:
+              - button "folder_zip Descargar Paquete Completo (.zip)" [ref=e9956] [cursor=pointer]:
+                - generic [ref=e9957]: folder_zip
+                - generic [ref=e9958]: Descargar Paquete Completo (.zip)
+              - generic [ref=e9959]:
+                - button "📊 Excel (.xlsx)" [ref=e9960] [cursor=pointer]
+                - button "TXT 54 Campos" [ref=e9961] [cursor=pointer]
+                - button "TXT DEM (24)" [ref=e9962] [cursor=pointer]
+          - generic [ref=e9963]:
+            - generic [ref=e9964]:
+              - generic [ref=e9965]: Base 16% Pagada
+              - generic [ref=e9966]: $94,309.25
+              - generic [ref=e9967]: "IVA 16%: $15,089.64"
+            - generic [ref=e9968]:
+              - generic [ref=e9969]: IVA Acreditable DIOT
+              - generic [ref=e9970]: $15,089.64
+              - text: 100% efectivamente pagado
+            - generic [ref=e9971]:
+              - generic [ref=e9972]: IVA Retenido (002)
+              - generic [ref=e9973]: $0.00
+              - text: Retenciones a proveedores
+            - generic [ref=e9974]:
+              - generic [ref=e9975]: Confronta Fiscal
+              - generic [ref=e9976]:
+                - generic [ref=e9977]: verified
+                - generic [ref=e9978]: Conciliación Cuadrada
+              - text: "Diferencia: $0.00 MXN"
+        - generic [ref=e9979]:
+          - generic [ref=e9980]:
+            - generic [ref=e9981]: Proveedores
+            - generic [ref=e9982]: "76"
+            - generic [ref=e9983]: 328 facturas pagadas
+          - generic [ref=e9984]:
+            - generic [ref=e9985]: Actos al 16%
+            - generic [ref=e9986]: $94,309.25
+            - text: Tasa General
+          - generic [ref=e9987]:
+            - generic [ref=e9988]: Frontera (8%)
+            - generic [ref=e9989]: $0.00
+            - text: Estímulo Región Norte
+          - generic [ref=e9990]:
+            - generic [ref=e9991]: Tasa 0%
+            - generic [ref=e9992]: $25,160.85
+            - text: Medicinas / Alimentos
+          - generic [ref=e9993]:
+            - generic [ref=e9994]: Actos Exentos
+            - generic [ref=e9995]: $11,754.17
+            - text: Sin traslado de IVA
+          - generic [ref=e9996]:
+            - generic [ref=e9997]: Total Operación
+            - generic [ref=e9998]: $146,434.67
+            - text: Total compras y gastos
+        - generic [ref=e9999]:
+          - generic [ref=e10000]:
+            - generic [ref=e10001]:
+              - generic [ref=e10002]: account_tree
+              - heading "Padrón de Terceros para DIOT (Formato A-29)" [level=3] [ref=e10003]
+              - generic [ref=e10004]: 76 tercero(s)
+            - generic [ref=e10005]:
+              - generic [ref=e10006]:
+                - button "Todos (76)" [ref=e10007] [cursor=pointer]
+                - button "Con IVA 16%/8%" [ref=e10008] [cursor=pointer]
+                - button "Con Retenciones" [ref=e10009] [cursor=pointer]
+                - button "0% / Exento" [ref=e10010] [cursor=pointer]
+              - generic [ref=e10011]:
+                - textbox "Buscar por RFC o proveedor..." [ref=e10012]
+                - generic [ref=e10013]: filter_alt
+          - table [ref=e10015]:
+            - rowgroup [ref=e10016]:
+              - row [ref=e10017]:
+                - columnheader "Tipo 3°" [ref=e10018]
+                - columnheader "Tipo Op." [ref=e10019]
+                - columnheader "RFC Proveedor" [ref=e10020]
+                - columnheader "Razón Social" [ref=e10021]
+                - columnheader "CFDIs" [ref=e10022]
+                - columnheader "Base 16% ($)" [ref=e10023]
+                - columnheader "IVA Trasl. ($)" [ref=e10024]
+                - columnheader "IVA Ret. ($)" [ref=e10025]
+                - columnheader "Total Operación ($)" [ref=e10026]
+                - columnheader "Acciones" [ref=e10027]
+            - rowgroup [ref=e10028]:
+              - row [ref=e10029]:
+                - cell "04" [ref=e10030]
+                - cell "85" [ref=e10031]
+                - cell "NWM9709244W4" [ref=e10032]
+                - cell "NUEVA WAL MART DE MEXICO" [ref=e10033]
+                - cell "71" [ref=e10035]
+                - cell "$33,445.26" [ref=e10036]
+                - cell "$5,351.24" [ref=e10037]
+                - cell "$0.00" [ref=e10038]
+                - cell "$51,699.41" [ref=e10039]
+                - cell [ref=e10040]:
+                  - button "receipt_long Facturas" [ref=e10041] [cursor=pointer]:
+                    - generic [ref=e10042]: receipt_long
+                    - generic [ref=e10043]: Facturas
+              - row [ref=e10044]:
+                - cell "04" [ref=e10045]
+                - cell "85" [ref=e10046]
+                - cell "CET0810145K6" [ref=e10047]
+                - cell "CENTRO EDUCATIVO TRES CULTURAS" [ref=e10048]
+                - cell "16" [ref=e10050]
+                - cell "$0.00" [ref=e10051]
+                - cell "$0.00" [ref=e10052]
+                - cell "$0.00" [ref=e10053]
+                - cell "$11,272.32" [ref=e10054]
+                - cell [ref=e10055]:
+                  - button "receipt_long Facturas" [ref=e10056] [cursor=pointer]:
+                    - generic [ref=e10057]: receipt_long
+                    - generic [ref=e10058]: Facturas
+              - row [ref=e10059]:
+                - cell "04" [ref=e10060]
+                - cell "85" [ref=e10061]
+                - cell "AME970109GW0" [ref=e10062]
+                - cell "AUTOZONE DE MEXICO" [ref=e10063]
+                - cell "4" [ref=e10065]
+                - cell "$6,469.66" [ref=e10066]
+                - cell "$1,035.15" [ref=e10067]
+                - cell "$0.00" [ref=e10068]
+                - cell "$7,504.81" [ref=e10069]
+                - cell [ref=e10070]:
+                  - button "receipt_long Facturas" [ref=e10071] [cursor=pointer]:
+                    - generic [ref=e10072]: receipt_long
+                    - generic [ref=e10073]: Facturas
+              - row [ref=e10074]:
+                - cell "04" [ref=e10075]
+                - cell "85" [ref=e10076]
+                - cell "MAC870728Q75" [ref=e10077]
+                - cell "MATERIALES AVENIDA CUAUHTEMOC" [ref=e10078]
+                - cell "5" [ref=e10080]
+                - cell "$4,781.91" [ref=e10081]
+                - cell "$765.09" [ref=e10082]
+                - cell "$0.00" [ref=e10083]
+                - cell "$5,547.00" [ref=e10084]
+                - cell [ref=e10085]:
+                  - button "receipt_long Facturas" [ref=e10086] [cursor=pointer]:
+                    - generic [ref=e10087]: receipt_long
+                    - generic [ref=e10088]: Facturas
+              - row [ref=e10089]:
+                - cell "04" [ref=e10090]
+                - cell "85" [ref=e10091]
+                - cell "GZA9104307K6" [ref=e10092]
+                - cell "GRUPO ZORRO ABARROTERO" [ref=e10093]
+                - cell "6" [ref=e10095]
+                - cell "$1,833.66" [ref=e10096]
+                - cell "$293.40" [ref=e10097]
+                - cell "$0.00" [ref=e10098]
+                - cell "$5,496.76" [ref=e10099]
+                - cell [ref=e10100]:
+                  - button "receipt_long Facturas" [ref=e10101] [cursor=pointer]:
+                    - generic [ref=e10102]: receipt_long
+                    - generic [ref=e10103]: Facturas
+              - row [ref=e10104]:
+                - cell "04" [ref=e10105]
+                - cell "85" [ref=e10106]
+                - cell "TCH850701RM1" [ref=e10107]
+                - cell "TIENDAS CHEDRAUI" [ref=e10108]
+                - cell "25" [ref=e10110]
+                - cell "$1,043.52" [ref=e10111]
+                - cell "$166.98" [ref=e10112]
+                - cell "$0.00" [ref=e10113]
+                - cell "$3,946.76" [ref=e10114]
+                - cell [ref=e10115]:
+                  - button "receipt_long Facturas" [ref=e10116] [cursor=pointer]:
+                    - generic [ref=e10117]: receipt_long
+                    - generic [ref=e10118]: Facturas
+              - row [ref=e10119]:
+                - cell "04" [ref=e10120]
+                - cell "85" [ref=e10121]
+                - cell "VMI050120AU6" [ref=e10122]
+                - cell "27 MICRAS INTERNACIONAL" [ref=e10123]
+                - cell "3" [ref=e10125]
+                - cell "$3,290.54" [ref=e10126]
+                - cell "$526.47" [ref=e10127]
+                - cell "$0.00" [ref=e10128]
+                - cell "$3,817.01" [ref=e10129]
+                - cell [ref=e10130]:
+                  - button "receipt_long Facturas" [ref=e10131] [cursor=pointer]:
+                    - generic [ref=e10132]: receipt_long
+                    - generic [ref=e10133]: Facturas
+              - row [ref=e10134]:
+                - cell "04" [ref=e10135]
+                - cell "85" [ref=e10136]
+                - cell "MOS150123565" [ref=e10137]
+                - cell "MULTIBRAND OUTLET STORES" [ref=e10138]
+                - cell "5" [ref=e10140]
+                - cell "$3,157.76" [ref=e10141]
+                - cell "$505.25" [ref=e10142]
+                - cell "$0.00" [ref=e10143]
+                - cell "$3,663.01" [ref=e10144]
+                - cell [ref=e10145]:
+                  - button "receipt_long Facturas" [ref=e10146] [cursor=pointer]:
+                    - generic [ref=e10147]: receipt_long
+                    - generic [ref=e10148]: Facturas
+              - row [ref=e10149]:
+                - cell "04" [ref=e10150]
+                - cell "85" [ref=e10151]
+                - cell "GES021031BL9" [ref=e10152]
+                - cell "GRUPO EMPRESARIAL S.J." [ref=e10153]
+                - cell "5" [ref=e10155]
+                - cell "$3,070.70" [ref=e10156]
+                - cell "$491.30" [ref=e10157]
+                - cell "$0.00" [ref=e10158]
+                - cell "$3,562.00" [ref=e10159]
+                - cell [ref=e10160]:
+                  - button "receipt_long Facturas" [ref=e10161] [cursor=pointer]:
+                    - generic [ref=e10162]: receipt_long
+                    - generic [ref=e10163]: Facturas
+              - row [ref=e10164]:
+                - cell "04" [ref=e10165]
+                - cell "85" [ref=e10166]
+                - cell "TME840315KT6" [ref=e10167]
+                - cell "TELEFONOS DE MEXICO" [ref=e10168]
+                - cell "8" [ref=e10170]
+                - cell "$2,775.27" [ref=e10171]
+                - cell "$444.01" [ref=e10172]
+                - cell "$0.00" [ref=e10173]
+                - cell "$3,219.28" [ref=e10174]
+                - cell [ref=e10175]:
+                  - button "receipt_long Facturas" [ref=e10176] [cursor=pointer]:
+                    - generic [ref=e10177]: receipt_long
+                    - generic [ref=e10178]: Facturas
+              - row [ref=e10179]:
+                - cell "04" [ref=e10180]
+                - cell "85" [ref=e10181]
+                - cell "JCO200305LY7" [ref=e10182]
+                - cell "JSE COMERCIAL" [ref=e10183]
+                - cell "1" [ref=e10185]
+                - cell "$2,715.52" [ref=e10186]
+                - cell "$434.48" [ref=e10187]
+                - cell "$0.00" [ref=e10188]
+                - cell "$3,150.00" [ref=e10189]
+                - cell [ref=e10190]:
+                  - button "receipt_long Facturas" [ref=e10191] [cursor=pointer]:
+                    - generic [ref=e10192]: receipt_long
+                    - generic [ref=e10193]: Facturas
+              - row [ref=e10194]:
+                - cell "04" [ref=e10195]
+                - cell "85" [ref=e10196]
+                - cell "PPL961114GZ1" [ref=e10197]
+                - cell "PHARMA PLUS" [ref=e10198]
+                - cell "6" [ref=e10200]
+                - cell "$398.27" [ref=e10201]
+                - cell "$63.73" [ref=e10202]
+                - cell "$0.00" [ref=e10203]
+                - cell "$2,454.50" [ref=e10204]
+                - cell [ref=e10205]:
+                  - button "receipt_long Facturas" [ref=e10206] [cursor=pointer]:
+                    - generic [ref=e10207]: receipt_long
+                    - generic [ref=e10208]: Facturas
+              - row [ref=e10209]:
+                - cell "04" [ref=e10210]
+                - cell "85" [ref=e10211]
+                - cell "SUB910603SB3" [ref=e10212]
+                - cell "SUBURBIA" [ref=e10213]
+                - cell "3" [ref=e10215]
+                - cell "$1,827.67" [ref=e10216]
+                - cell "$292.43" [ref=e10217]
+                - cell "$0.00" [ref=e10218]
+                - cell "$2,120.10" [ref=e10219]
+                - cell [ref=e10220]:
+                  - button "receipt_long Facturas" [ref=e10221] [cursor=pointer]:
+                    - generic [ref=e10222]: receipt_long
+                    - generic [ref=e10223]: Facturas
+              - row [ref=e10224]:
+                - cell "04" [ref=e10225]
+                - cell "85" [ref=e10226]
+                - cell "HDM001017AS1" [ref=e10227]
+                - cell "HOME DEPOT MEXICO" [ref=e10228]
+                - cell "1" [ref=e10230]
+                - cell "$1,817.24" [ref=e10231]
+                - cell "$290.76" [ref=e10232]
+                - cell "$0.00" [ref=e10233]
+                - cell "$2,108.00" [ref=e10234]
+                - cell [ref=e10235]:
+                  - button "receipt_long Facturas" [ref=e10236] [cursor=pointer]:
+                    - generic [ref=e10237]: receipt_long
+                    - generic [ref=e10238]: Facturas
+              - row [ref=e10239]:
+                - cell "04" [ref=e10240]
+                - cell "85" [ref=e10241]
+                - cell "FPA240206V2A" [ref=e10242]
+                - cell "FIKA PANADERIA" [ref=e10243]
+                - cell "7" [ref=e10245]
+                - cell "$0.00" [ref=e10246]
+                - cell "$0.00" [ref=e10247]
+                - cell "$0.00" [ref=e10248]
+                - cell "$2,089.00" [ref=e10249]
+                - cell [ref=e10250]:
+                  - button "receipt_long Facturas" [ref=e10251] [cursor=pointer]:
+                    - generic [ref=e10252]: receipt_long
+                    - generic [ref=e10253]: Facturas
+              - row [ref=e10254]:
+                - cell "04" [ref=e10255]
+                - cell "85" [ref=e10256]
+                - cell "OVI800131GQ6" [ref=e10257]
+                - cell "OPERADORA VIPS" [ref=e10258]
+                - cell "4" [ref=e10260]
+                - cell "$1,731.03" [ref=e10261]
+                - cell "$276.97" [ref=e10262]
+                - cell "$0.00" [ref=e10263]
+                - cell "$2,008.00" [ref=e10264]
+                - cell [ref=e10265]:
+                  - button "receipt_long Facturas" [ref=e10266] [cursor=pointer]:
+                    - generic [ref=e10267]: receipt_long
+                    - generic [ref=e10268]: Facturas
+              - row [ref=e10269]:
+                - cell "04" [ref=e10270]
+                - cell "85" [ref=e10271]
+                - cell "GPO780317G73" [ref=e10272]
+                - cell "GAS POPO" [ref=e10273]
+                - cell "2" [ref=e10275]
+                - cell "$1,716.41" [ref=e10276]
+                - cell "$274.63" [ref=e10277]
+                - cell "$0.00" [ref=e10278]
+                - cell "$1,991.04" [ref=e10279]
+                - cell [ref=e10280]:
+                  - button "receipt_long Facturas" [ref=e10281] [cursor=pointer]:
+                    - generic [ref=e10282]: receipt_long
+                    - generic [ref=e10283]: Facturas
+              - row [ref=e10284]:
+                - cell "04" [ref=e10285]
+                - cell "85" [ref=e10286]
+                - cell "SHE190630V37" [ref=e10287]
+                - cell "SANBORN HERMANOS" [ref=e10288]
+                - cell "3" [ref=e10290]
+                - cell "$1,585.35" [ref=e10291]
+                - cell "$253.65" [ref=e10292]
+                - cell "$0.00" [ref=e10293]
+                - cell "$1,877.85" [ref=e10294]
+                - cell [ref=e10295]:
+                  - button "receipt_long Facturas" [ref=e10296] [cursor=pointer]:
+                    - generic [ref=e10297]: receipt_long
+                    - generic [ref=e10298]: Facturas
+              - row [ref=e10299]:
+                - cell "04" [ref=e10300]
+                - cell "85" [ref=e10301]
+                - cell "NMM101011JP0" [ref=e10302]
+                - cell "EL NUEVO MUNDO MEXICO" [ref=e10303]
+                - cell "1" [ref=e10305]
+                - cell "$1,585.86" [ref=e10306]
+                - cell "$253.74" [ref=e10307]
+                - cell "$0.00" [ref=e10308]
+                - cell "$1,839.60" [ref=e10309]
+                - cell [ref=e10310]:
+                  - button "receipt_long Facturas" [ref=e10311] [cursor=pointer]:
+                    - generic [ref=e10312]: receipt_long
+                    - generic [ref=e10313]: Facturas
+              - row [ref=e10314]:
+                - cell "04" [ref=e10315]
+                - cell "85" [ref=e10316]
+                - cell "AII010827SA8" [ref=e10317]
+                - cell "ADMINISTRADORA DE INMUEBLES IXTAPALUCA" [ref=e10318]
+                - cell "5" [ref=e10320]
+                - cell "$1,492.62" [ref=e10321]
+                - cell "$238.80" [ref=e10322]
+                - cell "$0.00" [ref=e10323]
+                - cell "$1,776.77" [ref=e10324]
+                - cell [ref=e10325]:
+                  - button "receipt_long Facturas" [ref=e10326] [cursor=pointer]:
+                    - generic [ref=e10327]: receipt_long
+                    - generic [ref=e10328]: Facturas
+              - row [ref=e10329]:
+                - cell "04" [ref=e10330]
+                - cell "85" [ref=e10331]
+                - cell "CCA940503DW5" [ref=e10332]
+                - cell "COMERCIALIZADORA CADER" [ref=e10333]
+                - cell "2" [ref=e10335]
+                - cell "$1,391.56" [ref=e10336]
+                - cell "$222.65" [ref=e10337]
+                - cell "$0.00" [ref=e10338]
+                - cell "$1,614.21" [ref=e10339]
+                - cell [ref=e10340]:
+                  - button "receipt_long Facturas" [ref=e10341] [cursor=pointer]:
+                    - generic [ref=e10342]: receipt_long
+                    - generic [ref=e10343]: Facturas
+              - row [ref=e10344]:
+                - cell "04" [ref=e10345]
+                - cell "85" [ref=e10346]
+                - cell "CMU9005034K1" [ref=e10347]
+                - cell "CORPORACION MUSSI" [ref=e10348]
+                - cell "4" [ref=e10350]
+                - cell "$1,307.24" [ref=e10351]
+                - cell "$209.16" [ref=e10352]
+                - cell "$0.00" [ref=e10353]
+                - cell "$1,516.40" [ref=e10354]
+                - cell [ref=e10355]:
+                  - button "receipt_long Facturas" [ref=e10356] [cursor=pointer]:
+                    - generic [ref=e10357]: receipt_long
+                    - generic [ref=e10358]: Facturas
+              - row [ref=e10359]:
+                - cell "04" [ref=e10360]
+                - cell "85" [ref=e10361]
+                - cell "FNI970829JR9" [ref=e10362]
+                - cell "FONDO NACIONAL DE INFRAESTRUCTURA" [ref=e10363]
+                - cell "19" [ref=e10365]
+                - cell "$1,273.20" [ref=e10366]
+                - cell "$203.80" [ref=e10367]
+                - cell "$0.00" [ref=e10368]
+                - cell "$1,477.00" [ref=e10369]
+                - cell [ref=e10370]:
+                  - button "receipt_long Facturas" [ref=e10371] [cursor=pointer]:
+                    - generic [ref=e10372]: receipt_long
+                    - generic [ref=e10373]: Facturas
+              - row [ref=e10374]:
+                - cell "04" [ref=e10375]
+                - cell "85" [ref=e10376]
+                - cell "TSO991022PB6" [ref=e10377]
+                - cell "TIENDAS SORIANA" [ref=e10378]
+                - cell "6" [ref=e10380]
+                - cell "$1,134.04" [ref=e10381]
+                - cell "$181.46" [ref=e10382]
+                - cell "$0.00" [ref=e10383]
+                - cell "$1,377.75" [ref=e10384]
+                - cell [ref=e10385]:
+                  - button "receipt_long Facturas" [ref=e10386] [cursor=pointer]:
+                    - generic [ref=e10387]: receipt_long
+                    - generic [ref=e10388]: Facturas
+              - row [ref=e10389]:
+                - cell "04" [ref=e10390]
+                - cell "85" [ref=e10391]
+                - cell "ORI0805206Y2" [ref=e10392]
+                - cell "ORIGAS" [ref=e10393]
+                - cell "4" [ref=e10395]
+                - cell "$1,113.90" [ref=e10396]
+                - cell "$178.23" [ref=e10397]
+                - cell "$0.00" [ref=e10398]
+                - cell "$1,324.55" [ref=e10399]
+                - cell [ref=e10400]:
+                  - button "receipt_long Facturas" [ref=e10401] [cursor=pointer]:
+                    - generic [ref=e10402]: receipt_long
+                    - generic [ref=e10403]: Facturas
+              - row [ref=e10404]:
+                - cell "04" [ref=e10405]
+                - cell "85" [ref=e10406]
+                - cell "SME051013BQ2" [ref=e10407]
+                - cell "TIENDAS FIX" [ref=e10408]
+                - cell "6" [ref=e10410]
+                - cell "$1,040.09" [ref=e10411]
+                - cell "$166.41" [ref=e10412]
+                - cell "$0.00" [ref=e10413]
+                - cell "$1,206.50" [ref=e10414]
+                - cell [ref=e10415]:
+                  - button "receipt_long Facturas" [ref=e10416] [cursor=pointer]:
+                    - generic [ref=e10417]: receipt_long
+                    - generic [ref=e10418]: Facturas
+              - row [ref=e10419]:
+                - cell "04" [ref=e10420]
+                - cell "85" [ref=e10421]
+                - cell "SAYM5011256H1" [ref=e10422]
+                - cell "MOSHE SHARON YAZED" [ref=e10423]
+                - cell "1" [ref=e10425]
+                - cell "$952.59" [ref=e10426]
+                - cell "$152.41" [ref=e10427]
+                - cell "$0.00" [ref=e10428]
+                - cell "$1,105.00" [ref=e10429]
+                - cell [ref=e10430]:
+                  - button "receipt_long Facturas" [ref=e10431] [cursor=pointer]:
+                    - generic [ref=e10432]: receipt_long
+                    - generic [ref=e10433]: Facturas
+              - row [ref=e10434]:
+                - cell "04" [ref=e10435]
+                - cell "85" [ref=e10436]
+                - cell "DLI931201MI9" [ref=e10437]
+                - cell "DISTRIBUIDORA LIVERPOOL" [ref=e10438]
+                - cell "3" [ref=e10440]
+                - cell "$809.22" [ref=e10441]
+                - cell "$129.47" [ref=e10442]
+                - cell "$0.00" [ref=e10443]
+                - cell "$967.69" [ref=e10444]
+                - cell [ref=e10445]:
+                  - button "receipt_long Facturas" [ref=e10446] [cursor=pointer]:
+                    - generic [ref=e10447]: receipt_long
+                    - generic [ref=e10448]: Facturas
+              - row [ref=e10449]:
+                - cell "04" [ref=e10450]
+                - cell "85" [ref=e10451]
+                - cell "HEMJ740107BV9" [ref=e10452]
+                - cell "JUAN GABRIEL HERNANDEZ MEDINA" [ref=e10453]
+                - cell "1" [ref=e10455]
+                - cell "$758.62" [ref=e10456]
+                - cell "$121.38" [ref=e10457]
+                - cell "$0.00" [ref=e10458]
+                - cell "$880.00" [ref=e10459]
+                - cell [ref=e10460]:
+                  - button "receipt_long Facturas" [ref=e10461] [cursor=pointer]:
+                    - generic [ref=e10462]: receipt_long
+                    - generic [ref=e10463]: Facturas
+              - row [ref=e10464]:
+                - cell "04" [ref=e10465]
+                - cell "85" [ref=e10466]
+                - cell "RISA9403102M3" [ref=e10467]
+                - cell "ALAN RIVERA SANCHEZ" [ref=e10468]
+                - cell "1" [ref=e10470]
+                - cell "$618.97" [ref=e10471]
+                - cell "$99.03" [ref=e10472]
+                - cell "$0.00" [ref=e10473]
+                - cell "$718.00" [ref=e10474]
+                - cell [ref=e10475]:
+                  - button "receipt_long Facturas" [ref=e10476] [cursor=pointer]:
+                    - generic [ref=e10477]: receipt_long
+                    - generic [ref=e10478]: Facturas
+              - row [ref=e10479]:
+                - cell "04" [ref=e10480]
+                - cell "85" [ref=e10481]
+                - cell "CCM9208249H1" [ref=e10482]
+                - cell "CENTRO COMERCIAL MAHAKIAN" [ref=e10483]
+                - cell "1" [ref=e10485]
+                - cell "$603.36" [ref=e10486]
+                - cell "$96.54" [ref=e10487]
+                - cell "$0.00" [ref=e10488]
+                - cell "$699.90" [ref=e10489]
+                - cell [ref=e10490]:
+                  - button "receipt_long Facturas" [ref=e10491] [cursor=pointer]:
+                    - generic [ref=e10492]: receipt_long
+                    - generic [ref=e10493]: Facturas
+              - row [ref=e10494]:
+                - cell "04" [ref=e10495]
+                - cell "85" [ref=e10496]
+                - cell "SOFB931008E81" [ref=e10497]
+                - cell "BRYAN SOLIS FLORES" [ref=e10498]
+                - cell "1" [ref=e10500]
+                - cell "$581.90" [ref=e10501]
+                - cell "$93.10" [ref=e10502]
+                - cell "$0.00" [ref=e10503]
+                - cell "$675.00" [ref=e10504]
+                - cell [ref=e10505]:
+                  - button "receipt_long Facturas" [ref=e10506] [cursor=pointer]:
+                    - generic [ref=e10507]: receipt_long
+                    - generic [ref=e10508]: Facturas
+              - row [ref=e10509]:
+                - cell "04" [ref=e10510]
+                - cell "85" [ref=e10511]
+                - cell "CDI1305022N7" [ref=e10512]
+                - cell "COMPUMEX DIGITAL" [ref=e10513]
+                - cell "1" [ref=e10515]
+                - cell "$577.17" [ref=e10516]
+                - cell "$92.35" [ref=e10517]
+                - cell "$0.00" [ref=e10518]
+                - cell "$669.52" [ref=e10519]
+                - cell [ref=e10520]:
+                  - button "receipt_long Facturas" [ref=e10521] [cursor=pointer]:
+                    - generic [ref=e10522]: receipt_long
+                    - generic [ref=e10523]: Facturas
+              - row [ref=e10524]:
+                - cell "04" [ref=e10525]
+                - cell "85" [ref=e10526]
+                - cell "OOM960429832" [ref=e10527]
+                - cell "OPERADORA OMX" [ref=e10528]
+                - cell "4" [ref=e10530]
+                - cell "$569.48" [ref=e10531]
+                - cell "$91.12" [ref=e10532]
+                - cell "$0.00" [ref=e10533]
+                - cell "$660.60" [ref=e10534]
+                - cell [ref=e10535]:
+                  - button "receipt_long Facturas" [ref=e10536] [cursor=pointer]:
+                    - generic [ref=e10537]: receipt_long
+                    - generic [ref=e10538]: Facturas
+              - row [ref=e10539]:
+                - cell "04" [ref=e10540]
+                - cell "85" [ref=e10541]
+                - cell "CSA900202A7A" [ref=e10542]
+                - cell "COMERCIAL SUPER ALIANZA" [ref=e10543]
+                - cell "1" [ref=e10545]
+                - cell "$512.93" [ref=e10546]
+                - cell "$82.07" [ref=e10547]
+                - cell "$0.00" [ref=e10548]
+                - cell "$633.00" [ref=e10549]
+                - cell [ref=e10550]:
+                  - button "receipt_long Facturas" [ref=e10551] [cursor=pointer]:
+                    - generic [ref=e10552]: receipt_long
+                    - generic [ref=e10553]: Facturas
+              - row [ref=e10554]:
+                - cell "04" [ref=e10555]
+                - cell "85" [ref=e10556]
+                - cell "CCA1308213W7" [ref=e10557]
+                - cell "SIZZLING PLATTER DE MEXICO" [ref=e10558]
+                - cell "4" [ref=e10560]
+                - cell "$533.60" [ref=e10561]
+                - cell "$85.40" [ref=e10562]
+                - cell "$0.00" [ref=e10563]
+                - cell "$619.00" [ref=e10564]
+                - cell [ref=e10565]:
+                  - button "receipt_long Facturas" [ref=e10566] [cursor=pointer]:
+                    - generic [ref=e10567]: receipt_long
+                    - generic [ref=e10568]: Facturas
+              - row [ref=e10569]:
+                - cell "04" [ref=e10570]
+                - cell "85" [ref=e10571]
+                - cell "GLU040831UX0" [ref=e10572]
+                - cell "GRUPO LUJOSA" [ref=e10573]
+                - cell "9" [ref=e10575]
+                - cell "$33.62" [ref=e10576]
+                - cell "$5.38" [ref=e10577]
+                - cell "$0.00" [ref=e10578]
+                - cell "$601.00" [ref=e10579]
+                - cell [ref=e10580]:
+                  - button "receipt_long Facturas" [ref=e10581] [cursor=pointer]:
+                    - generic [ref=e10582]: receipt_long
+                    - generic [ref=e10583]: Facturas
+              - row [ref=e10584]:
+                - cell "04" [ref=e10585]
+                - cell "85" [ref=e10586]
+                - cell "TSP0004051I4" [ref=e10587]
+                - cell "TIENDAS SUPER PRECIO" [ref=e10588]
+                - cell "10" [ref=e10590]
+                - cell "$194.94" [ref=e10591]
+                - cell "$31.25" [ref=e10592]
+                - cell "$0.00" [ref=e10593]
+                - cell "$574.01" [ref=e10594]
+                - cell [ref=e10595]:
+                  - button "receipt_long Facturas" [ref=e10596] [cursor=pointer]:
+                    - generic [ref=e10597]: receipt_long
+                    - generic [ref=e10598]: Facturas
+              - row [ref=e10599]:
+                - cell "04" [ref=e10600]
+                - cell "85" [ref=e10601]
+                - cell "VIFS760506MP5" [ref=e10602]
+                - cell "SERGIO VIVEROS FRAGOSO" [ref=e10603]
+                - cell "2" [ref=e10605]
+                - cell "$462.92" [ref=e10606]
+                - cell "$74.08" [ref=e10607]
+                - cell "$0.00" [ref=e10608]
+                - cell "$537.00" [ref=e10609]
+                - cell [ref=e10610]:
+                  - button "receipt_long Facturas" [ref=e10611] [cursor=pointer]:
+                    - generic [ref=e10612]: receipt_long
+                    - generic [ref=e10613]: Facturas
+              - row [ref=e10614]:
+                - cell "04" [ref=e10615]
+                - cell "85" [ref=e10616]
+                - cell "FGU830930PD3" [ref=e10617]
+                - cell "FARMACIA GUADALAJARA" [ref=e10618]
+                - cell "1" [ref=e10620]
+                - cell "$422.24" [ref=e10621]
+                - cell "$67.56" [ref=e10622]
+                - cell "$0.00" [ref=e10623]
+                - cell "$509.30" [ref=e10624]
+                - cell [ref=e10625]:
+                  - button "receipt_long Facturas" [ref=e10626] [cursor=pointer]:
+                    - generic [ref=e10627]: receipt_long
+                    - generic [ref=e10628]: Facturas
+              - row [ref=e10629]:
+                - cell "04" [ref=e10630]
+                - cell "85" [ref=e10631]
+                - cell "CME030219B64" [ref=e10632]
+                - cell "CONCESIONARIA MEXIQUENSE" [ref=e10633]
+                - cell "2" [ref=e10635]
+                - cell "$409.49" [ref=e10636]
+                - cell "$65.51" [ref=e10637]
+                - cell "$0.00" [ref=e10638]
+                - cell "$475.00" [ref=e10639]
+                - cell [ref=e10640]:
+                  - button "receipt_long Facturas" [ref=e10641] [cursor=pointer]:
+                    - generic [ref=e10642]: receipt_long
+                    - generic [ref=e10643]: Facturas
+              - row [ref=e10644]:
+                - cell "04" [ref=e10645]
+                - cell "85" [ref=e10646]
+                - cell "DAT110318S98" [ref=e10647]
+                - cell "DISTRIBUIDORA DE ALIMENTOS TH" [ref=e10648]
+                - cell "1" [ref=e10650]
+                - cell "$404.31" [ref=e10651]
+                - cell "$64.69" [ref=e10652]
+                - cell "$0.00" [ref=e10653]
+                - cell "$469.00" [ref=e10654]
+                - cell [ref=e10655]:
+                  - button "receipt_long Facturas" [ref=e10656] [cursor=pointer]:
+                    - generic [ref=e10657]: receipt_long
+                    - generic [ref=e10658]: Facturas
+              - row [ref=e10659]:
+                - cell "04" [ref=e10660]
+                - cell "85" [ref=e10661]
+                - cell "AFE020419BS0" [ref=e10662]
+                - cell "CASA CRAVIOTO" [ref=e10663]
+                - cell "2" [ref=e10665]
+                - cell "$396.35" [ref=e10666]
+                - cell "$63.42" [ref=e10667]
+                - cell "$0.00" [ref=e10668]
+                - cell "$459.77" [ref=e10669]
+                - cell [ref=e10670]:
+                  - button "receipt_long Facturas" [ref=e10671] [cursor=pointer]:
+                    - generic [ref=e10672]: receipt_long
+                    - generic [ref=e10673]: Facturas
+              - row [ref=e10674]:
+                - cell "04" [ref=e10675]
+                - cell "85" [ref=e10676]
+                - cell "LGA0111296B6" [ref=e10677]
+                - cell "LIBRERIAS GANDHI" [ref=e10678]
+                - cell "1" [ref=e10680]
+                - cell "$0.00" [ref=e10681]
+                - cell "$0.00" [ref=e10682]
+                - cell "$0.00" [ref=e10683]
+                - cell "$418.00" [ref=e10684]
+                - cell [ref=e10685]:
+                  - button "receipt_long Facturas" [ref=e10686] [cursor=pointer]:
+                    - generic [ref=e10687]: receipt_long
+                    - generic [ref=e10688]: Facturas
+              - row [ref=e10689]:
+                - cell "04" [ref=e10690]
+                - cell "85" [ref=e10691]
+                - cell "SEM980701STA" [ref=e10692]
+                - cell "7-ELEVEN MEXICO" [ref=e10693]
+                - cell "5" [ref=e10695]
+                - cell "$292.24" [ref=e10696]
+                - cell "$46.76" [ref=e10697]
+                - cell "$0.00" [ref=e10698]
+                - cell "$365.00" [ref=e10699]
+                - cell [ref=e10700]:
+                  - button "receipt_long Facturas" [ref=e10701] [cursor=pointer]:
+                    - generic [ref=e10702]: receipt_long
+                    - generic [ref=e10703]: Facturas
+              - row [ref=e10704]:
+                - cell "04" [ref=e10705]
+                - cell "85" [ref=e10706]
+                - cell "TSP241115H70" [ref=e10707]
+                - cell "TIENDA SPAX" [ref=e10708]
+                - cell "1" [ref=e10710]
+                - cell "$276.72" [ref=e10711]
+                - cell "$44.28" [ref=e10712]
+                - cell "$0.00" [ref=e10713]
+                - cell "$321.00" [ref=e10714]
+                - cell [ref=e10715]:
+                  - button "receipt_long Facturas" [ref=e10716] [cursor=pointer]:
+                    - generic [ref=e10717]: receipt_long
+                    - generic [ref=e10718]: Facturas
+              - row [ref=e10719]:
+                - cell "04" [ref=e10720]
+                - cell "85" [ref=e10721]
+                - cell "CCO8605231N4" [ref=e10722]
+                - cell "CADENA COMERCIAL OXXO" [ref=e10723]
+                - cell "3" [ref=e10725]
+                - cell "$111.21" [ref=e10726]
+                - cell "$17.79" [ref=e10727]
+                - cell "$0.00" [ref=e10728]
+                - cell "$320.99" [ref=e10729]
+                - cell [ref=e10730]:
+                  - button "receipt_long Facturas" [ref=e10731] [cursor=pointer]:
+                    - generic [ref=e10732]: receipt_long
+                    - generic [ref=e10733]: Facturas
+              - row [ref=e10734]:
+                - cell "04" [ref=e10735]
+                - cell "85" [ref=e10736]
+                - cell "OPP010927SA5" [ref=e10737]
+                - cell "OPERADORA Y PROCESADORA DE PRODUCTOS DE PANIFICACION" [ref=e10738]
+                - cell "1" [ref=e10740]
+                - cell "$275.00" [ref=e10741]
+                - cell "$44.00" [ref=e10742]
+                - cell "$0.00" [ref=e10743]
+                - cell "$319.00" [ref=e10744]
+                - cell [ref=e10745]:
+                  - button "receipt_long Facturas" [ref=e10746] [cursor=pointer]:
+                    - generic [ref=e10747]: receipt_long
+                    - generic [ref=e10748]: Facturas
+              - row [ref=e10749]:
+                - cell "04" [ref=e10750]
+                - cell "85" [ref=e10751]
+                - cell "GAS140620U44" [ref=e10752]
+                - cell "GASTOGA" [ref=e10753]
+                - cell "1" [ref=e10755]
+                - cell "$251.80" [ref=e10756]
+                - cell "$40.29" [ref=e10757]
+                - cell "$0.00" [ref=e10758]
+                - cell "$300.00" [ref=e10759]
+                - cell [ref=e10760]:
+                  - button "receipt_long Facturas" [ref=e10761] [cursor=pointer]:
+                    - generic [ref=e10762]: receipt_long
+                    - generic [ref=e10763]: Facturas
+              - row [ref=e10764]:
+                - cell "04" [ref=e10765]
+                - cell "85" [ref=e10766]
+                - cell "CMA831005SG1" [ref=e10767]
+                - cell "CASA DE PAPELERIA M" [ref=e10768]
+                - cell "1" [ref=e10770]
+                - cell "$256.54" [ref=e10771]
+                - cell "$41.05" [ref=e10772]
+                - cell "$0.00" [ref=e10773]
+                - cell "$297.59" [ref=e10774]
+                - cell [ref=e10775]:
+                  - button "receipt_long Facturas" [ref=e10776] [cursor=pointer]:
+                    - generic [ref=e10777]: receipt_long
+                    - generic [ref=e10778]: Facturas
+              - row [ref=e10779]:
+                - cell "04" [ref=e10780]
+                - cell "85" [ref=e10781]
+                - cell "DJU890724BU0" [ref=e10782]
+                - cell "DISTRIBUIDORA JUGUETRON" [ref=e10783]
+                - cell "2" [ref=e10785]
+                - cell "$256.12" [ref=e10786]
+                - cell "$40.98" [ref=e10787]
+                - cell "$0.00" [ref=e10788]
+                - cell "$297.10" [ref=e10789]
+                - cell [ref=e10790]:
+                  - button "receipt_long Facturas" [ref=e10791] [cursor=pointer]:
+                    - generic [ref=e10792]: receipt_long
+                    - generic [ref=e10793]: Facturas
+              - row [ref=e10794]:
+                - cell "04" [ref=e10795]
+                - cell "85" [ref=e10796]
+                - cell "DSH230530EN8" [ref=e10797]
+                - cell "DSC SHOPS" [ref=e10798]
+                - cell "1" [ref=e10800]
+                - cell "$218.97" [ref=e10801]
+                - cell "$35.03" [ref=e10802]
+                - cell "$0.00" [ref=e10803]
+                - cell "$254.00" [ref=e10804]
+                - cell [ref=e10805]:
+                  - button "receipt_long Facturas" [ref=e10806] [cursor=pointer]:
+                    - generic [ref=e10807]: receipt_long
+                    - generic [ref=e10808]: Facturas
+              - row [ref=e10809]:
+                - cell "04" [ref=e10810]
+                - cell "85" [ref=e10811]
+                - cell "CAP080114GMA" [ref=e10812]
+                - cell "CONCESIONARIA AUTOPISTA PEROTE-XALAPA" [ref=e10813]
+                - cell "1" [ref=e10815]
+                - cell "$177.59" [ref=e10816]
+                - cell "$28.41" [ref=e10817]
+                - cell "$0.00" [ref=e10818]
+                - cell "$206.00" [ref=e10819]
+                - cell [ref=e10820]:
+                  - button "receipt_long Facturas" [ref=e10821] [cursor=pointer]:
+                    - generic [ref=e10822]: receipt_long
+                    - generic [ref=e10823]: Facturas
+              - row [ref=e10824]:
+                - cell "04" [ref=e10825]
+                - cell "85" [ref=e10826]
+                - cell "ANE070706HL1" [ref=e10827]
+                - cell "AUTOVIA NECAXA-TIHUATLAN" [ref=e10828]
+                - cell "2" [ref=e10830]
+                - cell "$170.68" [ref=e10831]
+                - cell "$27.32" [ref=e10832]
+                - cell "$0.00" [ref=e10833]
+                - cell "$198.00" [ref=e10834]
+                - cell [ref=e10835]:
+                  - button "receipt_long Facturas" [ref=e10836] [cursor=pointer]:
+                    - generic [ref=e10837]: receipt_long
+                    - generic [ref=e10838]: Facturas
+              - row [ref=e10839]:
+                - cell "04" [ref=e10840]
+                - cell "85" [ref=e10841]
+                - cell "HCH160519QV5" [ref=e10842]
+                - cell "HELADOS DEL CENTRO HISTORICO" [ref=e10843]
+                - cell "1" [ref=e10845]
+                - cell "$0.00" [ref=e10846]
+                - cell "$0.00" [ref=e10847]
+                - cell "$0.00" [ref=e10848]
+                - cell "$177.00" [ref=e10849]
+                - cell [ref=e10850]:
+                  - button "receipt_long Facturas" [ref=e10851] [cursor=pointer]:
+                    - generic [ref=e10852]: receipt_long
+                    - generic [ref=e10853]: Facturas
+              - row [ref=e10854]:
+                - cell "04" [ref=e10855]
+                - cell "85" [ref=e10856]
+                - cell "BNM840515VB1" [ref=e10857]
+                - cell "BANCO NACIONAL DE MEXICO" [ref=e10858]
+                - cell "3" [ref=e10860]
+                - cell "$150.00" [ref=e10861]
+                - cell "$24.00" [ref=e10862]
+                - cell "$0.00" [ref=e10863]
+                - cell "$174.00" [ref=e10864]
+                - cell [ref=e10865]:
+                  - button "receipt_long Facturas" [ref=e10866] [cursor=pointer]:
+                    - generic [ref=e10867]: receipt_long
+                    - generic [ref=e10868]: Facturas
+              - row [ref=e10869]:
+                - cell "04" [ref=e10870]
+                - cell "85" [ref=e10871]
+                - cell "GEV8501016A2" [ref=e10872]
+                - cell "GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE" [ref=e10873]
+                - cell "1" [ref=e10875]
+                - cell "$146.55" [ref=e10876]
+                - cell "$23.45" [ref=e10877]
+                - cell "$0.00" [ref=e10878]
+                - cell "$170.00" [ref=e10879]
+                - cell [ref=e10880]:
+                  - button "receipt_long Facturas" [ref=e10881] [cursor=pointer]:
+                    - generic [ref=e10882]: receipt_long
+                    - generic [ref=e10883]: Facturas
+              - row [ref=e10884]:
+                - cell "04" [ref=e10885]
+                - cell "85" [ref=e10886]
+                - cell "PVA850304TN2" [ref=e10887]
+                - cell "PANIFICADORA LA VASCONIA" [ref=e10888]
+                - cell "11" [ref=e10890]
+                - cell "$0.00" [ref=e10891]
+                - cell "$0.00" [ref=e10892]
+                - cell "$0.00" [ref=e10893]
+                - cell "$158.00" [ref=e10894]
+                - cell [ref=e10895]:
+                  - button "receipt_long Facturas" [ref=e10896] [cursor=pointer]:
+                    - generic [ref=e10897]: receipt_long
+                    - generic [ref=e10898]: Facturas
+              - row [ref=e10899]:
+                - cell "04" [ref=e10900]
+                - cell "85" [ref=e10901]
+                - cell "SUP200818IP0" [ref=e10902]
+                - cell "SUPRACARE" [ref=e10903]
+                - cell "1" [ref=e10905]
+                - cell "$130.51" [ref=e10906]
+                - cell "$20.88" [ref=e10907]
+                - cell "$0.00" [ref=e10908]
+                - cell "$151.39" [ref=e10909]
+                - cell [ref=e10910]:
+                  - button "receipt_long Facturas" [ref=e10911] [cursor=pointer]:
+                    - generic [ref=e10912]: receipt_long
+                    - generic [ref=e10913]: Facturas
+              - row [ref=e10914]:
+                - cell "04" [ref=e10915]
+                - cell "85" [ref=e10916]
+                - cell "AEL050620TJ9" [ref=e10917]
+                - cell "ALDAN ELECTRONICA" [ref=e10918]
+                - cell "1" [ref=e10920]
+                - cell "$119.83" [ref=e10921]
+                - cell "$19.17" [ref=e10922]
+                - cell "$0.00" [ref=e10923]
+                - cell "$139.00" [ref=e10924]
+                - cell [ref=e10925]:
+                  - button "receipt_long Facturas" [ref=e10926] [cursor=pointer]:
+                    - generic [ref=e10927]: receipt_long
+                    - generic [ref=e10928]: Facturas
+              - row [ref=e10929]:
+                - cell "04" [ref=e10930]
+                - cell "85" [ref=e10931]
+                - cell "PCE1710038M4" [ref=e10932]
+                - cell "PROMOTORA DE CARRETERAS ECATEPEC PIRAMIDES" [ref=e10933]
+                - cell "2" [ref=e10935]
+                - cell "$114.66" [ref=e10936]
+                - cell "$18.34" [ref=e10937]
+                - cell "$0.00" [ref=e10938]
+                - cell "$133.00" [ref=e10939]
+                - cell [ref=e10940]:
+                  - button "receipt_long Facturas" [ref=e10941] [cursor=pointer]:
+                    - generic [ref=e10942]: receipt_long
+                    - generic [ref=e10943]: Facturas
+              - row [ref=e10944]:
+                - cell "04" [ref=e10945]
+                - cell "85" [ref=e10946]
+                - cell "MUR1406245XA" [ref=e10947]
+                - cell "MUROBA" [ref=e10948]
+                - cell "1" [ref=e10950]
+                - cell "$0.00" [ref=e10951]
+                - cell "$0.00" [ref=e10952]
+                - cell "$0.00" [ref=e10953]
+                - cell "$118.00" [ref=e10954]
+                - cell [ref=e10955]:
+                  - button "receipt_long Facturas" [ref=e10956] [cursor=pointer]:
+                    - generic [ref=e10957]: receipt_long
+                    - generic [ref=e10958]: Facturas
+              - row [ref=e10959]:
+                - cell "04" [ref=e10960]
+                - cell "85" [ref=e10961]
+                - cell "OFA9210138U1" [ref=e10962]
+                - cell "OPERADORA DE FRANQUICIAS ALSEA" [ref=e10963]
+                - cell "2" [ref=e10965]
+                - cell "$100.00" [ref=e10966]
+                - cell "$16.00" [ref=e10967]
+                - cell "$0.00" [ref=e10968]
+                - cell "$116.00" [ref=e10969]
+                - cell [ref=e10970]:
+                  - button "receipt_long Facturas" [ref=e10971] [cursor=pointer]:
+                    - generic [ref=e10972]: receipt_long
+                    - generic [ref=e10973]: Facturas
+              - row [ref=e10974]:
+                - cell "04" [ref=e10975]
+                - cell "85" [ref=e10976]
+                - cell "TTB040915CY9" [ref=e10977]
+                - cell "TIENDAS TRES B" [ref=e10978]
+                - cell "3" [ref=e10980]
+                - cell "$27.59" [ref=e10981]
+                - cell "$4.41" [ref=e10982]
+                - cell "$0.00" [ref=e10983]
+                - cell "$113.00" [ref=e10984]
+                - cell [ref=e10985]:
+                  - button "receipt_long Facturas" [ref=e10986] [cursor=pointer]:
+                    - generic [ref=e10987]: receipt_long
+                    - generic [ref=e10988]: Facturas
+              - row [ref=e10989]:
+                - cell "04" [ref=e10990]
+                - cell "85" [ref=e10991]
+                - cell "CTL140730568" [ref=e10992]
+                - cell "CORPORATIVO DE TIN Y LAVANDMAX" [ref=e10993]
+                - cell "1" [ref=e10995]
+                - cell "$88.80" [ref=e10996]
+                - cell "$14.21" [ref=e10997]
+                - cell "$0.00" [ref=e10998]
+                - cell "$103.01" [ref=e10999]
+                - cell [ref=e11000]:
+                  - button "receipt_long Facturas" [ref=e11001] [cursor=pointer]:
+                    - generic [ref=e11002]: receipt_long
+                    - generic [ref=e11003]: Facturas
+              - row [ref=e11004]:
+                - cell "04" [ref=e11005]
+                - cell "85" [ref=e11006]
+                - cell "SOM101125UEA" [ref=e11007]
+                - cell "GS TIENDAS DEPARTAMENTALES" [ref=e11008]
+                - cell "1" [ref=e11010]
+                - cell "$84.57" [ref=e11011]
+                - cell "$13.53" [ref=e11012]
+                - cell "$0.00" [ref=e11013]
+                - cell "$98.10" [ref=e11014]
+                - cell [ref=e11015]:
+                  - button "receipt_long Facturas" [ref=e11016] [cursor=pointer]:
+                    - generic [ref=e11017]: receipt_long
+                    - generic [ref=e11018]: Facturas
+              - row [ref=e11019]:
+                - cell "04" [ref=e11020]
+                - cell "85" [ref=e11021]
+                - cell "MBR200508FU9" [ref=e11022]
+                - cell "MINT BREAD" [ref=e11023]
+                - cell "1" [ref=e11025]
+                - cell "$0.00" [ref=e11026]
+                - cell "$0.00" [ref=e11027]
+                - cell "$0.00" [ref=e11028]
+                - cell "$96.00" [ref=e11029]
+                - cell [ref=e11030]:
+                  - button "receipt_long Facturas" [ref=e11031] [cursor=pointer]:
+                    - generic [ref=e11032]: receipt_long
+                    - generic [ref=e11033]: Facturas
+              - row [ref=e11034]:
+                - cell "04" [ref=e11035]
+                - cell "85" [ref=e11036]
+                - cell "PID721214BG4" [ref=e11037]
+                - cell "PASTELERIA IDEAL" [ref=e11038]
+                - cell "1" [ref=e11040]
+                - cell "$0.00" [ref=e11041]
+                - cell "$0.00" [ref=e11042]
+                - cell "$0.00" [ref=e11043]
+                - cell "$91.00" [ref=e11044]
+                - cell [ref=e11045]:
+                  - button "receipt_long Facturas" [ref=e11046] [cursor=pointer]:
+                    - generic [ref=e11047]: receipt_long
+                    - generic [ref=e11048]: Facturas
+              - row [ref=e11049]:
+                - cell "04" [ref=e11050]
+                - cell "85" [ref=e11051]
+                - cell "LEP1408184R1" [ref=e11052]
+                - cell "LIBRAMIENTO ELEVADO DE PUEBLA" [ref=e11053]
+                - cell "1" [ref=e11055]
+                - cell "$76.72" [ref=e11056]
+                - cell "$12.28" [ref=e11057]
+                - cell "$0.00" [ref=e11058]
+                - cell "$89.00" [ref=e11059]
+                - cell [ref=e11060]:
+                  - button "receipt_long Facturas" [ref=e11061] [cursor=pointer]:
+                    - generic [ref=e11062]: receipt_long
+                    - generic [ref=e11063]: Facturas
+              - row [ref=e11064]:
+                - cell "04" [ref=e11065]
+                - cell "85" [ref=e11066]
+                - cell "FBE9110215Z3" [ref=e11067]
+                - cell "FARMACIAS BENAVIDES" [ref=e11068]
+                - cell "1" [ref=e11070]
+                - cell "$0.00" [ref=e11071]
+                - cell "$0.00" [ref=e11072]
+                - cell "$0.00" [ref=e11073]
+                - cell "$80.00" [ref=e11074]
+                - cell [ref=e11075]:
+                  - button "receipt_long Facturas" [ref=e11076] [cursor=pointer]:
+                    - generic [ref=e11077]: receipt_long
+                    - generic [ref=e11078]: Facturas
+              - row [ref=e11079]:
+                - cell "04" [ref=e11080]
+                - cell "85" [ref=e11081]
+                - cell "CPM030614M68" [ref=e11082]
+                - cell "CONCESIONES Y PROMOCIONES MALIBRAN" [ref=e11083]
+                - cell "1" [ref=e11085]
+                - cell "$56.90" [ref=e11086]
+                - cell "$9.10" [ref=e11087]
+                - cell "$0.00" [ref=e11088]
+                - cell "$66.00" [ref=e11089]
+                - cell [ref=e11090]:
+                  - button "receipt_long Facturas" [ref=e11091] [cursor=pointer]:
+                    - generic [ref=e11092]: receipt_long
+                    - generic [ref=e11093]: Facturas
+              - row [ref=e11094]:
+                - cell "04" [ref=e11095]
+                - cell "85" [ref=e11096]
+                - cell "FSI970908ML5" [ref=e11097]
+                - cell "FARMACIAS DE SIMILARES" [ref=e11098]
+                - cell "1" [ref=e11100]
+                - cell "$0.00" [ref=e11101]
+                - cell "$0.00" [ref=e11102]
+                - cell "$0.00" [ref=e11103]
+                - cell "$53.00" [ref=e11104]
+                - cell [ref=e11105]:
+                  - button "receipt_long Facturas" [ref=e11106] [cursor=pointer]:
+                    - generic [ref=e11107]: receipt_long
+                    - generic [ref=e11108]: Facturas
+              - row [ref=e11109]:
+                - cell "04" [ref=e11110]
+                - cell "85" [ref=e11111]
+                - cell "CPF6307036N8" [ref=e11112]
+                - cell "CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS" [ref=e11113]
+                - cell "1" [ref=e11115]
+                - cell "$44.82" [ref=e11116]
+                - cell "$7.18" [ref=e11117]
+                - cell "$0.00" [ref=e11118]
+                - cell "$52.00" [ref=e11119]
+                - cell [ref=e11120]:
+                  - button "receipt_long Facturas" [ref=e11121] [cursor=pointer]:
+                    - generic [ref=e11122]: receipt_long
+                    - generic [ref=e11123]: Facturas
+              - row [ref=e11124]:
+                - cell "04" [ref=e11125]
+                - cell "85" [ref=e11126]
+                - cell "RAD161031RK1" [ref=e11127]
+                - cell "RESTAURANTES ADMX" [ref=e11128]
+                - cell "1" [ref=e11130]
+                - cell "$34.48" [ref=e11131]
+                - cell "$5.52" [ref=e11132]
+                - cell "$0.00" [ref=e11133]
+                - cell "$40.00" [ref=e11134]
+                - cell [ref=e11135]:
+                  - button "receipt_long Facturas" [ref=e11136] [cursor=pointer]:
+                    - generic [ref=e11137]: receipt_long
+                    - generic [ref=e11138]: Facturas
+              - row [ref=e11139]:
+                - cell "04" [ref=e11140]
+                - cell "85" [ref=e11141]
+                - cell "ODM950324V2A" [ref=e11142]
+                - cell "OFFICE DEPOT DE MEXICO" [ref=e11143]
+                - cell "1" [ref=e11145]
+                - cell "$6.96" [ref=e11146]
+                - cell "$1.11" [ref=e11147]
+                - cell "$0.00" [ref=e11148]
+                - cell "$8.07" [ref=e11149]
+                - cell [ref=e11150]:
+                  - button "receipt_long Facturas" [ref=e11151] [cursor=pointer]:
+                    - generic [ref=e11152]: receipt_long
+                    - generic [ref=e11153]: Facturas
+              - row [ref=e11154]:
+                - cell "04" [ref=e11155]
+                - cell "85" [ref=e11156]
+                - cell "BAI0205236Y8" [ref=e11157]
+                - cell "BANCO AZTECA SA INSTITUCION DE BANCA MULTIPLE" [ref=e11158]
+                - cell "5" [ref=e11160]
+                - cell "$0.00" [ref=e11161]
+                - cell "$0.00" [ref=e11162]
+                - cell "$0.00" [ref=e11163]
+                - cell "$0.00" [ref=e11164]
+                - cell [ref=e11165]:
+                  - button "receipt_long Facturas" [ref=e11166] [cursor=pointer]:
+                    - generic [ref=e11167]: receipt_long
+                    - generic [ref=e11168]: Facturas

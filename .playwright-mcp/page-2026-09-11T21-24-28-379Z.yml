@@ -1,0 +1,403 @@
+- generic [ref=e1706]:
+  - complementary "Panel lateral de navegación" [ref=e1707]:
+    - generic [ref=e1708]:
+      - generic [ref=e1709]:
+        - generic [ref=e1710]:
+          - generic [ref=e1711]: FV
+          - generic [ref=e1712]:
+            - generic [ref=e1713]:
+              - generic [ref=e1714]: FirmaVault
+              - generic [ref=e1715]: SAT
+            - paragraph [ref=e1716]: Portal de Operaciones
+        - button "close" [ref=e1718] [cursor=pointer]
+      - generic [ref=e1720]:
+        - generic [ref=e1721]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=e1722] [cursor=pointer]:
+            - generic [ref=e1723]:
+              - generic [ref=e1724]: cloud_download
+              - generic [ref=e1726]:
+                - generic [ref=e1727]: Extracción SAT
+                - generic [ref=e1728]: Descargas Automáticas
+            - generic [ref=e1729]:
+              - generic [ref=e1730]: "3"
+              - generic [ref=e1731]: expand_more
+          - generic [ref=e1732]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=e1733] [cursor=pointer]:
+              - generic [ref=e1734]:
+                - generic [ref=e1735]: receipt
+                - generic [ref=e1737]:
+                  - generic [ref=e1738]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=e1740]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=e1741]:
+                    - generic [ref=e1742]: XML + PDF
+                    - generic [ref=e1743]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=e1744] [cursor=pointer]:
+              - generic [ref=e1745]:
+                - generic [ref=e1746]: receipt_long
+                - generic [ref=e1748]:
+                  - generic [ref=e1749]: Recibos de Nómina
+                  - paragraph [ref=e1751]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=e1752]:
+                    - generic [ref=e1753]: PDF + XML
+                    - generic [ref=e1754]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=e1755] [cursor=pointer]:
+              - generic [ref=e1756]:
+                - generic [ref=e1757]: description
+                - generic [ref=e1759]:
+                  - generic [ref=e1760]: Documentos Frecuentes
+                  - paragraph [ref=e1762]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=e1763]:
+                    - generic [ref=e1764]: Opinión 32-D
+                    - generic [ref=e1765]: CSF Actualizada
+                    - generic [ref=e1766]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 6 expand_more" [ref=e1768] [cursor=pointer]:
+          - generic [ref=e1769]:
+            - generic [ref=e1770]: query_stats
+            - generic [ref=e1772]:
+              - generic [ref=e1773]: Papeles de Trabajo
+              - generic [ref=e1774]: Reportes Contables
+          - generic [ref=e1775]:
+            - generic [ref=e1776]: "6"
+            - generic [ref=e1777]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 3 expand_more" [ref=e1779] [cursor=pointer]:
+          - generic [ref=e1780]:
+            - generic [ref=e1781]: shield
+            - generic [ref=e1783]:
+              - generic [ref=e1784]: Auditoría y Riesgo
+              - generic [ref=e1785]: Auditoría Fiscal
+          - generic [ref=e1786]:
+            - generic [ref=e1787]: "3"
+            - generic [ref=e1788]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=e1790] [cursor=pointer]:
+      - generic [ref=e1791]: arrow_back
+      - generic [ref=e1792]: Volver a Contribuyentes
+  - banner [ref=e1793]:
+    - generic [ref=e1795]:
+      - generic [ref=e1796]:
+        - button "Menú principal" [ref=e1797] [cursor=pointer]:
+          - generic [ref=e1798]: menu
+        - navigation "Ruta de navegación" [ref=e1800]:
+          - button "FirmaVault SAT" [ref=e1801] [cursor=pointer]:
+            - generic [ref=e1802]: FirmaVault
+            - generic [ref=e1803]: SAT
+          - generic [ref=e1804]: /
+          - button "Portal" [ref=e1805] [cursor=pointer]
+          - generic [ref=e9371]: /
+          - generic [ref=e9372]:
+            - generic [ref=e9373]: summarize
+            - generic [ref=e9374]: Resumen de Nóminas para Declarar
+      - generic [ref=e1806]:
+        - generic [ref=e1807]:
+          - generic [ref=e1808]: AC
+          - generic [ref=e1809]:
+            - generic [ref=e1810]: ARACELI CENTENO HERNANDEZ
+            - generic [ref=e1815]:
+              - generic [ref=e1816]: CEHA7904273AA
+              - generic [ref=e1817]: Física
+        - button "grid_view Hub" [ref=e9375] [cursor=pointer]:
+          - generic [ref=e1820]: grid_view
+          - generic [ref=e1821]: Hub
+  - main [ref=e1822]:
+    - generic [ref=e9376]:
+      - generic [ref=e9379]:
+        - generic [ref=e9380]:
+          - generic [ref=e9381]: summarize
+          - text: 2. Papeles de Trabajo • Reportes Contables
+        - generic [ref=e9382]: CEHA7904273AA
+      - generic [ref=e9383]:
+        - heading "Resumen de Nóminas para Declarar" [level=1] [ref=e9384]
+        - paragraph [ref=e9385]: Acumulado mensual automático por trabajador listo para captura directa en el portal de declaraciones del SAT.
+      - generic [ref=e9386]:
+        - generic [ref=e9387]:
+          - generic [ref=e9388]: tune
+          - generic [ref=e9389]:
+            - heading "Parámetros de Ejecución" [level=3] [ref=e9390]
+            - paragraph [ref=e9391]: "Contribuyente activo: ARACELI CENTENO HERNANDEZ"
+        - generic [ref=e9392]:
+          - button "upload_file Subir XMLs (.xml / .zip)" [ref=e9393] [cursor=pointer]:
+            - generic [ref=e9394]: upload_file
+            - generic [ref=e9395]: Subir XMLs (.xml / .zip)
+          - generic [ref=e9396]:
+            - generic [ref=e9397]: "Ejercicio:"
+            - combobox [ref=e9398] [cursor=pointer]:
+              - option "2026" [selected]
+              - option "2025"
+              - option "2024"
+              - option "2023"
+              - option "2022"
+          - generic [ref=e9399]:
+            - generic [ref=e9400]: "Periodo:"
+            - combobox [ref=e9401] [cursor=pointer]:
+              - option "Todo el Año (Consolidado)" [selected]
+              - option "Enero"
+              - option "Febrero"
+              - option "Marzo"
+              - option "Abril"
+              - option "Mayo"
+              - option "Junio"
+              - option "Julio"
+              - option "Agosto"
+              - option "Septiembre"
+              - option "Octubre"
+              - option "Noviembre"
+              - option "Diciembre"
+          - button "play_circle Descargar Resumen Nóminas (.xlsx)" [ref=e9402] [cursor=pointer]:
+            - generic [ref=e9403]: play_circle
+            - generic [ref=e9404]: Descargar Resumen Nóminas (.xlsx)
+      - generic [ref=e9405]:
+        - generic [ref=e9406]:
+          - generic [ref=e9407]:
+            - generic [ref=e9408]: badge
+            - generic [ref=e9410]:
+              - generic [ref=e9411]:
+                - heading "Resumen de Nóminas para Declarar" [level=2] [ref=e9412]
+                - generic [ref=e9413]: Art. 96 LISR
+              - paragraph [ref=e9414]: Cédula de Retenciones por Salarios y Subsidio al Empleo para ARACELI CENTENO HERNANDEZ (CEHA7904273AA) — Ejercicio 2026
+          - generic [ref=e9415]:
+            - button "refresh Actualizar" [ref=e9416] [cursor=pointer]:
+              - generic [ref=e9417]: refresh
+              - generic [ref=e9418]: Actualizar
+            - button "table_view Descargar Papel de Trabajo (.xlsx)" [ref=e9419] [cursor=pointer]:
+              - generic [ref=e9420]: table_view
+              - generic [ref=e9421]: Descargar Papel de Trabajo (.xlsx)
+        - generic [ref=e9422]:
+          - generic [ref=e9423]:
+            - generic [ref=e9424]:
+              - generic [ref=e9425]: Total Percepciones
+              - generic [ref=e9426]: payments
+            - generic [ref=e9427]:
+              - generic [ref=e9428]: $299,626.45
+              - generic [ref=e9429]: 15 CFDI procesados
+          - generic [ref=e9431]:
+            - generic [ref=e9432]:
+              - generic [ref=e9433]: Ingresos Gravados
+              - generic [ref=e9434]: check_circle
+            - generic [ref=e9435]:
+              - generic [ref=e9436]: $288,381.02
+              - generic [ref=e9437]: Base gravable Art. 96 LISR
+          - generic [ref=e9438]:
+            - generic [ref=e9439]:
+              - generic [ref=e9440]: Ingresos Exentos
+              - generic [ref=e9441]: verified
+            - generic [ref=e9442]:
+              - generic [ref=e9443]: $11,245.43
+              - generic [ref=e9444]: Exenciones Art. 93 LISR
+          - generic [ref=e9445]:
+            - generic [ref=e9446]:
+              - generic [ref=e9447]: ISR Retenido (Bruto)
+              - generic [ref=e9448]: request_quote
+            - generic [ref=e9449]:
+              - generic [ref=e9450]: $49,568.25
+              - generic [ref=e9451]: Sumatoria de retenciones
+          - generic [ref=e9452]:
+            - generic [ref=e9453]:
+              - generic [ref=e9454]: Subsidio Empleo (SPE)
+              - generic [ref=e9455]: savings
+            - generic [ref=e9456]:
+              - generic [ref=e9457]: $0.00
+              - generic [ref=e9458]: Clave 002 OtroPago
+          - generic [ref=e9459]:
+            - generic [ref=e9460]:
+              - generic [ref=e9461]: ISR Neto a Declarar
+              - generic [ref=e9462]: account_balance
+            - generic [ref=e9463]:
+              - generic [ref=e9464]: $49,568.25
+              - generic [ref=e9465]: Línea de captura SAT
+        - generic [ref=e9466]:
+          - button "summarize 1. Declaración SAT Mensual (12 meses)" [ref=e9467] [cursor=pointer]:
+            - generic [ref=e9468]: summarize
+            - generic [ref=e9469]: 1. Declaración SAT Mensual (12 meses)
+          - button "groups 2. Cédula por Trabajador (1)" [ref=e9470] [cursor=pointer]:
+            - generic [ref=e9471]: groups
+            - generic [ref=e9472]: 2. Cédula por Trabajador (1)
+          - button "help_outline 3. Guía de Captura SAT" [ref=e9473] [cursor=pointer]:
+            - generic [ref=e9474]: help_outline
+            - generic [ref=e9475]: 3. Guía de Captura SAT
+        - generic [ref=e9476]:
+          - generic [ref=e9477]:
+            - generic [ref=e9478]:
+              - heading "Cédula Mensual de Retenciones por Salarios — Ejercicio 2026" [level=3] [ref=e9479]
+              - paragraph [ref=e9480]: Cifras listas para transcribir al formulario oficial de Declaraciones y Pagos del SAT.
+            - generic [ref=e9481]: 💡 Haz clic en Copiar en cualquier mes para copiar el desglose al portapapeles.
+          - table [ref=e9483]:
+            - rowgroup [ref=e9484]:
+              - row [ref=e9485]:
+                - columnheader "Mes" [ref=e9486]
+                - columnheader "CFDI" [ref=e9487]
+                - columnheader "Total Percepciones" [ref=e9488]
+                - columnheader "Ingreso Gravado" [ref=e9489]
+                - columnheader "Ingreso Exento" [ref=e9490]
+                - columnheader "ISR Retenido" [ref=e9491]
+                - columnheader "Subsidio (SPE)" [ref=e9492]
+                - columnheader "ISR Neto a Enterar" [ref=e9493]
+                - columnheader "Ret. IMSS" [ref=e9494]
+                - columnheader "Acción" [ref=e9495]
+            - rowgroup [ref=e9496]:
+              - row [ref=e9497]:
+                - cell "Enero" [ref=e9498]
+                - cell "1" [ref=e9499]
+                - cell "$19,297.11" [ref=e9500]
+                - cell "$18,175.35" [ref=e9501]
+                - cell "$1,121.76" [ref=e9502]
+                - cell "$2,934.88" [ref=e9503]
+                - cell "$0.00" [ref=e9504]
+                - cell "$2,934.88" [ref=e9505]
+                - cell "$0.00" [ref=e9506]
+                - cell [ref=e9507]:
+                  - button "content_copy Copiar" [ref=e9508] [cursor=pointer]:
+                    - generic [ref=e9509]: content_copy
+                    - generic [ref=e9510]: Copiar
+              - row [ref=e9511]:
+                - cell "Febrero" [ref=e9512]
+                - cell "2" [ref=e9513]
+                - cell "$48,958.55" [ref=e9514]
+                - cell "$44,946.55" [ref=e9515]
+                - cell "$4,012.00" [ref=e9516]
+                - cell "$8,157.52" [ref=e9517]
+                - cell "$0.00" [ref=e9518]
+                - cell "$8,157.52" [ref=e9519]
+                - cell "$0.00" [ref=e9520]
+                - cell [ref=e9521]:
+                  - button "content_copy Copiar" [ref=e9522] [cursor=pointer]:
+                    - generic [ref=e9523]: content_copy
+                    - generic [ref=e9524]: Copiar
+              - row [ref=e9525]:
+                - cell "Marzo" [ref=e9526]
+                - cell "2" [ref=e9527]
+                - cell "$38,370.36" [ref=e9528]
+                - cell "$36,344.78" [ref=e9529]
+                - cell "$2,025.58" [ref=e9530]
+                - cell "$5,929.84" [ref=e9531]
+                - cell "$0.00" [ref=e9532]
+                - cell "$5,929.84" [ref=e9533]
+                - cell "$0.00" [ref=e9534]
+                - cell [ref=e9535]:
+                  - button "content_copy Copiar" [ref=e9536] [cursor=pointer]:
+                    - generic [ref=e9537]: content_copy
+                    - generic [ref=e9538]: Copiar
+              - row [ref=e9539]:
+                - cell "Abril" [ref=e9540]
+                - cell "2" [ref=e9541]
+                - cell "$35,172.74" [ref=e9542]
+                - cell "$33,903.94" [ref=e9543]
+                - cell "$1,268.80" [ref=e9544]
+                - cell "$5,366.70" [ref=e9545]
+                - cell "$0.00" [ref=e9546]
+                - cell "$5,366.70" [ref=e9547]
+                - cell "$0.00" [ref=e9548]
+                - cell [ref=e9549]:
+                  - button "content_copy Copiar" [ref=e9550] [cursor=pointer]:
+                    - generic [ref=e9551]: content_copy
+                    - generic [ref=e9552]: Copiar
+              - row [ref=e9553]:
+                - cell "Mayo" [ref=e9554]
+                - cell "2" [ref=e9555]
+                - cell "$30,759.95" [ref=e9556]
+                - cell "$30,759.95" [ref=e9557]
+                - cell "$0.00" [ref=e9558]
+                - cell "$4,699.52" [ref=e9559]
+                - cell "$0.00" [ref=e9560]
+                - cell "$4,699.52" [ref=e9561]
+                - cell "$0.00" [ref=e9562]
+                - cell [ref=e9563]:
+                  - button "content_copy Copiar" [ref=e9564] [cursor=pointer]:
+                    - generic [ref=e9565]: content_copy
+                    - generic [ref=e9566]: Copiar
+              - row [ref=e9567]:
+                - cell "Junio" [ref=e9568]
+                - cell "2" [ref=e9569]
+                - cell "$29,227.62" [ref=e9570]
+                - cell "$28,993.00" [ref=e9571]
+                - cell "$234.62" [ref=e9572]
+                - cell "$3,933.45" [ref=e9573]
+                - cell "$0.00" [ref=e9574]
+                - cell "$3,933.45" [ref=e9575]
+                - cell "$0.00" [ref=e9576]
+                - cell [ref=e9577]:
+                  - button "content_copy Copiar" [ref=e9578] [cursor=pointer]:
+                    - generic [ref=e9579]: content_copy
+                    - generic [ref=e9580]: Copiar
+              - row [ref=e9581]:
+                - cell "Julio" [ref=e9582]
+                - cell "2" [ref=e9583]
+                - cell "$67,217.04" [ref=e9584]
+                - cell "$65,433.93" [ref=e9585]
+                - cell "$1,783.11" [ref=e9586]
+                - cell "$14,100.75" [ref=e9587]
+                - cell "$0.00" [ref=e9588]
+                - cell "$14,100.75" [ref=e9589]
+                - cell "$0.00" [ref=e9590]
+                - cell [ref=e9591]:
+                  - button "content_copy Copiar" [ref=e9592] [cursor=pointer]:
+                    - generic [ref=e9593]: content_copy
+                    - generic [ref=e9594]: Copiar
+              - row [ref=e9595]:
+                - cell "Agosto" [ref=e9596]
+                - cell "2" [ref=e9597]
+                - cell "$30,623.08" [ref=e9598]
+                - cell "$29,823.52" [ref=e9599]
+                - cell "$799.56" [ref=e9600]
+                - cell "$4,445.59" [ref=e9601]
+                - cell "$0.00" [ref=e9602]
+                - cell "$4,445.59" [ref=e9603]
+                - cell "$0.00" [ref=e9604]
+                - cell [ref=e9605]:
+                  - button "content_copy Copiar" [ref=e9606] [cursor=pointer]:
+                    - generic [ref=e9607]: content_copy
+                    - generic [ref=e9608]: Copiar
+              - row [ref=e9609]:
+                - cell "Septiembre" [ref=e9610]
+                - cell "—" [ref=e9611]
+                - cell "$0.00" [ref=e9612]
+                - cell "$0.00" [ref=e9613]
+                - cell "$0.00" [ref=e9614]
+                - cell "$0.00" [ref=e9615]
+                - cell "$0.00" [ref=e9616]
+                - cell "$0.00" [ref=e9617]
+                - cell "$0.00" [ref=e9618]
+                - cell [ref=e9619]
+              - row [ref=e9620]:
+                - cell "Octubre" [ref=e9621]
+                - cell "—" [ref=e9622]
+                - cell "$0.00" [ref=e9623]
+                - cell "$0.00" [ref=e9624]
+                - cell "$0.00" [ref=e9625]
+                - cell "$0.00" [ref=e9626]
+                - cell "$0.00" [ref=e9627]
+                - cell "$0.00" [ref=e9628]
+                - cell "$0.00" [ref=e9629]
+                - cell [ref=e9630]
+              - row [ref=e9631]:
+                - cell "Noviembre" [ref=e9632]
+                - cell "—" [ref=e9633]
+                - cell "$0.00" [ref=e9634]
+                - cell "$0.00" [ref=e9635]
+                - cell "$0.00" [ref=e9636]
+                - cell "$0.00" [ref=e9637]
+                - cell "$0.00" [ref=e9638]
+                - cell "$0.00" [ref=e9639]
+                - cell "$0.00" [ref=e9640]
+                - cell [ref=e9641]
+              - row [ref=e9642]:
+                - cell "Diciembre" [ref=e9643]
+                - cell "—" [ref=e9644]
+                - cell "$0.00" [ref=e9645]
+                - cell "$0.00" [ref=e9646]
+                - cell "$0.00" [ref=e9647]
+                - cell "$0.00" [ref=e9648]
+                - cell "$0.00" [ref=e9649]
+                - cell "$0.00" [ref=e9650]
+                - cell "$0.00" [ref=e9651]
+                - cell [ref=e9652]
+            - rowgroup [ref=e9653]:
+              - row [ref=e9654]:
+                - cell "TOTAL ANUAL 2026" [ref=e9655]
+                - cell "15" [ref=e9656]
+                - cell "$299,626.45" [ref=e9657]
+                - cell "$288,381.02" [ref=e9658]
+                - cell "$11,245.43" [ref=e9659]
+                - cell "$49,568.25" [ref=e9660]
+                - cell "$0.00" [ref=e9661]
+                - cell "$49,568.25" [ref=e9662]
+                - cell "$0.00" [ref=e9663]
+                - cell [ref=e9664]

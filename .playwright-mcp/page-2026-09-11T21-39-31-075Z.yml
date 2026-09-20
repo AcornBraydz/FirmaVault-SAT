@@ -1,0 +1,332 @@
+- generic [ref=f1e541]:
+  - complementary "Panel lateral de navegación" [ref=f1e542]:
+    - generic [ref=f1e543]:
+      - generic [ref=f1e544]:
+        - generic [ref=f1e545]:
+          - generic [ref=f1e546]: FV
+          - generic [ref=f1e547]:
+            - generic [ref=f1e548]:
+              - generic [ref=f1e549]: FirmaVault
+              - generic [ref=f1e550]: SAT
+            - paragraph [ref=f1e551]: Portal de Operaciones
+        - button "close" [ref=f1e553] [cursor=pointer]
+      - generic [ref=f1e555]:
+        - generic [ref=f1e556]:
+          - button "cloud_download Extracción SAT Descargas Automáticas 3 expand_more" [expanded] [ref=f1e557] [cursor=pointer]:
+            - generic [ref=f1e558]:
+              - generic [ref=f1e559]: cloud_download
+              - generic [ref=f1e561]:
+                - generic [ref=f1e562]: Extracción SAT
+                - generic [ref=f1e563]: Descargas Automáticas
+            - generic [ref=f1e564]:
+              - generic [ref=f1e565]: "3"
+              - generic [ref=f1e566]: expand_more
+          - generic [ref=f1e567]:
+            - button "receipt Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas" [ref=f1e568] [cursor=pointer]:
+              - generic [ref=f1e569]:
+                - generic [ref=f1e570]: receipt
+                - generic [ref=f1e572]:
+                  - generic [ref=f1e573]: Facturas (Ingresos y Gastos)
+                  - paragraph [ref=f1e575]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+                  - generic [ref=f1e576]:
+                    - generic [ref=f1e577]: XML + PDF
+                    - generic [ref=f1e578]: Emitidas / Recibidas
+            - button "receipt_long Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses" [ref=f1e579] [cursor=pointer]:
+              - generic [ref=f1e580]:
+                - generic [ref=f1e581]: receipt_long
+                - generic [ref=f1e583]:
+                  - generic [ref=f1e584]: Recibos de Nómina
+                  - paragraph [ref=f1e586]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+                  - generic [ref=f1e587]:
+                    - generic [ref=f1e588]: PDF + XML
+                    - generic [ref=f1e589]: 12 Meses
+            - button "description Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Nuevo" [ref=f1e590] [cursor=pointer]:
+              - generic [ref=f1e591]:
+                - generic [ref=f1e592]: description
+                - generic [ref=f1e594]:
+                  - generic [ref=f1e595]: Documentos Frecuentes
+                  - paragraph [ref=f1e597]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+                  - generic [ref=f1e598]:
+                    - generic [ref=f1e599]: Opinión 32-D
+                    - generic [ref=f1e600]: CSF Actualizada
+                    - generic [ref=f1e601]: Nuevo
+        - button "query_stats Papeles de Trabajo Reportes Contables 6 expand_more" [ref=f1e603] [cursor=pointer]:
+          - generic [ref=f1e604]:
+            - generic [ref=f1e605]: query_stats
+            - generic [ref=f1e607]:
+              - generic [ref=f1e608]: Papeles de Trabajo
+              - generic [ref=f1e609]: Reportes Contables
+          - generic [ref=f1e610]:
+            - generic [ref=f1e611]: "6"
+            - generic [ref=f1e612]: expand_more
+        - button "shield Auditoría y Riesgo Auditoría Fiscal 3 expand_more" [ref=f1e614] [cursor=pointer]:
+          - generic [ref=f1e615]:
+            - generic [ref=f1e616]: shield
+            - generic [ref=f1e618]:
+              - generic [ref=f1e619]: Auditoría y Riesgo
+              - generic [ref=f1e620]: Auditoría Fiscal
+          - generic [ref=f1e621]:
+            - generic [ref=f1e622]: "3"
+            - generic [ref=f1e623]: expand_more
+    - button "arrow_back Volver a Contribuyentes" [ref=f1e625] [cursor=pointer]:
+      - generic [ref=f1e626]: arrow_back
+      - generic [ref=f1e627]: Volver a Contribuyentes
+  - banner [ref=f1e628]:
+    - generic [ref=f1e630]:
+      - generic [ref=f1e631]:
+        - button "Menú principal" [ref=f1e632] [cursor=pointer]:
+          - generic [ref=f1e633]: menu
+        - navigation "Ruta de navegación" [ref=f1e635]:
+          - button "FirmaVault SAT" [ref=f1e636] [cursor=pointer]:
+            - generic [ref=f1e637]: FirmaVault
+            - generic [ref=f1e638]: SAT
+          - generic [ref=f1e639]: /
+          - button "Portal" [ref=f1e640] [cursor=pointer]
+      - generic [ref=f1e641]:
+        - generic [ref=f1e642]:
+          - generic [ref=f1e643]: AC
+          - generic [ref=f1e644]:
+            - generic [ref=f1e645]: ARACELI CENTENO HERNANDEZ
+            - generic [ref=f1e650]:
+              - generic [ref=f1e651]: CEHA7904273AA
+              - generic [ref=f1e652]: Física
+        - button "arrow_back Directorio" [active] [ref=f1e1374] [cursor=pointer]:
+          - generic [ref=f1e655]: arrow_back
+          - generic [ref=f1e656]: Directorio
+  - main [ref=f1e657]:
+    - generic [ref=f1e1375]:
+      - generic [ref=f1e1378]:
+        - generic [ref=f1e1379]:
+          - generic [ref=f1e1380]: AC
+          - generic [ref=f1e1381]:
+            - generic [ref=f1e1382]:
+              - generic [ref=f1e1383]: Persona Física
+              - generic [ref=f1e1384]: e.Firma Verificada en Bóveda
+            - heading "ARACELI CENTENO HERNANDEZ" [level=1] [ref=f1e1386]
+            - generic [ref=f1e1387]:
+              - generic [ref=f1e1388]:
+                - generic [ref=f1e1389]: CEHA7904273AA
+                - button "content_copy" [ref=f1e1390] [cursor=pointer]
+              - generic [ref=f1e1392]:
+                - generic [ref=f1e1393]: mail
+                - generic [ref=f1e1394]: aracelicchh201@gmail.com
+              - generic [ref=f1e1395]:
+                - generic [ref=f1e1396]: badge
+                - generic [ref=f1e1397]: "CURP: CEHA790427MDFNRR04"
+        - generic [ref=f1e1398]:
+          - generic [ref=f1e1399]:
+            - generic [ref=f1e1400]: Estado de la e.Firma
+            - generic [ref=f1e1401]:
+              - generic [ref=f1e1402]: verified
+              - text: 1319 días
+          - generic [ref=f1e1403]:
+            - generic [ref=f1e1404]: Vence el 22 abr 2030
+            - generic "00001000000724346167" [ref=f1e1405]: "Serie: 00001000000724346167"
+      - generic [ref=f1e1408]:
+        - generic [ref=f1e1409]:
+          - generic [ref=f1e1410]:
+            - heading "hub Ecosistema de Módulos y Herramientas SAT" [level=2] [ref=f1e1411]:
+              - generic [ref=f1e1412]: hub
+              - text: Ecosistema de Módulos y Herramientas SAT
+            - paragraph [ref=f1e1413]: "Flujo de trabajo integral: desde la obtención en crudo hasta reportes de declaración y auditoría contra listas negras."
+          - generic [ref=f1e1414]:
+            - generic [ref=f1e1415]: 3 MÓDULOS
+            - generic [ref=f1e1416]: 12 HERRAMIENTAS
+        - generic [ref=f1e1417]:
+          - generic [ref=f1e1418]:
+            - generic [ref=f1e1419]:
+              - generic [ref=f1e1420]: cloud_download
+              - generic [ref=f1e1423]:
+                - heading "Extracción SAT" [level=3] [ref=f1e1424]
+                - generic [ref=f1e1425]: •
+                - generic [ref=f1e1426]: Obtención de Datos en Crudo
+            - generic [ref=f1e1427]: 3 herramientas
+          - generic [ref=f1e1428]:
+            - button "receipt Disponible Facturas (Ingresos y Gastos) La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo. XML + PDF Emitidas / Recibidas Abrir arrow_forward" [ref=f1e1429] [cursor=pointer]:
+              - generic [ref=f1e1430]:
+                - generic [ref=f1e1431]: receipt
+                - generic [ref=f1e1433]: Disponible
+              - generic [ref=f1e1434]:
+                - heading "Facturas (Ingresos y Gastos)" [level=4] [ref=f1e1435]
+                - paragraph [ref=f1e1436]: La herramienta actual para consultar y descargar CFDI emitidos y recibidos por periodo.
+              - generic [ref=f1e1437]:
+                - generic [ref=f1e1438]:
+                  - generic [ref=f1e1439]: XML + PDF
+                  - generic [ref=f1e1440]: Emitidas / Recibidas
+                - generic [ref=f1e1441]:
+                  - text: Abrir
+                  - generic [ref=f1e1442]: arrow_forward
+            - button "receipt_long Disponible Recibos de Nómina Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML. PDF + XML 12 Meses Abrir arrow_forward" [ref=f1e1443] [cursor=pointer]:
+              - generic [ref=f1e1444]:
+                - generic [ref=f1e1445]: receipt_long
+                - generic [ref=f1e1447]: Disponible
+              - generic [ref=f1e1448]:
+                - heading "Recibos de Nómina" [level=4] [ref=f1e1449]
+                - paragraph [ref=f1e1450]: Extracción automatizada mes a mes de comprobantes fiscales de trabajadores en PDF y XML.
+              - generic [ref=f1e1451]:
+                - generic [ref=f1e1452]:
+                  - generic [ref=f1e1453]: PDF + XML
+                  - generic [ref=f1e1454]: 12 Meses
+                - generic [ref=f1e1455]:
+                  - text: Abrir
+                  - generic [ref=f1e1456]: arrow_forward
+            - button "description Nuevo Documentos Frecuentes Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF). Opinión 32-D CSF Actualizada Abrir arrow_forward" [ref=f1e1457] [cursor=pointer]:
+              - generic [ref=f1e1458]:
+                - generic [ref=f1e1459]: description
+                - generic [ref=f1e1461]: Nuevo
+              - generic [ref=f1e1462]:
+                - heading "Documentos Frecuentes" [level=4] [ref=f1e1463]
+                - paragraph [ref=f1e1464]: Descarga con 1 clic de la Opinión de Cumplimiento (32-D) y la Constancia de Situación Fiscal (CSF).
+              - generic [ref=f1e1465]:
+                - generic [ref=f1e1466]:
+                  - generic [ref=f1e1467]: Opinión 32-D
+                  - generic [ref=f1e1468]: CSF Actualizada
+                - generic [ref=f1e1469]:
+                  - text: Abrir
+                  - generic [ref=f1e1470]: arrow_forward
+        - generic [ref=f1e1471]:
+          - generic [ref=f1e1472]:
+            - generic [ref=f1e1473]:
+              - generic [ref=f1e1474]: query_stats
+              - generic [ref=f1e1477]:
+                - heading "Papeles de Trabajo" [level=3] [ref=f1e1478]
+                - generic [ref=f1e1479]: •
+                - generic [ref=f1e1480]: Procesamiento para Declaraciones
+            - generic [ref=f1e1481]: 6 herramientas
+          - generic [ref=f1e1482]:
+            - 'button "calculate Fórmulas XML Análisis de IVA e ISR Reemplazo analítico de Excel: Subtotal, IVA (16% y 8%), Retenciones ISR, Retenciones IVA y Total. Subtotal / IVA Retenciones ISR/IVA Abrir arrow_forward" [ref=f1e1483] [cursor=pointer]':
+              - generic [ref=f1e1484]:
+                - generic [ref=f1e1485]: calculate
+                - generic [ref=f1e1487]: Fórmulas XML
+              - generic [ref=f1e1488]:
+                - heading "Análisis de IVA e ISR" [level=4] [ref=f1e1489]
+                - paragraph [ref=f1e1490]: "Reemplazo analítico de Excel: Subtotal, IVA (16% y 8%), Retenciones ISR, Retenciones IVA y Total."
+              - generic [ref=f1e1491]:
+                - generic [ref=f1e1492]:
+                  - generic [ref=f1e1493]: Subtotal / IVA
+                  - generic [ref=f1e1494]: Retenciones ISR/IVA
+                - generic [ref=f1e1495]:
+                  - text: Abrir
+                  - generic [ref=f1e1496]: arrow_forward
+            - button "account_balance_wallet Nuevo Control de Pagos (PUE vs PPD) Separación de contado (PUE) vs crédito (PPD) y detección de facturas PPD sin Complemento de Pago (REP). PUE vs PPD Alerta sin REP Abrir arrow_forward" [ref=f1e1497] [cursor=pointer]:
+              - generic [ref=f1e1498]:
+                - generic [ref=f1e1499]: account_balance_wallet
+                - generic [ref=f1e1501]: Nuevo
+              - generic [ref=f1e1502]:
+                - heading "Control de Pagos (PUE vs PPD)" [level=4] [ref=f1e1503]
+                - paragraph [ref=f1e1504]: Separación de contado (PUE) vs crédito (PPD) y detección de facturas PPD sin Complemento de Pago (REP).
+              - generic [ref=f1e1505]:
+                - generic [ref=f1e1506]:
+                  - generic [ref=f1e1507]: PUE vs PPD
+                  - generic [ref=f1e1508]: Alerta sin REP
+                - generic [ref=f1e1509]:
+                  - text: Abrir
+                  - generic [ref=f1e1510]: arrow_forward
+            - 'button "summarize Nuevo Resumen de Nóminas para Declarar Concentrado mensual acumulado por empleado: Ingresos Gravados, Ingresos Exentos e ISR Retenido. Gravado / Exento ISR Retenido Abrir arrow_forward" [ref=f1e1511] [cursor=pointer]':
+              - generic [ref=f1e1512]:
+                - generic [ref=f1e1513]: summarize
+                - generic [ref=f1e1515]: Nuevo
+              - generic [ref=f1e1516]:
+                - heading "Resumen de Nóminas para Declarar" [level=4] [ref=f1e1517]
+                - paragraph [ref=f1e1518]: "Concentrado mensual acumulado por empleado: Ingresos Gravados, Ingresos Exentos e ISR Retenido."
+              - generic [ref=f1e1519]:
+                - generic [ref=f1e1520]:
+                  - generic [ref=f1e1521]: Gravado / Exento
+                  - generic [ref=f1e1522]: ISR Retenido
+                - generic [ref=f1e1523]:
+                  - text: Abrir
+                  - generic [ref=f1e1524]: arrow_forward
+            - button "table_view Nuevo Pre-cálculo DIOT Reporte automatizado de gastos del mes agrupados y acumulados por RFC de proveedor para captura DIOT. Agrupado por Proveedor DIOT Abrir arrow_forward" [ref=f1e1525] [cursor=pointer]:
+              - generic [ref=f1e1526]:
+                - generic [ref=f1e1527]: table_view
+                - generic [ref=f1e1529]: Nuevo
+              - generic [ref=f1e1530]:
+                - heading "Pre-cálculo DIOT" [level=4] [ref=f1e1531]
+                - paragraph [ref=f1e1532]: Reporte automatizado de gastos del mes agrupados y acumulados por RFC de proveedor para captura DIOT.
+              - generic [ref=f1e1533]:
+                - generic [ref=f1e1534]:
+                  - generic [ref=f1e1535]: Agrupado por Proveedor
+                  - generic [ref=f1e1536]: DIOT
+                - generic [ref=f1e1537]:
+                  - text: Abrir
+                  - generic [ref=f1e1538]: arrow_forward
+            - button "account_balance Nuevo Conciliación Bancaria vs CFDI Cruce del estado de cuenta bancario contra facturas PUE y complementos REP. Alerta depósitos no facturados (Art. 59 CFF). Flujo Bancario Art. 59 CFF Abrir arrow_forward" [ref=f1e1539] [cursor=pointer]:
+              - generic [ref=f1e1540]:
+                - generic [ref=f1e1541]: account_balance
+                - generic [ref=f1e1543]: Nuevo
+              - generic [ref=f1e1544]:
+                - heading "Conciliación Bancaria vs CFDI" [level=4] [ref=f1e1545]
+                - paragraph [ref=f1e1546]: Cruce del estado de cuenta bancario contra facturas PUE y complementos REP. Alerta depósitos no facturados (Art. 59 CFF).
+              - generic [ref=f1e1547]:
+                - generic [ref=f1e1548]:
+                  - generic [ref=f1e1549]: Flujo Bancario
+                  - generic [ref=f1e1550]: Art. 59 CFF
+                - generic [ref=f1e1551]:
+                  - text: Abrir
+                  - generic [ref=f1e1552]: arrow_forward
+            - button "menu_book Nuevo Pólizas Contables (Anexo 24) Generación automática de asientos contables con UUID obligatorio para importar en Contpaqi y Aspel COI. Contpaqi / COI Anexo 24 RMF Abrir arrow_forward" [ref=f1e1553] [cursor=pointer]:
+              - generic [ref=f1e1554]:
+                - generic [ref=f1e1555]: menu_book
+                - generic [ref=f1e1557]: Nuevo
+              - generic [ref=f1e1558]:
+                - heading "Pólizas Contables (Anexo 24)" [level=4] [ref=f1e1559]
+                - paragraph [ref=f1e1560]: Generación automática de asientos contables con UUID obligatorio para importar en Contpaqi y Aspel COI.
+              - generic [ref=f1e1561]:
+                - generic [ref=f1e1562]:
+                  - generic [ref=f1e1563]: Contpaqi / COI
+                  - generic [ref=f1e1564]: Anexo 24 RMF
+                - generic [ref=f1e1565]:
+                  - text: Abrir
+                  - generic [ref=f1e1566]: arrow_forward
+        - generic [ref=f1e1567]:
+          - generic [ref=f1e1568]:
+            - generic [ref=f1e1569]:
+              - generic [ref=f1e1570]: shield
+              - generic [ref=f1e1573]:
+                - heading "Auditoría y Riesgo" [level=3] [ref=f1e1574]
+                - generic [ref=f1e1575]: •
+                - generic [ref=f1e1576]: Prevención de Multas y Rechazos
+            - generic [ref=f1e1577]: 3 herramientas
+          - generic [ref=f1e1578]:
+            - button "fact_check Nuevo Validador de Cancelaciones Cotejo contra Web Service del SAT para detectar si proveedores cancelaron facturas a escondidas. Web Service SAT Detección Silenciosa Abrir arrow_forward" [ref=f1e1579] [cursor=pointer]:
+              - generic [ref=f1e1580]:
+                - generic [ref=f1e1581]: fact_check
+                - generic [ref=f1e1583]: Nuevo
+              - generic [ref=f1e1584]:
+                - heading "Validador de Cancelaciones" [level=4] [ref=f1e1585]
+                - paragraph [ref=f1e1586]: Cotejo contra Web Service del SAT para detectar si proveedores cancelaron facturas a escondidas.
+              - generic [ref=f1e1587]:
+                - generic [ref=f1e1588]:
+                  - generic [ref=f1e1589]: Web Service SAT
+                  - generic [ref=f1e1590]: Detección Silenciosa
+                - generic [ref=f1e1591]:
+                  - text: Abrir
+                  - generic [ref=f1e1592]: arrow_forward
+            - button "warning_amber Nuevo Rastreador de Listas Negras (EFOS) Cruce automático de compras y gastos contra el listado del Artículo 69-B del SAT (Empresas Fantasma). Art. 69-B SAT Blindaje Deducción Abrir arrow_forward" [ref=f1e1593] [cursor=pointer]:
+              - generic [ref=f1e1594]:
+                - generic [ref=f1e1595]: warning_amber
+                - generic [ref=f1e1597]: Nuevo
+              - generic [ref=f1e1598]:
+                - heading "Rastreador de Listas Negras (EFOS)" [level=4] [ref=f1e1599]
+                - paragraph [ref=f1e1600]: Cruce automático de compras y gastos contra el listado del Artículo 69-B del SAT (Empresas Fantasma).
+              - generic [ref=f1e1601]:
+                - generic [ref=f1e1602]:
+                  - generic [ref=f1e1603]: Art. 69-B SAT
+                  - generic [ref=f1e1604]: Blindaje Deducción
+                - generic [ref=f1e1605]:
+                  - text: Abrir
+                  - generic [ref=f1e1606]: arrow_forward
+            - button "balance Nuevo Confronta Visor del SAT Cruce preventivo de ingresos y retenciones contra la base oficial y Metadata del SAT para evitar Cartas Invitación. Visor del SAT Cartas Invitación Abrir arrow_forward" [ref=f1e1607] [cursor=pointer]:
+              - generic [ref=f1e1608]:
+                - generic [ref=f1e1609]: balance
+                - generic [ref=f1e1611]: Nuevo
+              - generic [ref=f1e1612]:
+                - heading "Confronta Visor del SAT" [level=4] [ref=f1e1613]
+                - paragraph [ref=f1e1614]: Cruce preventivo de ingresos y retenciones contra la base oficial y Metadata del SAT para evitar Cartas Invitación.
+              - generic [ref=f1e1615]:
+                - generic [ref=f1e1616]:
+                  - generic [ref=f1e1617]: Visor del SAT
+                  - generic [ref=f1e1618]: Cartas Invitación
+                - generic [ref=f1e1619]:
+                  - text: Abrir
+                  - generic [ref=f1e1620]: arrow_forward

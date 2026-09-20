@@ -1,0 +1,425 @@
+- generic [ref=e2]:
+  - banner [ref=e26]:
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - link "FirmaVault SAT" [ref=e30] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e31]: FirmaVault
+          - generic [ref=e34]: SAT
+        - generic [ref=e36]: Control Fiscal
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e42]: Sistema en línea
+          - generic [ref=e44]: SAT v1.0
+        - button "logout" [ref=e45] [cursor=pointer]
+  - main [ref=e47]:
+    - generic [ref=e48]:
+      - generic [ref=e49]:
+        - heading "Gestión de Credenciales SAT" [level=1] [ref=e50]
+        - paragraph [ref=e51]: Monitoreo de certificados e.firma, control de archivos y vigencia fiscal de contribuyentes.
+      - button "add Nuevo Cliente" [ref=e53] [cursor=pointer]:
+        - generic [ref=e54]: add
+        - generic [ref=e55]: Nuevo Cliente
+    - generic [ref=e56]:
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - generic [ref=e59]: Vigencia Óptima
+          - generic [ref=e62]:
+            - generic [ref=e63]: check_circle
+            - text: Sin riesgo
+        - generic [ref=e64]:
+          - generic [ref=e65]: "65"
+          - generic [ref=e66]: 92% del total
+        - generic [ref=e69]:
+          - generic [ref=e70]: "> 60 días de validez oficial"
+          - generic [ref=e71]: Archivos .cer/.key OK
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - generic [ref=e74]: Próximas a Vencer
+          - generic [ref=e77]:
+            - generic [ref=e78]: schedule
+            - text: Monitoreo preventivo
+        - generic [ref=e79]:
+          - generic [ref=e80]: "1"
+          - generic [ref=e81]: 1% en seguimiento
+        - generic [ref=e84]:
+          - generic [ref=e85]: 30 a 60 días restantes
+          - generic [ref=e86]: Programar renovación
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - generic [ref=e89]: Urgencia Crítica
+          - generic [ref=e92]:
+            - generic [ref=e93]: warning
+            - text: Renovación Obligatoria
+        - generic [ref=e94]:
+          - generic [ref=e95]: "5"
+          - generic [ref=e96]: 7% riesgo operativo
+        - generic [ref=e99]:
+          - generic [ref=e100]: < 30 días o llave faltante
+          - generic [ref=e101]: Riesgo de inoperatividad fiscal
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]: search
+          - textbox "Buscar por RFC, razón social o correo..." [ref=e106]
+        - generic [ref=e107]:
+          - button "Todos 71" [ref=e108] [cursor=pointer]
+          - button "domain Morales 2" [ref=e109] [cursor=pointer]:
+            - generic [ref=e110]: domain
+            - text: Morales
+            - generic [ref=e111]: "2"
+          - button "person Físicas 69" [ref=e112] [cursor=pointer]:
+            - generic [ref=e113]: person
+            - text: Físicas
+            - generic [ref=e114]: "69"
+      - generic [ref=e115]:
+        - generic [ref=e116]:
+          - generic [ref=e120]: "Contribuyentes:"
+          - generic [ref=e121]: "71"
+        - button "folder_zip Copia de Seguridad" [ref=e122] [cursor=pointer]:
+          - generic [ref=e123]: folder_zip
+          - text: Copia de Seguridad
+    - generic [ref=e124]:
+      - table [ref=e126]:
+        - rowgroup [ref=e127]:
+          - row [ref=e128]:
+            - columnheader "Contribuyente" [ref=e129]
+            - columnheader "RFC" [ref=e130]
+            - columnheader "Credenciales" [ref=e131]
+            - columnheader "Vigencia & Restante" [ref=e132]
+            - columnheader "Acciones" [ref=e133]
+        - rowgroup [ref=e134]:
+          - row [ref=e135]:
+            - cell "AN AMERICA NOLASCO PALACIOS mail anp.nolasco@gmail.com content_copy" [ref=e136]:
+              - generic [ref=e137]:
+                - generic [ref=e138]: AN
+                - generic [ref=e139]:
+                  - generic "AMERICA NOLASCO PALACIOS" [ref=e141]
+                  - generic "anp.nolasco@gmail.com" [ref=e142]:
+                    - generic [ref=e143]: mail
+                    - button "content_copy" [ref=e145] [cursor=pointer]
+            - cell [ref=e147]:
+              - generic "RFC" [ref=e148]:
+                - text: NOPA890313A48
+                - button "content_copy" [ref=e149] [cursor=pointer]
+            - cell [ref=e151]:
+              - generic [ref=e152]:
+                - generic ".cer subido" [ref=e153]: .cer
+                - generic ".key subido" [ref=e155]: .key
+                - button "password check_circle copiado" [ref=e157] [cursor=pointer]:
+                  - generic [ref=e158]: password
+                  - generic [ref=e160]:
+                    - generic [ref=e161]: check_circle
+                    - generic [ref=e162]: copiado
+            - cell "04 may 2027 236 días restantes" [ref=e163]:
+              - generic [ref=e164]:
+                - generic [ref=e165]: 04 may 2027
+                - generic [ref=e166]: 236 días restantes
+            - cell [ref=e167]:
+              - generic [ref=e168]:
+                - button "settings" [ref=e169] [cursor=pointer]
+                - button "download" [ref=e171] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e173] [cursor=pointer]:
+                  - generic [ref=e174]: account_circle
+          - row [ref=e175]:
+            - cell "AI ANA ISABEL PEREZ VARGAS mail aisapv@yahoo.com.mx content_copy" [ref=e176]:
+              - generic [ref=e177]:
+                - generic [ref=e178]: AI
+                - generic [ref=e179]:
+                  - generic "ANA ISABEL PEREZ VARGAS" [ref=e181]
+                  - generic "aisapv@yahoo.com.mx" [ref=e182]:
+                    - generic [ref=e183]: mail
+                    - button "content_copy" [ref=e185] [cursor=pointer]
+            - cell [ref=e187]:
+              - generic "RFC" [ref=e188]:
+                - text: PEVA701209C77
+                - button "content_copy" [ref=e189] [cursor=pointer]
+            - cell [ref=e191]:
+              - generic [ref=e192]:
+                - generic ".cer subido" [ref=e193]: .cer
+                - generic ".key subido" [ref=e195]: .key
+                - button "password check_circle copiado" [ref=e197] [cursor=pointer]:
+                  - generic [ref=e198]: password
+                  - generic [ref=e200]:
+                    - generic [ref=e201]: check_circle
+                    - generic [ref=e202]: copiado
+            - cell "16 may 2025 Vencido" [ref=e203]:
+              - generic [ref=e204]:
+                - generic [ref=e205]: 16 may 2025
+                - generic [ref=e206]: Vencido
+            - cell [ref=e207]:
+              - generic [ref=e208]:
+                - button "settings" [ref=e209] [cursor=pointer]
+                - button "download" [ref=e211] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e213] [cursor=pointer]:
+                  - generic [ref=e214]: account_circle
+          - row [ref=e215]:
+            - cell "AL ANGELICA LIZETH PALACIOS CENTENO mail angiipalacios55@gmail.com content_copy" [ref=e216]:
+              - generic [ref=e217]:
+                - generic [ref=e218]: AL
+                - generic [ref=e219]:
+                  - generic "ANGELICA LIZETH PALACIOS CENTENO" [ref=e221]
+                  - generic "angiipalacios55@gmail.com" [ref=e222]:
+                    - generic [ref=e223]: mail
+                    - button "content_copy" [ref=e225] [cursor=pointer]
+            - cell [ref=e227]:
+              - generic "RFC" [ref=e228]:
+                - text: PACA0410141C4
+                - button "content_copy" [ref=e229] [cursor=pointer]
+            - cell [ref=e231]:
+              - generic [ref=e232]:
+                - generic ".cer subido" [ref=e233]: .cer
+                - generic ".key subido" [ref=e235]: .key
+                - button "password check_circle copiado" [ref=e237] [cursor=pointer]:
+                  - generic [ref=e238]: password
+                  - generic [ref=e240]:
+                    - generic [ref=e241]: check_circle
+                    - generic [ref=e242]: copiado
+            - cell "25 sep 2029 1111 días restantes" [ref=e243]:
+              - generic [ref=e244]:
+                - generic [ref=e245]: 25 sep 2029
+                - generic [ref=e246]: 1111 días restantes
+            - cell [ref=e247]:
+              - generic [ref=e248]:
+                - button "settings" [ref=e249] [cursor=pointer]
+                - button "download" [ref=e251] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e253] [cursor=pointer]:
+                  - generic [ref=e254]: account_circle
+          - row [ref=e255]:
+            - cell "AS ANGELINA SILVA SANTOS mail g_angy@hotmail.com content_copy" [ref=e256]:
+              - generic [ref=e257]:
+                - generic [ref=e258]: AS
+                - generic [ref=e259]:
+                  - generic "ANGELINA SILVA SANTOS" [ref=e261]
+                  - generic "g_angy@hotmail.com" [ref=e262]:
+                    - generic [ref=e263]: mail
+                    - button "content_copy" [ref=e265] [cursor=pointer]
+            - cell [ref=e267]:
+              - generic "RFC" [ref=e268]:
+                - text: SISA6009172U0
+                - button "content_copy" [ref=e269] [cursor=pointer]
+            - cell [ref=e271]:
+              - generic [ref=e272]:
+                - generic ".cer subido" [ref=e273]: .cer
+                - generic ".key subido" [ref=e275]: .key
+                - button "password check_circle copiado" [ref=e277] [cursor=pointer]:
+                  - generic [ref=e278]: password
+                  - generic [ref=e280]:
+                    - generic [ref=e281]: check_circle
+                    - generic [ref=e282]: copiado
+            - cell "12 ago 2029 1067 días restantes" [ref=e283]:
+              - generic [ref=e284]:
+                - generic [ref=e285]: 12 ago 2029
+                - generic [ref=e286]: 1067 días restantes
+            - cell [ref=e287]:
+              - generic [ref=e288]:
+                - button "settings" [ref=e289] [cursor=pointer]
+                - button "download" [ref=e291] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e293] [cursor=pointer]:
+                  - generic [ref=e294]: account_circle
+          - row [ref=e295]:
+            - cell "AC ARACELI CENTENO HERNANDEZ mail aracelicchh201@gmail.com content_copy" [ref=e296]:
+              - generic [ref=e297]:
+                - generic [ref=e298]: AC
+                - generic [ref=e299]:
+                  - generic "ARACELI CENTENO HERNANDEZ" [ref=e301]
+                  - generic "aracelicchh201@gmail.com" [ref=e302]:
+                    - generic [ref=e303]: mail
+                    - button "content_copy" [ref=e305] [cursor=pointer]
+            - cell [ref=e307]:
+              - generic "RFC" [ref=e308]:
+                - text: CEHA7904273AA
+                - button "content_copy" [ref=e309] [cursor=pointer]
+            - cell [ref=e311]:
+              - generic [ref=e312]:
+                - generic ".cer subido" [ref=e313]: .cer
+                - generic ".key subido" [ref=e315]: .key
+                - button "password check_circle copiado" [ref=e317] [cursor=pointer]:
+                  - generic [ref=e318]: password
+                  - generic [ref=e320]:
+                    - generic [ref=e321]: check_circle
+                    - generic [ref=e322]: copiado
+            - cell "22 abr 2030 1320 días restantes" [ref=e323]:
+              - generic [ref=e324]:
+                - generic [ref=e325]: 22 abr 2030
+                - generic [ref=e326]: 1320 días restantes
+            - cell [ref=e327]:
+              - generic [ref=e328]:
+                - button "settings" [ref=e329] [cursor=pointer]
+                - button "download" [ref=e331] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e333] [cursor=pointer]:
+                  - generic [ref=e334]: account_circle
+          - row [ref=e335]:
+            - cell "AN ARACELI NAVA MENDOZA mail araceli.nava.mendoza@outlook.com content_copy" [ref=e336]:
+              - generic [ref=e337]:
+                - generic [ref=e338]: AN
+                - generic [ref=e339]:
+                  - generic "ARACELI NAVA MENDOZA" [ref=e341]
+                  - generic "araceli.nava.mendoza@outlook.com" [ref=e342]:
+                    - generic [ref=e343]: mail
+                    - button "content_copy" [ref=e345] [cursor=pointer]
+            - cell [ref=e347]:
+              - generic "RFC" [ref=e348]:
+                - text: NAMA561009QG2
+                - button "content_copy" [ref=e349] [cursor=pointer]
+            - cell [ref=e351]:
+              - generic [ref=e352]:
+                - generic ".cer subido" [ref=e353]: .cer
+                - generic ".key subido" [ref=e355]: .key
+                - button "password check_circle copiado" [ref=e357] [cursor=pointer]:
+                  - generic [ref=e358]: password
+                  - generic [ref=e360]:
+                    - generic [ref=e361]: check_circle
+                    - generic [ref=e362]: copiado
+            - cell "23 abr 2030 1321 días restantes" [ref=e363]:
+              - generic [ref=e364]:
+                - generic [ref=e365]: 23 abr 2030
+                - generic [ref=e366]: 1321 días restantes
+            - cell [ref=e367]:
+              - generic [ref=e368]:
+                - button "settings" [ref=e369] [cursor=pointer]
+                - button "download" [ref=e371] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e373] [cursor=pointer]:
+                  - generic [ref=e374]: account_circle
+          - row [ref=e375]:
+            - cell "AC ARNULFO CESAR GARCIA MARTINEZ mail tattoocen@hotmail.com content_copy" [ref=e376]:
+              - generic [ref=e377]:
+                - generic [ref=e378]: AC
+                - generic [ref=e379]:
+                  - generic "ARNULFO CESAR GARCIA MARTINEZ" [ref=e381]
+                  - generic "tattoocen@hotmail.com" [ref=e382]:
+                    - generic [ref=e383]: mail
+                    - button "content_copy" [ref=e385] [cursor=pointer]
+            - cell [ref=e387]:
+              - generic "RFC" [ref=e388]:
+                - text: GAMA7802151WA
+                - button "content_copy" [ref=e389] [cursor=pointer]
+            - cell [ref=e391]:
+              - generic [ref=e392]:
+                - generic ".cer subido" [ref=e393]: .cer
+                - generic ".key subido" [ref=e395]: .key
+                - button "password check_circle copiado" [ref=e397] [cursor=pointer]:
+                  - generic [ref=e398]: password
+                  - generic [ref=e400]:
+                    - generic [ref=e401]: check_circle
+                    - generic [ref=e402]: copiado
+            - cell "02 dic 2028 814 días restantes" [ref=e403]:
+              - generic [ref=e404]:
+                - generic [ref=e405]: 02 dic 2028
+                - generic [ref=e406]: 814 días restantes
+            - cell [ref=e407]:
+              - generic [ref=e408]:
+                - button "settings" [ref=e409] [cursor=pointer]
+                - button "download" [ref=e411] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e413] [cursor=pointer]:
+                  - generic [ref=e414]: account_circle
+          - row [ref=e415]:
+            - cell "AG ARTURO GOMEZ YAÑEZ mail arturogoya7@gmail.com content_copy" [ref=e416]:
+              - generic [ref=e417]:
+                - generic [ref=e418]: AG
+                - generic [ref=e419]:
+                  - generic "ARTURO GOMEZ YAÑEZ" [ref=e421]
+                  - generic "arturogoya7@gmail.com" [ref=e422]:
+                    - generic [ref=e423]: mail
+                    - button "content_copy" [ref=e425] [cursor=pointer]
+            - cell [ref=e427]:
+              - generic "RFC" [ref=e428]:
+                - text: GOYA520707RE7
+                - button "content_copy" [ref=e429] [cursor=pointer]
+            - cell [ref=e431]:
+              - generic [ref=e432]:
+                - generic ".cer subido" [ref=e433]: .cer
+                - generic ".key subido" [ref=e435]: .key
+                - button "password check_circle copiado" [ref=e437] [cursor=pointer]:
+                  - generic [ref=e438]: password
+                  - generic [ref=e440]:
+                    - generic [ref=e441]: check_circle
+                    - generic [ref=e442]: copiado
+            - cell "31 ene 2029 874 días restantes" [ref=e443]:
+              - generic [ref=e444]:
+                - generic [ref=e445]: 31 ene 2029
+                - generic [ref=e446]: 874 días restantes
+            - cell [ref=e447]:
+              - generic [ref=e448]:
+                - button "settings" [ref=e449] [cursor=pointer]
+                - button "download" [ref=e451] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e453] [cursor=pointer]:
+                  - generic [ref=e454]: account_circle
+          - row [ref=e455]:
+            - cell "AP ARTURO PALACIOS TORRES mail arturo_palacios@hacienda.gob.mx content_copy" [ref=e456]:
+              - generic [ref=e457]:
+                - generic [ref=e458]: AP
+                - generic [ref=e459]:
+                  - generic "ARTURO PALACIOS TORRES" [ref=e461]
+                  - generic "arturo_palacios@hacienda.gob.mx" [ref=e462]:
+                    - generic [ref=e463]: mail
+                    - button "content_copy" [ref=e465] [cursor=pointer]
+            - cell [ref=e467]:
+              - generic "RFC" [ref=e468]:
+                - text: PATA691008CP3
+                - button "content_copy" [ref=e469] [cursor=pointer]
+            - cell [ref=e471]:
+              - generic [ref=e472]:
+                - generic ".cer subido" [ref=e473]: .cer
+                - generic ".key subido" [ref=e475]: .key
+                - button "password check_circle copiado" [ref=e477] [cursor=pointer]:
+                  - generic [ref=e478]: password
+                  - generic [ref=e480]:
+                    - generic [ref=e481]: check_circle
+                    - generic [ref=e482]: copiado
+            - cell "04 mar 2030 1271 días restantes" [ref=e483]:
+              - generic [ref=e484]:
+                - generic [ref=e485]: 04 mar 2030
+                - generic [ref=e486]: 1271 días restantes
+            - cell [ref=e487]:
+              - generic [ref=e488]:
+                - button "settings" [ref=e489] [cursor=pointer]
+                - button "download" [ref=e491] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e493] [cursor=pointer]:
+                  - generic [ref=e494]: account_circle
+          - row [ref=e495]:
+            - cell "BG BEATRIZ GRANADOS NOGUEIRA mail b.gnogueira@hotmail.com content_copy" [ref=e496]:
+              - generic [ref=e497]:
+                - generic [ref=e498]: BG
+                - generic [ref=e499]:
+                  - generic "BEATRIZ GRANADOS NOGUEIRA" [ref=e501]
+                  - generic "b.gnogueira@hotmail.com" [ref=e502]:
+                    - generic [ref=e503]: mail
+                    - button "content_copy" [ref=e505] [cursor=pointer]
+            - cell [ref=e507]:
+              - generic "RFC" [ref=e508]:
+                - text: GANB750710MX4
+                - button "content_copy" [ref=e509] [cursor=pointer]
+            - cell [ref=e511]:
+              - generic [ref=e512]:
+                - generic ".cer subido" [ref=e513]: .cer
+                - generic ".key subido" [ref=e515]: .key
+                - button "password check_circle copiado" [ref=e517] [cursor=pointer]:
+                  - generic [ref=e518]: password
+                  - generic [ref=e520]:
+                    - generic [ref=e521]: check_circle
+                    - generic [ref=e522]: copiado
+            - cell "15 nov 2029 1162 días restantes" [ref=e523]:
+              - generic [ref=e524]:
+                - generic [ref=e525]: 15 nov 2029
+                - generic [ref=e526]: 1162 días restantes
+            - cell [ref=e527]:
+              - generic [ref=e528]:
+                - button "settings" [ref=e529] [cursor=pointer]
+                - button "download" [ref=e531] [cursor=pointer]
+                - button "Portal del Cliente" [ref=e533] [cursor=pointer]:
+                  - generic [ref=e534]: account_circle
+      - generic [ref=e535]:
+        - generic [ref=e536]: Mostrando 10 de 71 contribuyentes
+        - generic [ref=e537]:
+          - button "Anterior" [disabled] [ref=e538]
+          - button "1" [ref=e539] [cursor=pointer]
+          - button "2" [ref=e540] [cursor=pointer]
+          - button "3" [ref=e541] [cursor=pointer]
+          - button "4" [ref=e542] [cursor=pointer]
+          - button "5" [ref=e543] [cursor=pointer]
+          - button "6" [ref=e544] [cursor=pointer]
+          - button "7" [ref=e545] [cursor=pointer]
+          - button "8" [ref=e546] [cursor=pointer]
+          - button "Siguiente" [ref=e547] [cursor=pointer]
+  - generic: check_circle
