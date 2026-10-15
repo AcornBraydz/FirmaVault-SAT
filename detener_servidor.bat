@@ -6,4 +6,5 @@ cd /d "%~dp0"
 node scripts/stop.js
 
 echo.
-pause
+echo Presiona cualquier tecla para cerrar esta ventana (o se cerrará sola en 3 segundos)...
+timeout /t 3 >nul

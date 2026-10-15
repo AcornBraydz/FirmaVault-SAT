@@ -33,8 +33,21 @@ process.on('unhandledRejection', (reason, promise) => {
 // ============================================================
 function getPythonExePath() {
   const isWin = process.platform === 'win32';
-  const venvPython = path.join(__dirname, '..', 'tools', 'nominas', '.venv', isWin ? 'Scripts' : 'bin', isWin ? 'python.exe' : 'python');
-  if (fs.existsSync(venvPython)) return venvPython;
+  const rootVenv = path.join(__dirname, '..', '.venv', isWin ? 'Scripts' : 'bin', isWin ? 'python.exe' : 'python');
+  if (fs.existsSync(rootVenv)) return rootVenv;
+  const nominasVenv = path.join(__dirname, '..', 'tools', 'nominas', '.venv', isWin ? 'Scripts' : 'bin', isWin ? 'python.exe' : 'python');
+  if (fs.existsSync(nominasVenv)) return nominasVenv;
+
+  if (isWin) {
+    try {
+      execSync('python --version', { stdio: 'ignore' });
+      return 'python';
+    } catch (_) {}
+    try {
+      execSync('py --version', { stdio: 'ignore' });
+      return 'py';
+    } catch (_) {}
+  }
   return isWin ? 'python' : 'python3';
 }
 

@@ -1,0 +1,11 @@
+# Dependencias de Python para FirmaVault SAT
+selenium>=4.15.0
+requests>=2.31.0
+openpyxl>=3.1.2
+defusedxml>=0.7.1
+satcfdi>=2.1.0
+pandas>=2.0.0
+pdfminer.six>=20221105
+reportlab>=4.0.0
+tenacity>=8.2.0
+cryptography>=41.0.0

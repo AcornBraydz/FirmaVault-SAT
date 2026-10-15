@@ -68,13 +68,40 @@ El proyecto está construido sobre tecnologías modernas y robustas para garanti
    ```
    > ⚠️ **Importante**: Edita el archivo `.env` con tus claves de encriptación (ver sección de Configuración más abajo).
 
-4. **Iniciar el Servidor de Desarrollo**
-   - **En Windows (1 Clic)**: Haz doble clic en el archivo `iniciar_servidor.bat`.
-   - **Desde Terminal (Manual)**:
-     ```bash
-     npm run dev          # Inicia el Frontend (Vite)
-     npm run dev:server   # Inicia el Backend (Express)
-     ```
+### ⚡ Inicio Rápido en Windows (Fácil en 1 Clic)
+
+1. **Instalación inicial (Solo la primera vez):**
+   - Haz doble clic en **`instalar_todo.bat`**.
+   - Verificará e instalará automáticamente Node.js, dependencias npm, librerías de Python (`requirements.txt`), base de datos SQLite y compilará la aplicación.
+
+2. **Uso en el día a día:**
+   - ▶️ **Para Iniciar:** Haz doble clic en **`iniciar_servidor.bat`**.
+     - Levanta el sistema en segundo plano.
+     - Abre automáticamente tu navegador en **http://localhost:5173**.
+     - Puedes cerrar la ventana negra de CMD sin que se apague el sistema.
+   - ⏹️ **Para Apagar:** Haz doble clic en **`detener_servidor.bat`** cuando termines de usarlo.
+
+---
+
+### Instalación Manual (Desarrolladores)
+
+1. **Instalar dependencias de Node y Python**
+   ```bash
+   npm install
+   pip install -r requirements.txt
+   ```
+
+2. **Configurar base de datos**
+   ```bash
+   npx prisma generate
+   npx prisma db push
+   ```
+
+3. **Iniciar el Servidor**
+   ```bash
+   npm run dev          # Inicia el Frontend (Vite)
+   npm run dev:server   # Inicia el Backend (Express)
+   ```
 
 ---
 
