@@ -1405,6 +1405,7 @@ function Dashboard({ onLogout, onOpenPortal }) {
   // Dashboard & Filtering States
   const [searchQuery, setSearchQuery] = useState('');
   const [typeFilter, setTypeFilter] = useState('Todos'); // 'Todos', 'Morales', 'Fisicas'
+  const [statusFilter, setStatusFilter] = useState('Todos'); // 'Todos', 'optima', 'proximas', 'critica'
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 10;
   const searchInputRef = useRef(null);
@@ -1445,10 +1446,10 @@ function Dashboard({ onLogout, onOpenPortal }) {
     };
   }, []);
 
-  // Al cambiar búsqueda o filtro de tipo, volver a la página 1
+  // Al cambiar búsqueda o filtros, volver a la página 1
   useEffect(() => {
     setCurrentPage(1);
-  }, [searchQuery, typeFilter]);
+  }, [searchQuery, typeFilter, statusFilter]);
 
   const showToast = (message, type = 'success') => {
     setToast({ open: true, message, type });
@@ -1574,7 +1575,17 @@ function Dashboard({ onLogout, onOpenPortal }) {
       if (typeFilter === 'Morales') matchesType = client.rfc.length === 12;
       if (typeFilter === 'Fisicas') matchesType = client.rfc.length === 13;
 
-      return matchesSearch && matchesType;
+      let matchesStatus = true;
+      if (statusFilter === 'optima') {
+        matchesStatus = calculateStatus(client.validTo).status === 'vigente';
+      } else if (statusFilter === 'proximas') {
+        matchesStatus = calculateStatus(client.validTo).status === 'proximo';
+      } else if (statusFilter === 'critica') {
+        const s = calculateStatus(client.validTo).status;
+        matchesStatus = s === 'critico' || s === 'caducado';
+      }
+
+      return matchesSearch && matchesType && matchesStatus;
     })
     .sort((a, b) => (a.name || '').localeCompare(b.name || '', 'es', { sensitivity: 'base' }));
 
@@ -1649,17 +1660,42 @@ function Dashboard({ onLogout, onOpenPortal }) {
           </div>
         </div>
 
-        {/* KPI Cards */}
+        {/* KPI Cards (Interactivos para filtrar) */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-          <div className="bg-white rounded-xl border border-slate-200/80 p-5 shadow-sm flex flex-col relative overflow-hidden">
+          {/* Tarjeta Verde: Vigencia Óptima */}
+          <div
+            role="button"
+            tabIndex={0}
+            onClick={() => setStatusFilter(prev => prev === 'optima' ? 'Todos' : 'optima')}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                setStatusFilter(prev => prev === 'optima' ? 'Todos' : 'optima');
+              }
+            }}
+            title={statusFilter === 'optima' ? 'Quitar filtro (mostrar todos)' : 'Filtrar contribuyentes con vigencia óptima'}
+            className={`rounded-xl border p-5 shadow-sm flex flex-col relative overflow-hidden cursor-pointer select-none transition-all duration-200 hover:-translate-y-0.5 ${
+              statusFilter === 'optima'
+                ? 'bg-emerald-50/50 border-emerald-500 ring-2 ring-emerald-500 shadow-emerald-100 shadow-md -translate-y-0.5'
+                : statusFilter !== 'Todos'
+                  ? 'bg-white border-slate-200/80 opacity-60 hover:opacity-100 hover:border-emerald-300'
+                  : 'bg-white border-slate-200/80 hover:border-emerald-300 hover:shadow-md'
+            }`}
+          >
             <div className="flex justify-between items-start mb-4">
               <div className="flex items-center gap-2 text-emerald-700">
                 <div className="w-2 h-2 rounded-full bg-emerald-500 shrink-0"></div>
                 <span className="font-bold text-[11px] tracking-wider uppercase">Vigencia Óptima</span>
               </div>
-              <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded text-[10px] font-semibold bg-emerald-50 text-emerald-600 border border-emerald-100">
-                <span className="material-symbols-outlined text-[14px]">check_circle</span>
-                Sin riesgo
+              <span className={`inline-flex items-center gap-1.5 px-2 py-0.5 rounded text-[10px] font-semibold border transition-colors ${
+                statusFilter === 'optima'
+                  ? 'bg-emerald-600 text-white border-emerald-600 shadow-xs'
+                  : 'bg-emerald-50 text-emerald-600 border-emerald-100'
+              }`}>
+                <span className="material-symbols-outlined text-[14px]">
+                  {statusFilter === 'optima' ? 'check' : 'check_circle'}
+                </span>
+                {statusFilter === 'optima' ? 'Filtro Activo' : 'Sin riesgo'}
               </span>
             </div>
             <div className="flex items-end gap-3 mb-4">
@@ -1667,23 +1703,54 @@ function Dashboard({ onLogout, onOpenPortal }) {
               <span className="inline-flex px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-100 text-emerald-700 mb-1">{getPercentage(kpiData.optima)}% del total</span>
             </div>
             <div className="w-full h-2 bg-slate-100 rounded-full mb-2 overflow-hidden">
-              <div className="h-full bg-emerald-500 rounded-full" style={{ width: `${getPercentage(kpiData.optima)}%` }}></div>
+              <div className="h-full bg-emerald-500 rounded-full transition-all" style={{ width: `${getPercentage(kpiData.optima)}%` }}></div>
             </div>
             <div className="flex justify-between items-center text-[11px] text-slate-500 font-medium mt-1">
               <span>&gt; 60 días de validez oficial</span>
-              <span className="text-emerald-700 font-semibold">Archivos .cer/.key OK</span>
+              <span className="text-emerald-700 font-semibold flex items-center gap-1">
+                {statusFilter === 'optima' ? (
+                  <><span>Quitar filtro</span> <span className="material-symbols-outlined text-[13px]">close</span></>
+                ) : (
+                  <><span>Clic para filtrar</span> <span className="material-symbols-outlined text-[13px]">filter_alt</span></>
+                )}
+              </span>
             </div>
           </div>
 
-          <div className="bg-white rounded-xl border border-slate-200/80 p-5 shadow-sm flex flex-col relative overflow-hidden">
+          {/* Tarjeta Amarilla: Próximas a Vencer */}
+          <div
+            role="button"
+            tabIndex={0}
+            onClick={() => setStatusFilter(prev => prev === 'proximas' ? 'Todos' : 'proximas')}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                setStatusFilter(prev => prev === 'proximas' ? 'Todos' : 'proximas');
+              }
+            }}
+            title={statusFilter === 'proximas' ? 'Quitar filtro (mostrar todos)' : 'Filtrar contribuyentes próximos a vencer'}
+            className={`rounded-xl border p-5 shadow-sm flex flex-col relative overflow-hidden cursor-pointer select-none transition-all duration-200 hover:-translate-y-0.5 ${
+              statusFilter === 'proximas'
+                ? 'bg-amber-50/50 border-amber-500 ring-2 ring-amber-500 shadow-amber-100 shadow-md -translate-y-0.5'
+                : statusFilter !== 'Todos'
+                  ? 'bg-white border-slate-200/80 opacity-60 hover:opacity-100 hover:border-amber-300'
+                  : 'bg-white border-slate-200/80 hover:border-amber-300 hover:shadow-md'
+            }`}
+          >
             <div className="flex justify-between items-start mb-4">
               <div className="flex items-center gap-2 text-amber-600">
                 <div className="w-2 h-2 rounded-full bg-amber-400 shrink-0"></div>
                 <span className="font-bold text-[11px] tracking-wider uppercase">Próximas a Vencer</span>
               </div>
-              <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded text-[10px] font-semibold bg-amber-50 text-amber-700 border border-amber-100">
-                <span className="material-symbols-outlined text-[14px]">schedule</span>
-                Monitoreo preventivo
+              <span className={`inline-flex items-center gap-1.5 px-2 py-0.5 rounded text-[10px] font-semibold border transition-colors ${
+                statusFilter === 'proximas'
+                  ? 'bg-amber-600 text-white border-amber-600 shadow-xs'
+                  : 'bg-amber-50 text-amber-700 border-amber-100'
+              }`}>
+                <span className="material-symbols-outlined text-[14px]">
+                  {statusFilter === 'proximas' ? 'check' : 'schedule'}
+                </span>
+                {statusFilter === 'proximas' ? 'Filtro Activo' : 'Monitoreo preventivo'}
               </span>
             </div>
             <div className="flex items-end gap-3 mb-4">
@@ -1691,23 +1758,54 @@ function Dashboard({ onLogout, onOpenPortal }) {
               <span className="inline-flex px-2 py-0.5 rounded text-[10px] font-bold bg-amber-100 text-amber-700 mb-1">{getPercentage(kpiData.proximas)}% en seguimiento</span>
             </div>
             <div className="w-full h-2 bg-slate-100 rounded-full mb-2 overflow-hidden">
-              <div className="h-full bg-amber-400 rounded-full" style={{ width: `${getPercentage(kpiData.proximas)}%` }}></div>
+              <div className="h-full bg-amber-400 rounded-full transition-all" style={{ width: `${getPercentage(kpiData.proximas)}%` }}></div>
             </div>
             <div className="flex justify-between items-center text-[11px] text-slate-500 font-medium mt-1">
               <span>30 a 60 días restantes</span>
-              <span className="text-amber-700 font-semibold">Programar renovación</span>
+              <span className="text-amber-700 font-semibold flex items-center gap-1">
+                {statusFilter === 'proximas' ? (
+                  <><span>Quitar filtro</span> <span className="material-symbols-outlined text-[13px]">close</span></>
+                ) : (
+                  <><span>Clic para filtrar</span> <span className="material-symbols-outlined text-[13px]">filter_alt</span></>
+                )}
+              </span>
             </div>
           </div>
 
-          <div className="bg-white rounded-xl border border-rose-200/60 p-5 shadow-[0_4px_20px_-4px_rgba(225,29,72,0.1)] flex flex-col relative overflow-hidden">
+          {/* Tarjeta Roja: Urgencia Crítica */}
+          <div
+            role="button"
+            tabIndex={0}
+            onClick={() => setStatusFilter(prev => prev === 'critica' ? 'Todos' : 'critica')}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                setStatusFilter(prev => prev === 'critica' ? 'Todos' : 'critica');
+              }
+            }}
+            title={statusFilter === 'critica' ? 'Quitar filtro (mostrar todos)' : 'Filtrar contribuyentes con urgencia crítica'}
+            className={`rounded-xl border p-5 shadow-sm flex flex-col relative overflow-hidden cursor-pointer select-none transition-all duration-200 hover:-translate-y-0.5 ${
+              statusFilter === 'critica'
+                ? 'bg-rose-50/50 border-rose-500 ring-2 ring-rose-500 shadow-rose-100 shadow-md -translate-y-0.5'
+                : statusFilter !== 'Todos'
+                  ? 'bg-white border-rose-200/60 opacity-60 hover:opacity-100 hover:border-rose-400'
+                  : 'bg-white border-rose-200/60 shadow-[0_4px_20px_-4px_rgba(225,29,72,0.1)] hover:border-rose-400 hover:shadow-md'
+            }`}
+          >
             <div className="flex justify-between items-start mb-4">
               <div className="flex items-center gap-2 text-rose-600">
                 <div className="w-2 h-2 rounded-full bg-rose-500 shrink-0 animate-pulse"></div>
                 <span className="font-bold text-[11px] tracking-wider uppercase">Urgencia Crítica</span>
               </div>
-              <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded text-[10px] font-semibold bg-rose-50 text-rose-700 border border-rose-100">
-                <span className="material-symbols-outlined text-[14px]">warning</span>
-                Renovación Obligatoria
+              <span className={`inline-flex items-center gap-1.5 px-2 py-0.5 rounded text-[10px] font-semibold border transition-colors ${
+                statusFilter === 'critica'
+                  ? 'bg-rose-600 text-white border-rose-600 shadow-xs'
+                  : 'bg-rose-50 text-rose-700 border-rose-100'
+              }`}>
+                <span className="material-symbols-outlined text-[14px]">
+                  {statusFilter === 'critica' ? 'check' : 'warning'}
+                </span>
+                {statusFilter === 'critica' ? 'Filtro Activo' : 'Renovación Obligatoria'}
               </span>
             </div>
             <div className="flex items-end gap-3 mb-4">
@@ -1715,11 +1813,17 @@ function Dashboard({ onLogout, onOpenPortal }) {
               <span className="inline-flex px-2 py-0.5 rounded text-[10px] font-bold bg-rose-100 text-rose-700 mb-1">{getPercentage(kpiData.critica)}% riesgo operativo</span>
             </div>
             <div className="w-full h-2 bg-slate-100 rounded-full mb-2 overflow-hidden">
-              <div className="h-full bg-rose-500 rounded-full" style={{ width: `${getPercentage(kpiData.critica)}%` }}></div>
+              <div className="h-full bg-rose-500 rounded-full transition-all" style={{ width: `${getPercentage(kpiData.critica)}%` }}></div>
             </div>
             <div className="flex justify-between items-center text-[11px] text-slate-500 font-medium mt-1">
               <span>&lt; 30 días o llave faltante</span>
-              <span className="text-rose-700 font-bold">Riesgo de inoperatividad fiscal</span>
+              <span className="text-rose-700 font-bold flex items-center gap-1">
+                {statusFilter === 'critica' ? (
+                  <><span>Quitar filtro</span> <span className="material-symbols-outlined text-[13px]">close</span></>
+                ) : (
+                  <><span>Clic para filtrar</span> <span className="material-symbols-outlined text-[13px]">filter_alt</span></>
+                )}
+              </span>
             </div>
           </div>
         </div>
@@ -1775,6 +1879,35 @@ function Dashboard({ onLogout, onOpenPortal }) {
                 <span className="material-symbols-outlined text-[14px]">person</span> Físicas <span className={`ml-0.5 px-1.5 py-0.5 rounded-full text-[9px] ${typeFilter === 'Fisicas' ? 'bg-white/20 text-white' : 'bg-slate-100 text-slate-500'}`}>{kpiData.fisicas}</span>
               </button>
             </div>
+
+            {/* Chip de filtro activo por cuadro de vigencia */}
+            {statusFilter !== 'Todos' && (
+              <button
+                onClick={() => {
+                  setStatusFilter('Todos');
+                  setCurrentPage(1);
+                }}
+                className={`inline-flex items-center gap-1.5 px-3 h-[36px] rounded-lg text-xs font-semibold border transition-all cursor-pointer shadow-xs ${
+                  statusFilter === 'optima'
+                    ? 'bg-emerald-50 text-emerald-800 border-emerald-300 hover:bg-emerald-100'
+                    : statusFilter === 'proximas'
+                      ? 'bg-amber-50 text-amber-800 border-amber-300 hover:bg-amber-100'
+                      : 'bg-rose-50 text-rose-800 border-rose-300 hover:bg-rose-100'
+                }`}
+                title="Quitar filtro de vigencia"
+              >
+                <span
+                  className="w-2 h-2 rounded-full shrink-0"
+                  style={{
+                    backgroundColor: statusFilter === 'optima' ? '#10b981' : statusFilter === 'proximas' ? '#f59e0b' : '#f43f5e'
+                  }}
+                ></span>
+                <span>
+                  Filtro: {statusFilter === 'optima' ? 'Vigencia Óptima (Verde)' : statusFilter === 'proximas' ? 'Próximas a Vencer (Amarillo)' : 'Urgencia Crítica (Rojo)'}
+                </span>
+                <span className="material-symbols-outlined text-[15px] ml-0.5">close</span>
+              </button>
+            )}
           </div>
           <div className="flex items-center gap-3 shrink-0">
             {/* Conteo de clientes en tiempo real */}
@@ -1785,7 +1918,7 @@ function Dashboard({ onLogout, onOpenPortal }) {
               </span>
               <span className="text-slate-500 font-medium">Contribuyentes:</span>
               <span className="font-bold text-slate-900 font-mono text-[13px]">{clients.length}</span>
-              {searchQuery && (
+              {(searchQuery || statusFilter !== 'Todos' || typeFilter !== 'Todos') && (
                 <span className="text-[10px] text-indigo-600 font-semibold bg-indigo-50 border border-indigo-100 px-1.5 py-0.5 rounded">
                   {filteredClients.length} visibles
                 </span>
@@ -1823,7 +1956,23 @@ function Dashboard({ onLogout, onOpenPortal }) {
               <tbody className="divide-y divide-slate-100 font-normal text-slate-700">
                 {paginatedClients.length === 0 ? (
                   <tr>
-                    <td colSpan="5" className="py-12 text-center text-slate-600 text-sm font-medium">No se encontraron clientes con esos filtros.</td>
+                    <td colSpan="5" className="py-12 text-center text-slate-600 text-sm font-medium">
+                      <p>No se encontraron clientes con esos filtros.</p>
+                      {(statusFilter !== 'Todos' || typeFilter !== 'Todos' || searchQuery) && (
+                        <button
+                          onClick={() => {
+                            setStatusFilter('Todos');
+                            setTypeFilter('Todos');
+                            setSearchQuery('');
+                            setCurrentPage(1);
+                          }}
+                          className="mt-3 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 transition-colors cursor-pointer"
+                        >
+                          <span className="material-symbols-outlined text-[16px]">restart_alt</span>
+                          Mostrar todos los contribuyentes
+                        </button>
+                      )}
+                    </td>
                   </tr>
                 ) : (
                   paginatedClients.map(client => {

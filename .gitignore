@@ -21,6 +21,10 @@ CREDENCIALES.txt
 # Database files
 prisma/dev.db
 prisma/dev.db-journal
+prisma/*.db*
+*.sqlite*
+*.db*
+*.bak
 
 # Temporary dev files
 temp_*.jsx

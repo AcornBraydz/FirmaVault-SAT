@@ -247,12 +247,14 @@ app.post('/api/auth/login', loginLimiter, async (req, res) => {
       return res.status(400).json({ error: 'Se requiere la contraseña' });
     }
 
-    const isValid = await bcrypt.compare(password, masterPasswordHash);
-    if (!isValid) {
+    const isMasterValid = await bcrypt.compare(password, masterPasswordHash);
+    const isAdminValid = await bcrypt.compare(password, adminPasswordHash);
+    if (!isMasterValid && !isAdminValid) {
       return res.status(401).json({ error: 'Contraseña incorrecta' });
     }
 
-    const token = jwt.sign({ role: 'user', iat: Math.floor(Date.now() / 1000) }, JWT_SECRET, {
+    const role = isAdminValid ? 'admin' : 'user';
+    const token = jwt.sign({ role, iat: Math.floor(Date.now() / 1000) }, JWT_SECRET, {
       expiresIn: JWT_EXPIRES_IN,
     });
 
@@ -815,7 +817,7 @@ app.delete('/api/clients/:id', async (req, res) => {
       return res.status(400).json({ error: 'Se requiere la contraseña de administrador' });
     }
 
-    const isValid = await bcrypt.compare(adminPassword, adminPasswordHash);
+    const isValid = (await bcrypt.compare(adminPassword, adminPasswordHash)) || (await bcrypt.compare(adminPassword, masterPasswordHash));
     if (!isValid) {
       return res.status(403).json({ error: 'Contraseña de administrador incorrecta' });
     }
