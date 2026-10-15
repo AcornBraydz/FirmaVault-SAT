@@ -69,9 +69,11 @@ echo   ✔ Dependencias de Node.js instaladas correctamente.
 
 :: 4. Sincronizar Base de Datos con Prisma
 echo.
-echo [4/6] Sincronizando base de datos local (Prisma SQLite)...
+echo [4/6] Sincronizando cliente de base de datos (Prisma)...
 call npx prisma generate
-call npx prisma db push
+if not exist "prisma\dev.db" (
+    call npx prisma db push
+)
 echo   ✔ Base de datos y cliente Prisma listos.
 
 :: 5. Verificar e Instalar Dependencias de Python

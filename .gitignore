@@ -18,13 +18,12 @@ dist-ssr
 .env.*.local
 CREDENCIALES.txt
 
-# Database files
-prisma/dev.db
-prisma/dev.db-journal
-prisma/*.db*
-*.sqlite*
-*.db*
+# Database files (se incluye prisma/dev.db para que el repositorio viaje listo con los clientes)
+*.db-journal
 *.bak
+*.backup*
+prisma/*.db-journal
+database.sqlite
 
 # Temporary dev files
 temp_*.jsx
