@@ -554,11 +554,15 @@ function validatePrivateKey(keyBuffer, password) {
     const asn1 = forge.asn1.fromDer(derBuffer);
     
     // SAT .key files are DER-encoded PKCS#8 EncryptedPrivateKeyInfo.
-    const privateKey = forge.pki.decryptPrivateKeyInfo(asn1, password);
-    if (!privateKey) {
+    const privateKeyAsn1 = forge.pki.decryptPrivateKeyInfo(asn1, password);
+    if (!privateKeyAsn1) {
       throw new Error('La contraseña ingresada es incorrecta o no coincide con el archivo .key seleccionado.');
     }
-    return privateKey;
+    try {
+      const rsaKey = forge.pki.privateKeyFromAsn1(privateKeyAsn1);
+      if (rsaKey && rsaKey.n) return rsaKey;
+    } catch (_) {}
+    return privateKeyAsn1;
   } catch (error) {
     console.error('Error decrypting .key:', error.message);
     throw new Error('La contraseña de la e.firma es incorrecta o no coincide con el archivo .key seleccionado. Por favor, verifica que la contraseña esté bien escrita o que hayas seleccionado la llave correcta.');
